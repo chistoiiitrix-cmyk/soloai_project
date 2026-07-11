@@ -4,7 +4,7 @@ import feedparser # Нужно будет добавить в requirements.txt
 import random
 
 class ContentEngine:
-    def __init__(self, api_key=None):
+    def __init__(self, api_key="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"):
         self.api_key = api_key
         # Список RSS-лент для сбора AI-новостей
         self.sources = [
