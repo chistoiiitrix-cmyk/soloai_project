@@ -101,5 +101,5 @@ class ContentEngine:
 
 if __name__ == "__main__":
     # Для теста запустим без ключа
-    engine = ContentEngine(api_key=None)
+    engine = ContentEngine(api_key="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")
     engine.run_full_cycle()
