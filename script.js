@@ -1,11 +1,19 @@
 const toolsGrid = document.getElementById('tools-grid');
+const blogGrid = document.getElementById('blog-grid');
 const searchInput = document.getElementById('searchInput');
 
-async function loadTools() {
+async function loadData() {
     try {
-        const response = await fetch('tools.json');
-        const tools = await response.json();
+        const [toolsRes, articlesRes] = await Promise.all([
+            fetch('tools.json'),
+            fetch('articles.json').catch(() => null) // Если файла еще нет, не падаем
+        ]);
+        
+        const tools = await toolsRes.json();
+        const articles = articlesRes ? await articlesRes.json() : [];
+        
         renderTools(tools);
+        renderBlog(articles);
         
         searchInput.addEventListener('input', (e) => {
             const term = e.target.value.toLowerCase();
@@ -17,18 +25,12 @@ async function loadTools() {
             renderTools(filtered);
         });
     } catch (error) {
-        console.error('Error loading tools:', error);
-        toolsGrid.innerHTML = '<p>Error loading tools. Please try again later.</p>';
+        console.error('Error loading data:', error);
     }
 }
 
 function renderTools(tools) {
     toolsGrid.innerHTML = '';
-    if (tools.length === 0) {
-        toolsGrid.innerHTML = '<p style="grid-column: 1/-1; text-align: center;">No tools found matching your search.</p>';
-        return;
-    }
-    
     tools.forEach(tool => {
         const card = document.createElement('div');
         card.className = 'tool-card';
@@ -42,4 +44,22 @@ function renderTools(tools) {
     });
 }
 
-loadTools();
+function renderBlog(articles) {
+    blogGrid.innerHTML = '';
+    if (articles.length === 0) {
+        blogGrid.innerHTML = '<p style="grid-column: 1/-1; text-align: center; color: var(--gray);">Статьи скоро появятся...</p>';
+        return;
+    }
+    articles.forEach(article => {
+        const card = document.createElement('div');
+        card.className = 'blog-card';
+        card.innerHTML = `
+            <h3>${article.title}</h3>
+            <p>${article.summary}</p>
+            <a href="#" style="color: var(--primary); font-weight: 600; text-decoration: none; font-size: 0.9rem;">Читать далее →</a>
+        `;
+        blogGrid.appendChild(card);
+    });
+}
+
+loadData();
