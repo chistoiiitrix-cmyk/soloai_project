@@ -4,7 +4,7 @@ from content_engine import ContentEngine
 
 # --- НАСТРОЙКА ---
 # ОБЯЗАТЕЛЬНО ВСТАВЬ СВОЙ КЛЮЧ СЮДА
-GROQ_API_KEY = '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' 
+GROQ_API_KEY = os.environ.get('GROQ_API_KEY', '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')
 
 def update_tools():
     print("🛠 Обновление базы инструментов...")
