@@ -1,8 +1,8 @@
 name: Daily Auto-Update
 on:
   schedule:
-    - cron: '0 0 * * *' # Каждый день в полночь
-  workflow_dispatch: # Позволяет запустить вручную
+    - cron: '0 */6 * * *' # Каждые 6 часов
+  workflow_dispatch: 
 permissions:
   contents: write
 jobs:
@@ -21,6 +21,9 @@ jobs:
         run: pip install requests feedparser
 
       - name: Run update bot
+        # Вот здесь мы передаем секрет в бота
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python bot.py
 
       - name: Commit and push changes
