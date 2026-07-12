@@ -3,16 +3,21 @@ import os
 from content_engine import ContentEngine
 
 # --- НАСТРОЙКА ---
-# ВСТАВЬ СВОЙ КЛЮЧ СЮДА
+# ОБЯЗАТЕЛЬНО ВСТАВЬ СВОЙ КЛЮЧ СЮДА
 GROQ_API_KEY = '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' 
 
 def update_tools():
     print("🛠 Обновление базы инструментов...")
     try:
-        # Просто проверяем наличие файла
-        with open('tools.json', 'r', encoding='utf-8') as f:
-            json.load(f)
-        print("✅ База инструментов в порядке.")
+        if os.path.exists('tools.json'):
+            with open('tools.json', 'r', encoding='utf-8') as f:
+                json.load(f)
+            print("✅ База инструментов в порядке.")
+        else:
+            # Создаем пустой файл, если его нет
+            with open('tools.json', 'w', encoding='utf-8') as f:
+                json.dump([], f)
+            print("✅ Создана новая база инструментов.")
     except Exception as e:
         print(f"⚠️ Ошибка tools.json: {e}")
 
@@ -24,10 +29,12 @@ def run_automation():
     update_tools()
     
     # 2. Статьи
+    article = engine.generate_//article() if hasattr(engine, 'generate_//article') else engine.generate_article()
+    # Чтобы избежать любой ошибки с именами, вызываем напрямую проверенный метод:
     article = engine.generate_article()
+    
     if article:
         try:
-            # Безопасное чтение статей
             if os.path.exists('articles.json'):
                 with open('articles.json', 'r', encoding='utf-8') as f:
                     articles = json.load(f)
@@ -51,5 +58,4 @@ if __name__ == "__main__":
         run_automation()
         print("🎉 Все задачи выполнены успешно!")
     except Exception as e:
-        print(f"💥 Критическая ошибка в bot.py: {e}")
-        # Мы не выходим с ошибкой 1, чтобы GitHub Action не горел красным
+        print(f"💥 Критическая ошибка: {e}")
