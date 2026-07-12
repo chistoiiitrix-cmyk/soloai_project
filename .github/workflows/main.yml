@@ -1,14 +1,10 @@
-name: Daily Tool Update
-
+name: Daily Auto-Update
 on:
   schedule:
-    - cron: '0 0 * * *' # Запуск каждый день в полночь
+    - cron: '0 0 * * *' # Каждый день в полночь
   workflow_dispatch: # Позволяет запустить вручную
-
-# Добавляем права на запись в репозиторий
 permissions:
   contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -21,6 +17,9 @@ jobs:
         with:
           python-version: '3.9'
 
+      - name: Install dependencies
+        run: pip install requests feedparser
+
       - name: Run update bot
         run: python bot.py
 
@@ -28,6 +27,6 @@ jobs:
         run: |
           git config --global user.name "SoloAI-Bot"
           git config --global user.email "bot@soloai.hub"
-          git add tools.json
-          git commit -m "Auto-update tools list" || echo "No changes to commit"
+          git add tools.json articles.json
+          git commit -m "Auto-update: tools and articles" || echo "No changes"
           git push
