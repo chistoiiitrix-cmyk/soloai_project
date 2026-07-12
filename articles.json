@@ -1,5 +1,12 @@
 [
     {
+        "title": "San Fran Sim",
+        "summary": "Новость: San Fran Sim. <p>\n            A startup tycoon game\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)...",
+        "content": "Новость: San Fran Sim. <p>\n            A startup tycoon game\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/san-fran-sim",
+        "date": "2026-07-12"
+    },
+    {
         "title": "Apple sues OpenAI over alleged trade secret theft",
         "summary": "Ошибка генерации контента....",
         "content": "Ошибка генерации контента.",
