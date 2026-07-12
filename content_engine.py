@@ -1,28 +1,28 @@
 import json
 import requests
-import feedparser # Нужно будет добавить в requirements.txt
+import feedparser
 import random
+from datetime import datetime
 
 class ContentEngine:
-    def __init__(self, api_key="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"):
+    def __init__(self, api_key=None):
         self.api_key = api_key
-        # Список RSS-лент для сбора AI-новостей
+        # Источники свежих AI-новостей
         self.sources = [
             "https://www.producthunt.com/feed",
-            "https://techcrunch.com/category/artificial-intelligence/feed/",
-            "https://futurepedia.io/rss" # Если доступно
+            "https://techcrunch.com/category/artificial-intelligence/feed/"
         ]
 
     def fetch_real_news(self):
-        print("Поиск свежих новостей...")
+        print("Поиск свежих новостей в сети...")
         all_news = []
         for url in self.sources:
             try:
                 feed = feedparser.parse(url)
-                for entry in feed.entries[:3]: # Берем по 3 последние записи из каждого источника
+                for entry in feed.entries[:3]: # Берем по 3 последние записи
                     all_news.append({
-                        "title": entry.title,
-                        "link": entry.link,
+                        "title": entry.title, 
+                        "link": entry.link, 
                         "summary": entry.get('summary', 'Нет описания')
                     })
             except Exception as e:
@@ -31,24 +31,22 @@ class ContentEngine:
 
     def ai_rewrite(self, text, mode="tg"):
         if not self.api_key:
-            # Если ключа нет, используем упрощенный шаблон (заглушка)
-            if mode == "tg":
-                return f"🔥 Свежий инструмент! {text[:50]}... Подробности на нашем сайте! 🚀"
-            return f"<h1>Обзор инструмента</h1><p>{text}</p>"
-
-        # Здесь логика запроса к API (например, Groq или OpenAI)
-        # Пример для Groq/OpenAI-compatible API:
+            return f"Новость: {text[:100]}... Подробности на сайте!"
+        
         try:
-            prompt = (
-                f"Перепиши этот текст для {'Telegram' if mode == 'tg' else 'SEO-статьи'}. "
-                f"Сделай его привлекательным, полезным и продающим. "
-                f"Текст: {text}"
-            )
+            # Разные промпты для разных целей
+            if mode == "tg":
+                prompt = f"Перепиши это для Telegram. Сделай текст коротким, дерзким, с эмодзи и призывом перейти на сайт. Текст: {text}"
+            else: # Режим для полноценной статьи в блог
+                prompt = f"Напиши полноценную SEO-статью для блога на основе этого текста: {text}. " \
+                          f"Структура: Заголовок, Введение, Основные преимущества (списком), Итог. " \
+                          f"Стиль: Экспертный, но доступный. Язык: Русский."
+
             response = requests.post(
                 "https://api.groq.com/openai/v1/chat/completions",
                 headers={"Authorization": f"Bearer {self.api_key}"},
                 json={
-                    "model": "llama3-8b-8192",
+                    "model": "llama3-8b-8192", 
                     "messages": [{"role": "user", "content": prompt}]
                 }
             )
@@ -57,49 +55,21 @@ class ContentEngine:
             print(f"Ошибка AI: {e}")
             return "Ошибка генерации контента."
 
-    def run_full_cycle(self, tg_bot=None):
+    def generate_article(self):
         news_list = self.fetch_real_news()
-        if not news_list:
-            print("Новостей не найдено.")
-            return
+        if not news_list: return None
 
-        # Выбираем одну случайную новость для 오늘의 поста
         news = random.choice(news_list)
-        print(f"Обработка новости: {news['title']}")
-
         raw_text = f"{news['title']}. {news['summary']}"
         
-        # Генерируем контент
-        tg_post = self.ai_rewrite(raw_text, mode="tg")
-        web_article = self.ai_rewrite(raw_text, mode="web")
+        # Генерируем полноценную статью и краткий анонс (summary) для карточки на сайте
+        full_content = self.ai_rewrite(raw_text, mode="web")
+        summary = self.ai_rewrite(raw_text, mode="tg")[:150] + "..."
 
-        # 1. Сохраняем статью на сайт (в новый файл articles.json)
-        self.save_article(news, web_article)
-
-        # 2. Пушим в ТГ
-        if tg_bot:
-            tg_bot.send_message(tg_post)
-
-        print("Цикл завершен успешно!")
-
-    def save_article(self, news, content):
-        try:
-            with open('articles.json', 'r', encoding='utf-8') as f:
-                articles = json.load(f)
-        except:
-            articles = []
-
-        articles.append({
+        return {
             "title": news['title'],
-            "content": content,
+            "summary": summary,
+            "content": full_content,
             "link": news['link'],
-            "date": "2026-07-11" # В реальности datetime.now()
-        })
-
-        with open('articles.json', 'w', encoding='utf-8') as f:
-            json.dump(articles, f, ensure_ascii=False, indent=4)
-
-if __name__ == "__main__":
-    # Для теста запустим без ключа
-    engine = ContentEngine(api_key="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")
-    engine.run_full_cycle()
+            "date": datetime.now().strftime("%Y-%m-%d")
+        }
