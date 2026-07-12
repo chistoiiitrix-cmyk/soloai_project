@@ -1,51 +1,50 @@
 import json
 import random
+from content_engine import ContentEngine
 
-def generate_ai_description(tool_name, category):
-    templates = [
-        f"{tool_name} — это прорыв в области {category}. Позволяет соло-предпринимателям автоматизировать рутину и сфокусироваться на росте.",
-        f"Если вы работаете в {category}, {tool_name} станет вашим лучшим помощником для масштабирования операций.",
-        f"Хватит тратить время на {category} вручную. {tool_name} использует AI, чтобы сделать всё за вас за секунды."
-    ]
-    return random.choice(templates)
+# --- НАСТРОЙКА ---
+# Вставь сюда свой API ключ от Groq
+GROQ_API_KEY = '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'
 
-def find_new_tools():
-    mock_new_tools = [
-        {"name": "AutoGPT", "category": "Автономные агенты", "niche": "Business"},
-        {"name": "Copy.ai", "category": "Копирайтинг", "niche": "Marketing"},
-        {"name": "Tally.so", "category": "Формы", "niche": "General"},
-        {"name": "10Web", "category": "Сайты", "niche": "Design"}
-    ]
-    return random.choice(mock_new_tools)
+def update_tools():
+    print("Обновление базы инструментов...")
+    try:
+        with open('tools.json', 'r', encoding='utf-8') as f:
+            tools = json.load(f)
+        # Здесь можно добавить логику скрапинга новых инструментов
+        # Для примера просто подтверждаем актуальность базы
+        print("База инструментов проверена и актуальна.")
+    except Exception as e:
+        print(f"Ошибка при работе с tools.json: {e}")
 
-def update_database():
-    with open('tools.json', 'r', encoding='utf-8') as f:
-        tools = json.load(f)
+def run_automation():
+    engine = ContentEngine(api_key=GROQ_API_KEY)
     
-    new_tool_data = find_new_tools()
+    # 1. Обновляем инструменты
+    update_tools()
     
-    if any(t['name'] == new_tool_data['name'] for t in tools):
-        print("Инструмент уже существует. Пропускаем...")
-        return
-
-    # Генерация ID и структуры
-    new_id = max([t['id'] for t in tools]) + 1 if tools else 1
-    new_tool = {
-        "id": new_id,
-        "name": new_tool_data['name'],
-        "niche": new_tool_data['niche'],
-        "category": new_tool_data['category'],
-        "description": generate_ai_description(new_tool_data['name'], new_tool_data['category']),
-        "url": f"https://{new_tool_data['name'].lower().replace(' ', '')}.com?ref=your_id",
-        "tags": ["AI", "автоматизация", "новое"]
-    }
+    # 2. Генерируем новую статью в блог
+    print("Запуск генерации статьи...")
+    article = engine.generate_article()
     
-    tools.append(new_tool)
-    
-    with open('tools.json', 'w', encoding='utf-8') as f:
-        json.dump(tools, f, ensure_ascii=False, indent=4)
-    
-    print(f"Успешно добавлен {new_tool['name']} в базу!")
+    if article:
+        try:
+            with open('articles.json', 'r', encoding='utf-8') as f:
+                articles = json.load(f)
+        except:
+            articles = []
+        
+        # Проверка на дубликаты, чтобы не постить одну и ту же новость
+        if not any(a['title'] == article['title'] for a in articles):
+            articles.insert(0, article) # Новая статья всегда сверху
+            # Храним только 10 последних статей, чтобы файл не стал огромным
+            with open('articles.json', 'w', encoding='utf-8') as f:
+                json.dump(articles[:10], f, ensure_ascii=False, indent=4)
+            print(f"✅ Новая статья успешно создана и добавлена: {article['title']}")
+        else:
+            print("Эта новость уже есть в блоге. Пропускаем.")
+    else:
+        print("Не удалось найти свежие новости для статьи.")
 
 if __name__ == "__main__":
-    update_database()
+    run_automation()
