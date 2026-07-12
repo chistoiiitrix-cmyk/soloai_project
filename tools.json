@@ -1,67 +1,26 @@
 [
     {
-        "id": 1,
         "name": "GigaChat",
-        "niche": "General",
         "category": "Чат-боты",
-        "description": "Мощная нейросеть от Сбера для работы с русским языком.",
-        "url": "https://gigachat.sberbank.ru?ref=your_id",
-        "tags": [
-            "бесплатно",
-            "РФ",
-            "текст"
-        ]
+        "description": "Мощная нейросеть от Сбера. Идеально подходит для работы с русским языком и генерации текстов.",
+        "url": "https://gigachat.sberbank.ru"
     },
     {
-        "id": 2,
-        "name": "Perplexity AI",
-        "niche": "Education",
-        "category": "Исследования",
-        "description": "AI-поисковик с пруфами. Идеально для курсовых и рефератов.",
-        "url": "https://perplexity.ai?ref=your_id",
-        "tags": [
-            "учеба",
-            "поиск",
-            "источники"
-        ]
+        "name": "YandexGPT",
+        "category": "Чат-боты",
+        "description": "AI-помощник от Яндекса. Лучший выбор для анализа данных в экосистеме Яндекса.",
+        "url": "https://ya.ru"
     },
     {
-        "id": 3,
-        "name": "Midjourney",
-        "niche": "Design",
-        "category": "Визуал",
-        "description": "Лучшая генерация изображений для профи.",
-        "url": "https://midjourney.com?ref=your_id",
-        "tags": [
-            "дизайн",
-            "картинки",
-            "арт"
-        ]
-    },
-    {
-        "id": 4,
-        "name": "Claude 3",
-        "niche": "Business",
+        "name": "Claude 3.5",
         "category": "Аналитика",
-        "description": "Лучшая работа с огромными текстами и документами.",
-        "url": "https://claude.ai?ref=your_id",
-        "tags": [
-            "бизнес",
-            "анализ",
-            "документы"
-        ]
+        "description": "Самая «умная» модель для работы со сложными текстами и программированием.",
+        "url": "https://claude.ai"
     },
     {
-        "id": 5,
-        "name": "Copy.ai",
-        "niche": "Marketing",
-        "category": "Копирайтинг",
-        "description": "Copy.ai — это прорыв в области Копирайтинг. Позволяет соло-предпринимателям автоматизировать рутину и сфокусироваться на росте.",
-        "url": "https://copy.ai.com?ref=your_id",
-        "tags": [
-            "AI",
-            "автоматизация",
-            "новое"
-        ]
+        "name": "Midjourney",
+        "category": "Визуал",
+        "description": "Золотой стандарт генерации изображений для дизайна и маркетинга.",
+        "url": "https://midjourney.com"
     }
 ]
