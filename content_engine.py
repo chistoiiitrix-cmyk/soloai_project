@@ -46,7 +46,7 @@ class ContentEngine:
         return all_news
 
     def ai_rewrite(self, text, mode="tg"):
-        if not self.api_key or self.api_key == 'ТВОЙ_КЛЮЧ_GROQ':
+        if not self.api_key or self.api_key == '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':
             return f"Новость: {text[:100]}... (Установите API ключ в bot.py)"
         
         try:
