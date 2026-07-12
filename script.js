@@ -4,6 +4,7 @@ const searchInput = document.getElementById('searchInput');
 
 async function loadData() {
     try {
+        // Загружаем оба файла одновременно
         const [toolsRes, articlesRes] = await Promise.all([
             fetch('tools.json'),
             fetch('articles.json').catch(() => null) // Если файла еще нет, не падаем
@@ -15,6 +16,7 @@ async function loadData() {
         renderTools(tools);
         renderBlog(articles);
         
+        // Поиск только по инструментам
         searchInput.addEventListener('input', (e) => {
             const term = e.target.value.toLowerCase();
             const filtered = tools.filter(tool => 
@@ -25,12 +27,16 @@ async function loadData() {
             renderTools(filtered);
         });
     } catch (error) {
-        console.error('Error loading data:', error);
+        console.error('Ошибка при загрузке данных:', error);
     }
 }
 
 function renderTools(tools) {
     toolsGrid.innerHTML = '';
+    if (tools.length === 0) {
+        toolsGrid.innerHTML = '<p style="grid-column: 1/-1; text-align: center; color: var(--gray);">Инструменты скоро появятся...</p>';
+        return;
+    }
     tools.forEach(tool => {
         const card = document.createElement('div');
         card.className = 'tool-card';
@@ -38,7 +44,7 @@ function renderTools(tools) {
             <span class="category">${tool.category}</span>
             <h3>${tool.name}</h3>
             <p>${tool.description}</p>
-            <a href="${tool.url}" target="_blank" class="btn-visit">Try for Free →</a>
+            <a href="${tool.url}" target="_blank" class="btn-visit">Попробовать →</a>
         `;
         toolsGrid.appendChild(card);
     });
