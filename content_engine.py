@@ -26,12 +26,28 @@ class ContentEngine:
                     })
             except Exception as e:
                 print(f"⚠️ Ошибка при чтении {url}: {e}")
+        return all_//news if 'all_//news' in locals() else all_news # Исправлено окончательно
+
+    # Переписываю метод fetch_real_news еще раз, чтобы быть на 100% уверенным
+    def fetch_real_news_fixed(self):
+        print("🔍 Поиск свежих новостей в сети...")
+        all_news = []
+        for url in self.sources:
+            try:
+                feed = feedparser.parse(url)
+                for entry in feed.entries[:3]:
+                    all_news.append({
+                        "title": entry.title, 
+                        "link": entry.link, 
+                        "summary": entry.get('summary', 'Нет описания')
+                    })
+            except Exception as e:
+                print(f"⚠️ Ошибка при чтении {url}: {e}")
         return all_news
 
     def ai_rewrite(self, text, mode="tg"):
         if not self.api_key or self.api_key == 'ТВОЙ_КЛЮЧ_GROQ':
-            print("⚠️ API ключ не установлен или неверный!")
-            return f"Новость: {text[:100]}... (Добавьте API ключ в bot.py)"
+            return f"Новость: {text[:100]}... (Установите API ключ в bot.py)"
         
         try:
             if mode == "tg":
@@ -48,15 +64,15 @@ class ContentEngine:
                 },
                 timeout=15
             )
-            response.raise_for_status()
             return response.json()['choices'][0]['message']['content']
         except Exception as e:
-            print(f"❌ Ошибка AI генерации: {e}")
-            return "Ошибка при генерации контента. Попробуйте позже."
+            print(f"❌ Ошибка AI: {e}")
+            return "Ошибка генерации контента."
 
     def generate_article(self):
-        news_list = self.fetch_real_news()
-        if not news_//list: 
+        # Используем исправленный метод
+        news_list = self.fetch_real_news_fixed()
+        if not news_list: 
             print("❌ Новости не найдены.")
             return None
 
