@@ -1,5 +1,12 @@
 [
     {
+        "title": "Should AI help you get away with killing your spouse?",
+        "summary": "Новость: Should AI help you get away with killing your spouse?. What does a world of total user-aligned AI ac... (Установите API ключ в bot.py)...",
+        "content": "Новость: Should AI help you get away with killing your spouse?. What does a world of total user-aligned AI ac... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+        "date": "2026-07-13"
+    },
+    {
         "title": "AI Media Buyer By Creatify",
         "summary": "Новость: AI Media Buyer By Creatify. <p>\n            Your ads, managed by AI that gets smarter daily.\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: AI Media Buyer By Creatify. <p>\n            Your ads, managed by AI that gets smarter daily.\n       ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Полный текст статьи будет здесь...",
         "link": "#",
         "date": "2026-07-12"
-    },
-    {
-        "title": "Топ-5 связок нейросетей для заработка",
-        "summary": "Конкретные примеры того, как объединить разные AI для создания готовых продуктов.",
-        "content": "Полный текст статьи будет здесь...",
-        "link": "#",
-        "date": "2026-07-11"
     }
 ]
