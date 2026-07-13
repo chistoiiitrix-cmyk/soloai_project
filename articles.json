@@ -1,5 +1,12 @@
 [
     {
+        "title": "JustVibe",
+        "summary": "Новость: JustVibe. <p>\n            The search engine for doing, with apps built for you\n          </p>\n      ... (Установите API ключ в bot.py)...",
+        "content": "Новость: JustVibe. <p>\n            The search engine for doing, with apps built for you\n          </p>\n      ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/justvibe",
+        "date": "2026-07-13"
+    },
+    {
         "title": "Meta removes controversial AI feature on Instagram after backlash",
         "summary": "Новость: Meta removes controversial AI feature on Instagram after backlash. \"Our intent was to provide a usef... (Установите API ключ в bot.py)...",
         "content": "Новость: Meta removes controversial AI feature on Instagram after backlash. \"Our intent was to provide a usef... (Установите API ключ в bot.py)",
