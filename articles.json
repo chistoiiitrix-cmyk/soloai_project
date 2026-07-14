@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pazi",
+        "summary": "Новость: Pazi. <p>\n            Vibe code business operations\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)...",
+        "content": "Новость: Pazi. <p>\n            Vibe code business operations\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/pazi",
+        "date": "2026-07-14"
+    },
+    {
         "title": "Sales Studio",
         "summary": "Новость: Sales Studio. <p>\n            Private studio for live demos on macOS\n          </p>\n          <p>\n  ... (Установите API ключ в bot.py)...",
         "content": "Новость: Sales Studio. <p>\n            Private studio for live demos on macOS\n          </p>\n          <p>\n  ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: San Fran Sim. <p>\n            A startup tycoon game\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)...",
         "content": "Новость: San Fran Sim. <p>\n            A startup tycoon game\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/san-fran-sim",
-        "date": "2026-07-12"
-    },
-    {
-        "title": "Apple sues OpenAI over alleged trade secret theft",
-        "summary": "Ошибка генерации контента....",
-        "content": "Ошибка генерации контента.",
-        "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
         "date": "2026-07-12"
     }
 ]
