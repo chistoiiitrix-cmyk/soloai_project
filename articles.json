@@ -1,5 +1,12 @@
 [
     {
+        "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+        "summary": "Новость: Hermes agent maker Nous Research in talks for new funding at $1.5B valuation. The company is raising... (Установите API ключ в bot.py)...",
+        "content": "Новость: Hermes agent maker Nous Research in talks for new funding at $1.5B valuation. The company is raising... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+        "date": "2026-07-14"
+    },
+    {
         "title": "Should AI help you get away with killing your spouse?",
         "summary": "Новость: Should AI help you get away with killing your spouse?. What does a world of total user-aligned AI ac... (Установите API ключ в bot.py)...",
         "content": "Новость: Should AI help you get away with killing your spouse?. What does a world of total user-aligned AI ac... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Ошибка генерации контента....",
         "content": "Ошибка генерации контента.",
         "link": "https://www.producthunt.com/products/cloudflare",
-        "date": "2026-07-12"
-    },
-    {
-        "title": "Как AI меняет бизнес в 2026 году",
-        "summary": "Разбираем основные тренды автоматизации и почему старые методы маркетинга больше не работают.",
-        "content": "Полный текст статьи будет здесь...",
-        "link": "#",
         "date": "2026-07-12"
     }
 ]
