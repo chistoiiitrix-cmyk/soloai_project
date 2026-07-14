@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sales Studio",
+        "summary": "Новость: Sales Studio. <p>\n            Private studio for live demos on macOS\n          </p>\n          <p>\n  ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Sales Studio. <p>\n            Private studio for live demos on macOS\n          </p>\n          <p>\n  ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/sales-studio",
+        "date": "2026-07-14"
+    },
+    {
         "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
         "summary": "Новость: Hermes agent maker Nous Research in talks for new funding at $1.5B valuation. The company is raising... (Установите API ключ в bot.py)...",
         "content": "Новость: Hermes agent maker Nous Research in talks for new funding at $1.5B valuation. The company is raising... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Ошибка генерации контента....",
         "content": "Ошибка генерации контента.",
         "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-        "date": "2026-07-12"
-    },
-    {
-        "title": "Cloudflare Drop",
-        "summary": "Ошибка генерации контента....",
-        "content": "Ошибка генерации контента.",
-        "link": "https://www.producthunt.com/products/cloudflare",
         "date": "2026-07-12"
     }
 ]
