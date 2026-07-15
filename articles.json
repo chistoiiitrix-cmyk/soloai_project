@@ -1,5 +1,12 @@
 [
     {
+        "title": "Velo 3.0",
+        "summary": "Новость: Velo 3.0. <p>\n            AI video infrastructure to explain, train, and sell faster.\n          </p>... (Установите API ключ в bot.py)...",
+        "content": "Новость: Velo 3.0. <p>\n            AI video infrastructure to explain, train, and sell faster.\n          </p>... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/velo-4",
+        "date": "2026-07-15"
+    },
+    {
         "title": "MentalHappy 3.0",
         "summary": "Новость: MentalHappy 3.0. <p>\n            Find & host online support groups that actually fill up\n          <... (Установите API ключ в bot.py)...",
         "content": "Новость: MentalHappy 3.0. <p>\n            Find & host online support groups that actually fill up\n          <... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Knockoff. <p>\n            Amazon, without the knockoffs\n          </p>\n          <p>\n            <a ... (Установите API ключ в bot.py)...",
         "content": "Новость: Knockoff. <p>\n            Amazon, without the knockoffs\n          </p>\n          <p>\n            <a ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/knockoff-2",
-        "date": "2026-07-13"
-    },
-    {
-        "title": "JustVibe",
-        "summary": "Новость: JustVibe. <p>\n            The search engine for doing, with apps built for you\n          </p>\n      ... (Установите API ключ в bot.py)...",
-        "content": "Новость: JustVibe. <p>\n            The search engine for doing, with apps built for you\n          </p>\n      ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/justvibe",
         "date": "2026-07-13"
     }
 ]
