@@ -1,5 +1,12 @@
 [
     {
+        "title": "MentalHappy 3.0",
+        "summary": "Новость: MentalHappy 3.0. <p>\n            Find & host online support groups that actually fill up\n          <... (Установите API ключ в bot.py)...",
+        "content": "Новость: MentalHappy 3.0. <p>\n            Find & host online support groups that actually fill up\n          <... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/mentalhappy",
+        "date": "2026-07-15"
+    },
+    {
         "title": "Mojave Paint",
         "summary": "Новость: Mojave Paint. <p>\n            Direct manipulation of static images on the Mac platform\n          </p... (Установите API ключ в bot.py)...",
         "content": "Новость: Mojave Paint. <p>\n            Direct manipulation of static images on the Mac platform\n          </p... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: JustVibe. <p>\n            The search engine for doing, with apps built for you\n          </p>\n      ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/justvibe",
         "date": "2026-07-13"
-    },
-    {
-        "title": "Meta removes controversial AI feature on Instagram after backlash",
-        "summary": "Новость: Meta removes controversial AI feature on Instagram after backlash. \"Our intent was to provide a usef... (Установите API ключ в bot.py)...",
-        "content": "Новость: Meta removes controversial AI feature on Instagram after backlash. \"Our intent was to provide a usef... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-        "date": "2026-07-12"
     }
 ]
