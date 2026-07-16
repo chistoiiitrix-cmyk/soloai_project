@@ -1,5 +1,12 @@
 [
     {
+        "title": "Google’s AI Mode now lets you link and interact with select apps",
+        "summary": "Новость: Google’s AI Mode now lets you link and interact with select apps. With this new update, Google is ex... (Установите API ключ в bot.py)...",
+        "content": "Новость: Google’s AI Mode now lets you link and interact with select apps. With this new update, Google is ex... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+        "date": "2026-07-16"
+    },
+    {
         "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
         "summary": "Новость: Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic. Microsoft is looking... (Установите API ключ в bot.py)...",
         "content": "Новость: Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic. Microsoft is looking... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Pazi. <p>\n            Vibe code business operations\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)...",
         "content": "Новость: Pazi. <p>\n            Vibe code business operations\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/pazi",
-        "date": "2026-07-14"
-    },
-    {
-        "title": "Sales Studio",
-        "summary": "Новость: Sales Studio. <p>\n            Private studio for live demos on macOS\n          </p>\n          <p>\n  ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Sales Studio. <p>\n            Private studio for live demos on macOS\n          </p>\n          <p>\n  ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/sales-studio",
         "date": "2026-07-14"
     }
 ]
