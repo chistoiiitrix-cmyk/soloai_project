@@ -1,5 +1,12 @@
 [
     {
+        "title": "RecordMeeting",
+        "summary": "Новость: RecordMeeting. <p>\n            Record and transcribe any calls without announcement\n          </p>\n ... (Установите API ключ в bot.py)...",
+        "content": "Новость: RecordMeeting. <p>\n            Record and transcribe any calls without announcement\n          </p>\n ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/recordmeeting",
+        "date": "2026-07-16"
+    },
+    {
         "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
         "summary": "Новость: Hack suggests AI music generator Suno scraped YouTube for training data. The hacker used an employee... (Установите API ключ в bot.py)...",
         "content": "Новость: Hack suggests AI music generator Suno scraped YouTube for training data. The hacker used an employee... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Should AI help you get away with killing your spouse?. What does a world of total user-aligned AI ac... (Установите API ключ в bot.py)...",
         "content": "Новость: Should AI help you get away with killing your spouse?. What does a world of total user-aligned AI ac... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-        "date": "2026-07-13"
-    },
-    {
-        "title": "AI Media Buyer By Creatify",
-        "summary": "Новость: AI Media Buyer By Creatify. <p>\n            Your ads, managed by AI that gets smarter daily.\n       ... (Установите API ключ в bot.py)...",
-        "content": "Новость: AI Media Buyer By Creatify. <p>\n            Your ads, managed by AI that gets smarter daily.\n       ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/creatify",
         "date": "2026-07-13"
     }
 ]
