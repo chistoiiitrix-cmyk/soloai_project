@@ -1,5 +1,12 @@
 [
     {
+        "title": "Verse",
+        "summary": "Новость: Verse. <p>\n            Build and hire autonomous AI employees from a single prompt\n          </p>\n  ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Verse. <p>\n            Build and hire autonomous AI employees from a single prompt\n          </p>\n  ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/verse-6",
+        "date": "2026-07-16"
+    },
+    {
         "title": "RecordMeeting",
         "summary": "Новость: RecordMeeting. <p>\n            Record and transcribe any calls without announcement\n          </p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: RecordMeeting. <p>\n            Record and transcribe any calls without announcement\n          </p>\n ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Hermes agent maker Nous Research in talks for new funding at $1.5B valuation. The company is raising... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
         "date": "2026-07-14"
-    },
-    {
-        "title": "Should AI help you get away with killing your spouse?",
-        "summary": "Новость: Should AI help you get away with killing your spouse?. What does a world of total user-aligned AI ac... (Установите API ключ в bot.py)...",
-        "content": "Новость: Should AI help you get away with killing your spouse?. What does a world of total user-aligned AI ac... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-        "date": "2026-07-13"
     }
 ]
