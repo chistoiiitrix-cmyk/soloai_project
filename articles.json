@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kimi K3",
+        "summary": "Новость: Kimi K3. <p>\n            The world's first open 3T-class model\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Kimi K3. <p>\n            The world's first open 3T-class model\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/kimi-ai-assistant",
+        "date": "2026-07-17"
+    },
+    {
         "title": "Pebbles Ai",
         "summary": "Новость: Pebbles Ai. <p>\n            AI sales platform for modern B2B teams\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)...",
         "content": "Новость: Pebbles Ai. <p>\n            AI sales platform for modern B2B teams\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: MentalHappy 3.0. <p>\n            Find & host online support groups that actually fill up\n          <... (Установите API ключ в bot.py)...",
         "content": "Новость: MentalHappy 3.0. <p>\n            Find & host online support groups that actually fill up\n          <... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/mentalhappy",
-        "date": "2026-07-15"
-    },
-    {
-        "title": "Mojave Paint",
-        "summary": "Новость: Mojave Paint. <p>\n            Direct manipulation of static images on the Mac platform\n          </p... (Установите API ключ в bot.py)...",
-        "content": "Новость: Mojave Paint. <p>\n            Direct manipulation of static images on the Mac platform\n          </p... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/mojave-paint",
         "date": "2026-07-15"
     }
 ]
