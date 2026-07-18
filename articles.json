@@ -1,5 +1,12 @@
 [
     {
+        "title": "The Zoom hack that says, ‘Don’t record me’",
+        "summary": "Новость: The Zoom hack that says, ‘Don’t record me’. If every meeting, watercooler conversation, and date get... (Установите API ключ в bot.py)...",
+        "content": "Новость: The Zoom hack that says, ‘Don’t record me’. If every meeting, watercooler conversation, and date get... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+        "date": "2026-07-18"
+    },
+    {
         "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
         "summary": "Новость: Patreon stops asking AI bots not to scrape — and starts blocking them. Patreon is strengthening its ... (Установите API ключ в bot.py)...",
         "content": "Новость: Patreon stops asking AI bots not to scrape — and starts blocking them. Patreon is strengthening its ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Hack suggests AI music generator Suno scraped YouTube for training data. The hacker used an employee... (Установите API ключ в bot.py)...",
         "content": "Новость: Hack suggests AI music generator Suno scraped YouTube for training data. The hacker used an employee... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-        "date": "2026-07-15"
-    },
-    {
-        "title": "Velo 3.0",
-        "summary": "Новость: Velo 3.0. <p>\n            AI video infrastructure to explain, train, and sell faster.\n          </p>... (Установите API ключ в bot.py)...",
-        "content": "Новость: Velo 3.0. <p>\n            AI video infrastructure to explain, train, and sell faster.\n          </p>... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/velo-4",
         "date": "2026-07-15"
     }
 ]
