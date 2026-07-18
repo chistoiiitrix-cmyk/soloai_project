@@ -1,5 +1,12 @@
 [
     {
+        "title": "ZooData",
+        "summary": "Новость: ZooData. <p>\n            The data layer for AI agents\n          </p>\n          <p>\n            <a hr... (Установите API ключ в bot.py)...",
+        "content": "Новость: ZooData. <p>\n            The data layer for AI agents\n          </p>\n          <p>\n            <a hr... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/zoodata",
+        "date": "2026-07-18"
+    },
+    {
         "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
         "summary": "Новость: Databricks hits $188B valuation, extending its run as AI’s favorite second act. Databricks has remad... (Установите API ключ в bot.py)...",
         "content": "Новость: Databricks hits $188B valuation, extending its run as AI’s favorite second act. Databricks has remad... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic. Microsoft is looking... (Установите API ключ в bot.py)...",
         "content": "Новость: Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic. Microsoft is looking... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-        "date": "2026-07-16"
-    },
-    {
-        "title": "Verse",
-        "summary": "Новость: Verse. <p>\n            Build and hire autonomous AI employees from a single prompt\n          </p>\n  ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Verse. <p>\n            Build and hire autonomous AI employees from a single prompt\n          </p>\n  ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/verse-6",
         "date": "2026-07-16"
     }
 ]
