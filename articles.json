@@ -1,5 +1,12 @@
 [
     {
+        "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+        "summary": "Новость: Databricks hits $188B valuation, extending its run as AI’s favorite second act. Databricks has remad... (Установите API ключ в bot.py)...",
+        "content": "Новость: Databricks hits $188B valuation, extending its run as AI’s favorite second act. Databricks has remad... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+        "date": "2026-07-18"
+    },
+    {
         "title": "Neil Rimer thinks the AI money is coming back out",
         "summary": "Новость: Neil Rimer thinks the AI money is coming back out. Neil Rimer, the venture capitalist who co-founded... (Установите API ключ в bot.py)...",
         "content": "Новость: Neil Rimer thinks the AI money is coming back out. Neil Rimer, the venture capitalist who co-founded... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Verse. <p>\n            Build and hire autonomous AI employees from a single prompt\n          </p>\n  ... (Установите API ключ в bot.py)...",
         "content": "Новость: Verse. <p>\n            Build and hire autonomous AI employees from a single prompt\n          </p>\n  ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/verse-6",
-        "date": "2026-07-16"
-    },
-    {
-        "title": "RecordMeeting",
-        "summary": "Новость: RecordMeeting. <p>\n            Record and transcribe any calls without announcement\n          </p>\n ... (Установите API ключ в bot.py)...",
-        "content": "Новость: RecordMeeting. <p>\n            Record and transcribe any calls without announcement\n          </p>\n ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/recordmeeting",
         "date": "2026-07-16"
     }
 ]
