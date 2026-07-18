@@ -1,5 +1,12 @@
 [
     {
+        "title": "Neil Rimer thinks the AI money is coming back out",
+        "summary": "Новость: Neil Rimer thinks the AI money is coming back out. Neil Rimer, the venture capitalist who co-founded... (Установите API ключ в bot.py)...",
+        "content": "Новость: Neil Rimer thinks the AI money is coming back out. Neil Rimer, the venture capitalist who co-founded... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+        "date": "2026-07-18"
+    },
+    {
         "title": "The Zoom hack that says, ‘Don’t record me’",
         "summary": "Новость: The Zoom hack that says, ‘Don’t record me’. If every meeting, watercooler conversation, and date get... (Установите API ключ в bot.py)...",
         "content": "Новость: The Zoom hack that says, ‘Don’t record me’. If every meeting, watercooler conversation, and date get... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: RecordMeeting. <p>\n            Record and transcribe any calls without announcement\n          </p>\n ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/recordmeeting",
         "date": "2026-07-16"
-    },
-    {
-        "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-        "summary": "Новость: Hack suggests AI music generator Suno scraped YouTube for training data. The hacker used an employee... (Установите API ключ в bot.py)...",
-        "content": "Новость: Hack suggests AI music generator Suno scraped YouTube for training data. The hacker used an employee... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-        "date": "2026-07-15"
     }
 ]
