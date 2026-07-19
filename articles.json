@@ -1,5 +1,12 @@
 [
     {
+        "title": "Acebuilder",
+        "summary": "Новость: Acebuilder. <p>\n            Build landing pages with Aceternity UI\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Acebuilder. <p>\n            Build landing pages with Aceternity UI\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/acebuilder",
+        "date": "2026-07-19"
+    },
+    {
         "title": "ZooData",
         "summary": "Новость: ZooData. <p>\n            The data layer for AI agents\n          </p>\n          <p>\n            <a hr... (Установите API ключ в bot.py)...",
         "content": "Новость: ZooData. <p>\n            The data layer for AI agents\n          </p>\n          <p>\n            <a hr... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Google’s AI Mode now lets you link and interact with select apps. With this new update, Google is ex... (Установите API ключ в bot.py)...",
         "content": "Новость: Google’s AI Mode now lets you link and interact with select apps. With this new update, Google is ex... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-        "date": "2026-07-16"
-    },
-    {
-        "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-        "summary": "Новость: Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic. Microsoft is looking... (Установите API ключ в bot.py)...",
-        "content": "Новость: Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic. Microsoft is looking... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
         "date": "2026-07-16"
     }
 ]
