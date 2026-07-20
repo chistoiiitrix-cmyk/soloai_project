@@ -1,5 +1,12 @@
 [
     {
+        "title": "Spycost",
+        "summary": "Новость: Spycost. <p>\n            Fell for a discount again?\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)...",
+        "content": "Новость: Spycost. <p>\n            Fell for a discount again?\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/spycost",
+        "date": "2026-07-20"
+    },
+    {
         "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
         "summary": "Новость: ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’. \"Everybody knows the Greeks... (Установите API ключ в bot.py)...",
         "content": "Новость: ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’. \"Everybody knows the Greeks... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Kimi K3. <p>\n            The world's first open 3T-class model\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)...",
         "content": "Новость: Kimi K3. <p>\n            The world's first open 3T-class model\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/kimi-ai-assistant",
-        "date": "2026-07-17"
-    },
-    {
-        "title": "Pebbles Ai",
-        "summary": "Новость: Pebbles Ai. <p>\n            AI sales platform for modern B2B teams\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Pebbles Ai. <p>\n            AI sales platform for modern B2B teams\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/pebbles-ai",
         "date": "2026-07-17"
     }
 ]
