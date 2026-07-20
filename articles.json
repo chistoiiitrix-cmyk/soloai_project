@@ -1,5 +1,12 @@
 [
     {
+        "title": "Adobe camera app’s new feature will critique your photos using AI",
+        "summary": "Новость: Adobe camera app’s new feature will critique your photos using AI. Adobe's Project Indigo can now re... (Установите API ключ в bot.py)...",
+        "content": "Новость: Adobe camera app’s new feature will critique your photos using AI. Adobe's Project Indigo can now re... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+        "date": "2026-07-20"
+    },
+    {
         "title": "Skippr AI",
         "summary": "Новость: Skippr AI. <p>\n            The live AI employee inside your product, serving every user\n          </... (Установите API ключ в bot.py)...",
         "content": "Новость: Skippr AI. <p>\n            The live AI employee inside your product, serving every user\n          </... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Neil Rimer thinks the AI money is coming back out. Neil Rimer, the venture capitalist who co-founded... (Установите API ключ в bot.py)...",
         "content": "Новость: Neil Rimer thinks the AI money is coming back out. Neil Rimer, the venture capitalist who co-founded... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-        "date": "2026-07-18"
-    },
-    {
-        "title": "The Zoom hack that says, ‘Don’t record me’",
-        "summary": "Новость: The Zoom hack that says, ‘Don’t record me’. If every meeting, watercooler conversation, and date get... (Установите API ключ в bot.py)...",
-        "content": "Новость: The Zoom hack that says, ‘Don’t record me’. If every meeting, watercooler conversation, and date get... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
         "date": "2026-07-18"
     }
 ]
