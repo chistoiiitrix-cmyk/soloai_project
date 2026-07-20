@@ -1,5 +1,12 @@
 [
     {
+        "title": "Skippr AI",
+        "summary": "Новость: Skippr AI. <p>\n            The live AI employee inside your product, serving every user\n          </... (Установите API ключ в bot.py)...",
+        "content": "Новость: Skippr AI. <p>\n            The live AI employee inside your product, serving every user\n          </... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/skippr-3",
+        "date": "2026-07-20"
+    },
+    {
         "title": "Reignat",
         "summary": "Новость: Reignat. <p>\n            Privacy-friendly web analytics with realtime AI insights\n          </p>\n   ... (Установите API ключ в bot.py)...",
         "content": "Новость: Reignat. <p>\n            Privacy-friendly web analytics with realtime AI insights\n          </p>\n   ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: The Zoom hack that says, ‘Don’t record me’. If every meeting, watercooler conversation, and date get... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
         "date": "2026-07-18"
-    },
-    {
-        "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-        "summary": "Новость: Patreon stops asking AI bots not to scrape — and starts blocking them. Patreon is strengthening its ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Patreon stops asking AI bots not to scrape — and starts blocking them. Patreon is strengthening its ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-        "date": "2026-07-17"
     }
 ]
