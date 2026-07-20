@@ -1,5 +1,12 @@
 [
     {
+        "title": "Reignat",
+        "summary": "Новость: Reignat. <p>\n            Privacy-friendly web analytics with realtime AI insights\n          </p>\n   ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Reignat. <p>\n            Privacy-friendly web analytics with realtime AI insights\n          </p>\n   ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/reignat",
+        "date": "2026-07-20"
+    },
+    {
         "title": "Spycost",
         "summary": "Новость: Spycost. <p>\n            Fell for a discount again?\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)...",
         "content": "Новость: Spycost. <p>\n            Fell for a discount again?\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Patreon stops asking AI bots not to scrape — and starts blocking them. Patreon is strengthening its ... (Установите API ключ в bot.py)...",
         "content": "Новость: Patreon stops asking AI bots not to scrape — and starts blocking them. Patreon is strengthening its ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-        "date": "2026-07-17"
-    },
-    {
-        "title": "Kimi K3",
-        "summary": "Новость: Kimi K3. <p>\n            The world's first open 3T-class model\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Kimi K3. <p>\n            The world's first open 3T-class model\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/kimi-ai-assistant",
         "date": "2026-07-17"
     }
 ]
