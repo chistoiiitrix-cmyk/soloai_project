@@ -1,5 +1,12 @@
 [
     {
+        "title": "DualStream",
+        "summary": "Новость: DualStream. <p>\n            Simultaneous desktop and mobile streaming, the easy way.\n          </p>\n... (Установите API ключ в bot.py)...",
+        "content": "Новость: DualStream. <p>\n            Simultaneous desktop and mobile streaming, the easy way.\n          </p>\n... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/dualstream",
+        "date": "2026-07-21"
+    },
+    {
         "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
         "summary": "Новость: Anthropic’s landmark $1.5B copyright settlement is approved. The final approval settles one case, bu... (Установите API ключ в bot.py)...",
         "content": "Новость: Anthropic’s landmark $1.5B copyright settlement is approved. The final approval settles one case, bu... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Acebuilder. <p>\n            Build landing pages with Aceternity UI\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/acebuilder",
         "date": "2026-07-19"
-    },
-    {
-        "title": "ZooData",
-        "summary": "Новость: ZooData. <p>\n            The data layer for AI agents\n          </p>\n          <p>\n            <a hr... (Установите API ключ в bot.py)...",
-        "content": "Новость: ZooData. <p>\n            The data layer for AI agents\n          </p>\n          <p>\n            <a hr... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/zoodata",
-        "date": "2026-07-18"
     }
 ]
