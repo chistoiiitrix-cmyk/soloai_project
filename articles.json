@@ -1,5 +1,12 @@
 [
     {
+        "title": "Replay QA",
+        "summary": "Новость: Replay QA. <p>\n            Replay QA tells you what is broken before your users do\n          </p>\n  ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Replay QA. <p>\n            Replay QA tells you what is broken before your users do\n          </p>\n  ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/replayio",
+        "date": "2026-07-21"
+    },
+    {
         "title": "Adobe camera app’s new feature will critique your photos using AI",
         "summary": "Новость: Adobe camera app’s new feature will critique your photos using AI. Adobe's Project Indigo can now re... (Установите API ключ в bot.py)...",
         "content": "Новость: Adobe camera app’s new feature will critique your photos using AI. Adobe's Project Indigo can now re... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Databricks hits $188B valuation, extending its run as AI’s favorite second act. Databricks has remad... (Установите API ключ в bot.py)...",
         "content": "Новость: Databricks hits $188B valuation, extending its run as AI’s favorite second act. Databricks has remad... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-        "date": "2026-07-18"
-    },
-    {
-        "title": "Neil Rimer thinks the AI money is coming back out",
-        "summary": "Новость: Neil Rimer thinks the AI money is coming back out. Neil Rimer, the venture capitalist who co-founded... (Установите API ключ в bot.py)...",
-        "content": "Новость: Neil Rimer thinks the AI money is coming back out. Neil Rimer, the venture capitalist who co-founded... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
         "date": "2026-07-18"
     }
 ]
