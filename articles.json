@@ -1,5 +1,12 @@
 [
     {
+        "title": "Data centers expected to use 4x more electricity by 2035",
+        "summary": "Новость: Data centers expected to use 4x more electricity by 2035. New data centers built through 2033 could ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Data centers expected to use 4x more electricity by 2035. New data centers built through 2033 could ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+        "date": "2026-07-21"
+    },
+    {
         "title": "DualStream",
         "summary": "Новость: DualStream. <p>\n            Simultaneous desktop and mobile streaming, the easy way.\n          </p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: DualStream. <p>\n            Simultaneous desktop and mobile streaming, the easy way.\n          </p>\n... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: OpenSEO. <p>\n            The open source Ahrefs alternative\n          </p>\n          <p>\n           ... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenSEO. <p>\n            The open source Ahrefs alternative\n          </p>\n          <p>\n           ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/openseo",
-        "date": "2026-07-19"
-    },
-    {
-        "title": "Acebuilder",
-        "summary": "Новость: Acebuilder. <p>\n            Build landing pages with Aceternity UI\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Acebuilder. <p>\n            Build landing pages with Aceternity UI\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/acebuilder",
         "date": "2026-07-19"
     }
 ]
