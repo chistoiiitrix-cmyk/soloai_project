@@ -1,5 +1,12 @@
 [
     {
+        "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+        "summary": "Новость: Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents. Buzz ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents. Buzz ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+        "date": "2026-07-22"
+    },
+    {
         "title": "Data centers expected to use 4x more electricity by 2035",
         "summary": "Новость: Data centers expected to use 4x more electricity by 2035. New data centers built through 2033 could ... (Установите API ключ в bot.py)...",
         "content": "Новость: Data centers expected to use 4x more electricity by 2035. New data centers built through 2033 could ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’. \"Everybody knows the Greeks... (Установите API ключ в bot.py)...",
         "content": "Новость: ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’. \"Everybody knows the Greeks... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-        "date": "2026-07-19"
-    },
-    {
-        "title": "OpenSEO",
-        "summary": "Новость: OpenSEO. <p>\n            The open source Ahrefs alternative\n          </p>\n          <p>\n           ... (Установите API ключ в bot.py)...",
-        "content": "Новость: OpenSEO. <p>\n            The open source Ahrefs alternative\n          </p>\n          <p>\n           ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/openseo",
         "date": "2026-07-19"
     }
 ]
