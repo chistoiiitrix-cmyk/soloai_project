@@ -1,5 +1,12 @@
 [
     {
+        "title": "MonoCloud for Startups",
+        "summary": "Новость: MonoCloud for Startups. <p>\n            One identity layer for your customers, APIs, and agents\n    ... (Установите API ключ в bot.py)...",
+        "content": "Новость: MonoCloud for Startups. <p>\n            One identity layer for your customers, APIs, and agents\n    ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/monocloud-for-startups-free-for-1-year",
+        "date": "2026-07-22"
+    },
+    {
         "title": "Meta is testing an AI bedtime story app for people with no imagination",
         "summary": "Новость: Meta is testing an AI bedtime story app for people with no imagination. At last, a tech company has ... (Установите API ключ в bot.py)...",
         "content": "Новость: Meta is testing an AI bedtime story app for people with no imagination. At last, a tech company has ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Reignat. <p>\n            Privacy-friendly web analytics with realtime AI insights\n          </p>\n   ... (Установите API ключ в bot.py)...",
         "content": "Новость: Reignat. <p>\n            Privacy-friendly web analytics with realtime AI insights\n          </p>\n   ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/reignat",
-        "date": "2026-07-20"
-    },
-    {
-        "title": "Spycost",
-        "summary": "Новость: Spycost. <p>\n            Fell for a discount again?\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)...",
-        "content": "Новость: Spycost. <p>\n            Fell for a discount again?\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/spycost",
         "date": "2026-07-20"
     }
 ]
