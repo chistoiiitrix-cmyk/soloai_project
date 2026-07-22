@@ -1,5 +1,12 @@
 [
     {
+        "title": "Meta is testing an AI bedtime story app for people with no imagination",
+        "summary": "Новость: Meta is testing an AI bedtime story app for people with no imagination. At last, a tech company has ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Meta is testing an AI bedtime story app for people with no imagination. At last, a tech company has ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+        "date": "2026-07-22"
+    },
+    {
         "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
         "summary": "Новость: Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents. Buzz ... (Установите API ключ в bot.py)...",
         "content": "Новость: Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents. Buzz ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Spycost. <p>\n            Fell for a discount again?\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/spycost",
         "date": "2026-07-20"
-    },
-    {
-        "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-        "summary": "Новость: ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’. \"Everybody knows the Greeks... (Установите API ключ в bot.py)...",
-        "content": "Новость: ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’. \"Everybody knows the Greeks... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-        "date": "2026-07-19"
     }
 ]
