@@ -1,5 +1,12 @@
 [
     {
+        "title": "Runway launches AI model router as generative media gets crowded",
+        "summary": "Новость: Runway launches AI model router as generative media gets crowded. The Media Router is a tool that au... (Установите API ключ в bot.py)...",
+        "content": "Новость: Runway launches AI model router as generative media gets crowded. The Media Router is a tool that au... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+        "date": "2026-07-23"
+    },
+    {
         "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
         "summary": "Новость: Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good. \"I don't think you get a mod... (Установите API ключ в bot.py)...",
         "content": "Новость: Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good. \"I don't think you get a mod... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: DualStream. <p>\n            Simultaneous desktop and mobile streaming, the easy way.\n          </p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: DualStream. <p>\n            Simultaneous desktop and mobile streaming, the easy way.\n          </p>\n... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/dualstream",
-        "date": "2026-07-21"
-    },
-    {
-        "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-        "summary": "Новость: Anthropic’s landmark $1.5B copyright settlement is approved. The final approval settles one case, bu... (Установите API ключ в bot.py)...",
-        "content": "Новость: Anthropic’s landmark $1.5B copyright settlement is approved. The final approval settles one case, bu... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
         "date": "2026-07-21"
     }
 ]
