@@ -1,5 +1,12 @@
 [
     {
+        "title": "Astartis x Codex",
+        "summary": "Новость: Astartis x Codex. <p>\n            Enterprise developer security control plane around evidence\n      ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Astartis x Codex. <p>\n            Enterprise developer security control plane around evidence\n      ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/astartis-x-codex",
+        "date": "2026-07-23"
+    },
+    {
         "title": "Arkor",
         "summary": "Новость: Arkor. <p>\n            Fine-tune and Deploy Open-weight Models in TypeScript\n          </p>\n        ... (Установите API ключ в bot.py)...",
         "content": "Новость: Arkor. <p>\n            Fine-tune and Deploy Open-weight Models in TypeScript\n          </p>\n        ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Replay QA. <p>\n            Replay QA tells you what is broken before your users do\n          </p>\n  ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/replayio",
         "date": "2026-07-21"
-    },
-    {
-        "title": "Adobe camera app’s new feature will critique your photos using AI",
-        "summary": "Новость: Adobe camera app’s new feature will critique your photos using AI. Adobe's Project Indigo can now re... (Установите API ключ в bot.py)...",
-        "content": "Новость: Adobe camera app’s new feature will critique your photos using AI. Adobe's Project Indigo can now re... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-        "date": "2026-07-20"
     }
 ]
