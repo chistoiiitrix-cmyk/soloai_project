@@ -1,5 +1,12 @@
 [
     {
+        "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+        "summary": "Новость: Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good. \"I don't think you get a mod... (Установите API ключ в bot.py)...",
+        "content": "Новость: Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good. \"I don't think you get a mod... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+        "date": "2026-07-23"
+    },
+    {
         "title": "Astartis x Codex",
         "summary": "Новость: Astartis x Codex. <p>\n            Enterprise developer security control plane around evidence\n      ... (Установите API ключ в bot.py)...",
         "content": "Новость: Astartis x Codex. <p>\n            Enterprise developer security control plane around evidence\n      ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Anthropic’s landmark $1.5B copyright settlement is approved. The final approval settles one case, bu... (Установите API ключ в bot.py)...",
         "content": "Новость: Anthropic’s landmark $1.5B copyright settlement is approved. The final approval settles one case, bu... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-        "date": "2026-07-21"
-    },
-    {
-        "title": "Replay QA",
-        "summary": "Новость: Replay QA. <p>\n            Replay QA tells you what is broken before your users do\n          </p>\n  ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Replay QA. <p>\n            Replay QA tells you what is broken before your users do\n          </p>\n  ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/replayio",
         "date": "2026-07-21"
     }
 ]
