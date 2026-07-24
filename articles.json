@@ -1,5 +1,12 @@
 [
     {
+        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+        "summary": "Новость: How AI guardrails are impeding the work of offensive cybersecurity researchers. We spoke with severa... (Установите API ключ в bot.py)...",
+        "content": "Новость: How AI guardrails are impeding the work of offensive cybersecurity researchers. We spoke with severa... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+        "date": "2026-07-24"
+    },
+    {
         "title": "AgentLoop",
         "summary": "Новость: AgentLoop. <p>\n            Starts a fresh Codex worker and critic every cycle\n          </p>\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: AgentLoop. <p>\n            Starts a fresh Codex worker and critic every cycle\n          </p>\n       ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents. Buzz ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
         "date": "2026-07-22"
-    },
-    {
-        "title": "Data centers expected to use 4x more electricity by 2035",
-        "summary": "Новость: Data centers expected to use 4x more electricity by 2035. New data centers built through 2033 could ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Data centers expected to use 4x more electricity by 2035. New data centers built through 2033 could ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
-        "date": "2026-07-21"
     }
 ]
