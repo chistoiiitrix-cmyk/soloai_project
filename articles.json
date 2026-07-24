@@ -1,5 +1,12 @@
 [
     {
+        "title": "AgentLoop",
+        "summary": "Новость: AgentLoop. <p>\n            Starts a fresh Codex worker and critic every cycle\n          </p>\n       ... (Установите API ключ в bot.py)...",
+        "content": "Новость: AgentLoop. <p>\n            Starts a fresh Codex worker and critic every cycle\n          </p>\n       ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/agentloop-2",
+        "date": "2026-07-24"
+    },
+    {
         "title": "Runway launches AI model router as generative media gets crowded",
         "summary": "Новость: Runway launches AI model router as generative media gets crowded. The Media Router is a tool that au... (Установите API ключ в bot.py)...",
         "content": "Новость: Runway launches AI model router as generative media gets crowded. The Media Router is a tool that au... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Data centers expected to use 4x more electricity by 2035. New data centers built through 2033 could ... (Установите API ключ в bot.py)...",
         "content": "Новость: Data centers expected to use 4x more electricity by 2035. New data centers built through 2033 could ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
-        "date": "2026-07-21"
-    },
-    {
-        "title": "DualStream",
-        "summary": "Новость: DualStream. <p>\n            Simultaneous desktop and mobile streaming, the easy way.\n          </p>\n... (Установите API ключ в bot.py)...",
-        "content": "Новость: DualStream. <p>\n            Simultaneous desktop and mobile streaming, the easy way.\n          </p>\n... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/dualstream",
         "date": "2026-07-21"
     }
 ]
