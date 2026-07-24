@@ -1,5 +1,12 @@
 [
     {
+        "title": "Fluree AI",
+        "summary": "Новость: Fluree AI. <p>\n            Give every AI agent trusted context\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Fluree AI. <p>\n            Give every AI agent trusted context\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/fluree",
+        "date": "2026-07-24"
+    },
+    {
         "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
         "summary": "Новость: AMD takes on Nvidia with its Helios AI rack-scale system. AMD is challenging its chipmaker rival wit... (Установите API ключ в bot.py)...",
         "content": "Новость: AMD takes on Nvidia with its Helios AI rack-scale system. AMD is challenging its chipmaker rival wit... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: MonoCloud for Startups. <p>\n            One identity layer for your customers, APIs, and agents\n    ... (Установите API ключ в bot.py)...",
         "content": "Новость: MonoCloud for Startups. <p>\n            One identity layer for your customers, APIs, and agents\n    ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/monocloud-for-startups-free-for-1-year",
-        "date": "2026-07-22"
-    },
-    {
-        "title": "Meta is testing an AI bedtime story app for people with no imagination",
-        "summary": "Новость: Meta is testing an AI bedtime story app for people with no imagination. At last, a tech company has ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Meta is testing an AI bedtime story app for people with no imagination. At last, a tech company has ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
         "date": "2026-07-22"
     }
 ]
