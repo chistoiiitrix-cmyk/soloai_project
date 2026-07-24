@@ -1,5 +1,12 @@
 [
     {
+        "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+        "summary": "Новость: AMD takes on Nvidia with its Helios AI rack-scale system. AMD is challenging its chipmaker rival wit... (Установите API ключ в bot.py)...",
+        "content": "Новость: AMD takes on Nvidia with its Helios AI rack-scale system. AMD is challenging its chipmaker rival wit... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+        "date": "2026-07-24"
+    },
+    {
         "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
         "summary": "Новость: How AI guardrails are impeding the work of offensive cybersecurity researchers. We spoke with severa... (Установите API ключ в bot.py)...",
         "content": "Новость: How AI guardrails are impeding the work of offensive cybersecurity researchers. We spoke with severa... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Meta is testing an AI bedtime story app for people with no imagination. At last, a tech company has ... (Установите API ключ в bot.py)...",
         "content": "Новость: Meta is testing an AI bedtime story app for people with no imagination. At last, a tech company has ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-        "date": "2026-07-22"
-    },
-    {
-        "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-        "summary": "Новость: Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents. Buzz ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents. Buzz ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
         "date": "2026-07-22"
     }
 ]
