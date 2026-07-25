@@ -1,5 +1,12 @@
 [
     {
+        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+        "summary": "Новость: I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to ev... (Установите API ключ в bot.py)...",
+        "content": "Новость: I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to ev... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+        "date": "2026-07-25"
+    },
+    {
         "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
         "summary": "Новость: Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M. The neolab is b... (Установите API ключ в bot.py)...",
         "content": "Новость: Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M. The neolab is b... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Astartis x Codex. <p>\n            Enterprise developer security control plane around evidence\n      ... (Установите API ключ в bot.py)...",
         "content": "Новость: Astartis x Codex. <p>\n            Enterprise developer security control plane around evidence\n      ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/astartis-x-codex",
-        "date": "2026-07-23"
-    },
-    {
-        "title": "Arkor",
-        "summary": "Новость: Arkor. <p>\n            Fine-tune and Deploy Open-weight Models in TypeScript\n          </p>\n        ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Arkor. <p>\n            Fine-tune and Deploy Open-weight Models in TypeScript\n          </p>\n        ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/arkor",
         "date": "2026-07-23"
     }
 ]
