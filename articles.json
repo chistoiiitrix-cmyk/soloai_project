@@ -1,5 +1,12 @@
 [
     {
+        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "summary": "Новость: Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M. The neolab is b... (Установите API ключ в bot.py)...",
+        "content": "Новость: Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M. The neolab is b... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+        "date": "2026-07-25"
+    },
+    {
         "title": "Heard",
         "summary": "Новость: Heard. <p>\n            Give Claude Code and Codex a voice\n          </p>\n          <p>\n            <... (Установите API ключ в bot.py)...",
         "content": "Новость: Heard. <p>\n            Give Claude Code and Codex a voice\n          </p>\n          <p>\n            <... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Arkor. <p>\n            Fine-tune and Deploy Open-weight Models in TypeScript\n          </p>\n        ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/arkor",
         "date": "2026-07-23"
-    },
-    {
-        "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-        "summary": "Новость: Yope raises $12.3M to build a private social network without algorithms or ads. Yope, a fast-growing... (Установите API ключ в bot.py)...",
-        "content": "Новость: Yope raises $12.3M to build a private social network without algorithms or ads. Yope, a fast-growing... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-        "date": "2026-07-22"
     }
 ]
