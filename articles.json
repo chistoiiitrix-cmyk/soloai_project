@@ -1,5 +1,12 @@
 [
     {
+        "title": "Heard",
+        "summary": "Новость: Heard. <p>\n            Give Claude Code and Codex a voice\n          </p>\n          <p>\n            <... (Установите API ключ в bot.py)...",
+        "content": "Новость: Heard. <p>\n            Give Claude Code and Codex a voice\n          </p>\n          <p>\n            <... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/heard-2",
+        "date": "2026-07-25"
+    },
+    {
         "title": "Fluree AI",
         "summary": "Новость: Fluree AI. <p>\n            Give every AI agent trusted context\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)...",
         "content": "Новость: Fluree AI. <p>\n            Give every AI agent trusted context\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Yope raises $12.3M to build a private social network without algorithms or ads. Yope, a fast-growing... (Установите API ключ в bot.py)...",
         "content": "Новость: Yope raises $12.3M to build a private social network without algorithms or ads. Yope, a fast-growing... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-        "date": "2026-07-22"
-    },
-    {
-        "title": "MonoCloud for Startups",
-        "summary": "Новость: MonoCloud for Startups. <p>\n            One identity layer for your customers, APIs, and agents\n    ... (Установите API ключ в bot.py)...",
-        "content": "Новость: MonoCloud for Startups. <p>\n            One identity layer for your customers, APIs, and agents\n    ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/monocloud-for-startups-free-for-1-year",
         "date": "2026-07-22"
     }
 ]
