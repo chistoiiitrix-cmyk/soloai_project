@@ -1,5 +1,12 @@
 [
     {
+        "title": "FluentDB",
+        "summary": "Новость: FluentDB. <p>\n            The AI database client for Mac\n          </p>\n          <p>\n            <a... (Установите API ключ в bot.py)...",
+        "content": "Новость: FluentDB. <p>\n            The AI database client for Mac\n          </p>\n          <p>\n            <a... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/fluentdb-2",
+        "date": "2026-07-26"
+    },
+    {
         "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
         "summary": "Новость: I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to ev... (Установите API ключ в bot.py)...",
         "content": "Новость: I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to ev... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good. \"I don't think you get a mod... (Установите API ключ в bot.py)...",
         "content": "Новость: Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good. \"I don't think you get a mod... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-        "date": "2026-07-23"
-    },
-    {
-        "title": "Astartis x Codex",
-        "summary": "Новость: Astartis x Codex. <p>\n            Enterprise developer security control plane around evidence\n      ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Astartis x Codex. <p>\n            Enterprise developer security control plane around evidence\n      ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/astartis-x-codex",
         "date": "2026-07-23"
     }
 ]
