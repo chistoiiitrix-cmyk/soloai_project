@@ -1,5 +1,12 @@
 [
     {
+        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+        "summary": "Новость: Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech. At lib... (Установите API ключ в bot.py)...",
+        "content": "Новость: Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech. At lib... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+        "date": "2026-07-26"
+    },
+    {
         "title": "FluentDB",
         "summary": "Новость: FluentDB. <p>\n            The AI database client for Mac\n          </p>\n          <p>\n            <a... (Установите API ключ в bot.py)...",
         "content": "Новость: FluentDB. <p>\n            The AI database client for Mac\n          </p>\n          <p>\n            <a... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Runway launches AI model router as generative media gets crowded. The Media Router is a tool that au... (Установите API ключ в bot.py)...",
         "content": "Новость: Runway launches AI model router as generative media gets crowded. The Media Router is a tool that au... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-        "date": "2026-07-23"
-    },
-    {
-        "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-        "summary": "Новость: Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good. \"I don't think you get a mod... (Установите API ключ в bot.py)...",
-        "content": "Новость: Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good. \"I don't think you get a mod... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
         "date": "2026-07-23"
     }
 ]
