@@ -1,5 +1,12 @@
 [
     {
+        "title": "Robynn AI",
+        "summary": "Новость: Robynn AI. <p>\n            Websites that improve and heal with self-learning\n          </p>\n        ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Robynn AI. <p>\n            Websites that improve and heal with self-learning\n          </p>\n        ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
+        "date": "2026-07-27"
+    },
+    {
         "title": "Are brain waves the next unlock for physical AI?",
         "summary": "Новость: Are brain waves the next unlock for physical AI?. Forget YouTube videos—frontier physical AI models ... (Установите API ключ в bot.py)...",
         "content": "Новость: Are brain waves the next unlock for physical AI?. Forget YouTube videos—frontier physical AI models ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Heard. <p>\n            Give Claude Code and Codex a voice\n          </p>\n          <p>\n            <... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/heard-2",
         "date": "2026-07-25"
-    },
-    {
-        "title": "Fluree AI",
-        "summary": "Новость: Fluree AI. <p>\n            Give every AI agent trusted context\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Fluree AI. <p>\n            Give every AI agent trusted context\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/fluree",
-        "date": "2026-07-24"
     }
 ]
