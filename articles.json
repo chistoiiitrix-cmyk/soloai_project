@@ -1,5 +1,12 @@
 [
     {
+        "title": "Making sense of the panic over Chinese AI",
+        "summary": "Новость: Making sense of the panic over Chinese AI. On the latest episode of Equity, we discussed why Moonsho... (Установите API ключ в bot.py)...",
+        "content": "Новость: Making sense of the panic over Chinese AI. On the latest episode of Equity, we discussed why Moonsho... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+        "date": "2026-07-27"
+    },
+    {
         "title": "Athena by Shoplazza",
         "summary": "Новость: Athena by Shoplazza. <p>\n            An orchestrator agent for your entire commerce stack\n          ... (Установите API ключ в bot.py)...",
         "content": "Новость: Athena by Shoplazza. <p>\n            An orchestrator agent for your entire commerce stack\n          ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: AMD takes on Nvidia with its Helios AI rack-scale system. AMD is challenging its chipmaker rival wit... (Установите API ключ в bot.py)...",
         "content": "Новость: AMD takes on Nvidia with its Helios AI rack-scale system. AMD is challenging its chipmaker rival wit... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-        "date": "2026-07-24"
-    },
-    {
-        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-        "summary": "Новость: How AI guardrails are impeding the work of offensive cybersecurity researchers. We spoke with severa... (Установите API ключ в bot.py)...",
-        "content": "Новость: How AI guardrails are impeding the work of offensive cybersecurity researchers. We spoke with severa... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
         "date": "2026-07-24"
     }
 ]
