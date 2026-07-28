@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cynative Security Research Agent",
+        "summary": "Новость: Cynative Security Research Agent. <p>\n            Ask your cloud anything without breaking prod. Rea... (Установите API ключ в bot.py)...",
+        "content": "Новость: Cynative Security Research Agent. <p>\n            Ask your cloud anything without breaking prod. Rea... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/cynative-deep-infra-research",
+        "date": "2026-07-28"
+    },
+    {
         "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
         "summary": "Новость: OpenAI’s Hugging Face breach has reignited the debate over alignment and control. OpenAI's Hugging F... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI’s Hugging Face breach has reignited the debate over alignment and control. OpenAI's Hugging F... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to ev... (Установите API ключ в bot.py)...",
         "content": "Новость: I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to ev... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-        "date": "2026-07-25"
-    },
-    {
-        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-        "summary": "Новость: Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M. The neolab is b... (Установите API ключ в bot.py)...",
-        "content": "Новость: Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M. The neolab is b... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
         "date": "2026-07-25"
     }
 ]
