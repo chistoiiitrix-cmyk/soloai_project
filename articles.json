@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+        "summary": "Новость: Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing. Cursor s... (Установите API ключ в bot.py)...",
+        "content": "Новость: Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing. Cursor s... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+        "date": "2026-07-28"
+    },
+    {
         "title": "Cynative Security Research Agent",
         "summary": "Новость: Cynative Security Research Agent. <p>\n            Ask your cloud anything without breaking prod. Rea... (Установите API ключ в bot.py)...",
         "content": "Новость: Cynative Security Research Agent. <p>\n            Ask your cloud anything without breaking prod. Rea... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: FluentDB. <p>\n            The AI database client for Mac\n          </p>\n          <p>\n            <a... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/fluentdb-2",
         "date": "2026-07-26"
-    },
-    {
-        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-        "summary": "Новость: I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to ev... (Установите API ключ в bot.py)...",
-        "content": "Новость: I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to ev... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-        "date": "2026-07-25"
     }
 ]
