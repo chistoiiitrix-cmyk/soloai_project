@@ -1,5 +1,12 @@
 [
     {
+        "title": "Leaping AI",
+        "summary": "Новость: Leaping AI. <p>\n            AI agents that call and text in multi-day campaigns\n          </p>\n     ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Leaping AI. <p>\n            AI agents that call and text in multi-day campaigns\n          </p>\n     ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/leaping-ai",
+        "date": "2026-07-29"
+    },
+    {
         "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
         "summary": "Новость: Data centers may face temporary power cuts to prevent blackouts on largest US grid. The decision arr... (Установите API ключ в bot.py)...",
         "content": "Новость: Data centers may face temporary power cuts to prevent blackouts on largest US grid. The decision arr... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Athena by Shoplazza. <p>\n            An orchestrator agent for your entire commerce stack\n          ... (Установите API ключ в bot.py)...",
         "content": "Новость: Athena by Shoplazza. <p>\n            An orchestrator agent for your entire commerce stack\n          ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/athena-by-shoplazza",
-        "date": "2026-07-26"
-    },
-    {
-        "title": "BrainFeed",
-        "summary": "Новость: BrainFeed. <p>\n            A personalized learning feed that redirects your scroll\n          </p>\n  ... (Установите API ключ в bot.py)...",
-        "content": "Новость: BrainFeed. <p>\n            A personalized learning feed that redirects your scroll\n          </p>\n  ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/brainfeed-scroll-better",
         "date": "2026-07-26"
     }
 ]
