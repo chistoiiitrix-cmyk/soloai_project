@@ -1,5 +1,12 @@
 [
     {
+        "title": "MemoryCustodian",
+        "summary": "Новость: MemoryCustodian. <p>\n            Repo-native memory for coding agents\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
+        "content": "Новость: MemoryCustodian. <p>\n            Repo-native memory for coding agents\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/memorycustodian",
+        "date": "2026-07-29"
+    },
+    {
         "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
         "summary": "Новость: Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents. The deal is Cye... (Установите API ключ в bot.py)...",
         "content": "Новость: Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents. The deal is Cye... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Robynn AI. <p>\n            Websites that improve and heal with self-learning\n          </p>\n        ... (Установите API ключ в bot.py)...",
         "content": "Новость: Robynn AI. <p>\n            Websites that improve and heal with self-learning\n          </p>\n        ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
-        "date": "2026-07-27"
-    },
-    {
-        "title": "Are brain waves the next unlock for physical AI?",
-        "summary": "Новость: Are brain waves the next unlock for physical AI?. Forget YouTube videos—frontier physical AI models ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Are brain waves the next unlock for physical AI?. Forget YouTube videos—frontier physical AI models ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
         "date": "2026-07-27"
     }
 ]
