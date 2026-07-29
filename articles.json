@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+        "summary": "Новость: Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents. The deal is Cye... (Установите API ключ в bot.py)...",
+        "content": "Новость: Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents. The deal is Cye... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+        "date": "2026-07-29"
+    },
+    {
         "title": "Vela",
         "summary": "Новость: Vela. <p>\n            The AI Recruiting Coordinator\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)...",
         "content": "Новость: Vela. <p>\n            The AI Recruiting Coordinator\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Are brain waves the next unlock for physical AI?. Forget YouTube videos—frontier physical AI models ... (Установите API ключ в bot.py)...",
         "content": "Новость: Are brain waves the next unlock for physical AI?. Forget YouTube videos—frontier physical AI models ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-        "date": "2026-07-27"
-    },
-    {
-        "title": "Making sense of the panic over Chinese AI",
-        "summary": "Новость: Making sense of the panic over Chinese AI. On the latest episode of Equity, we discussed why Moonsho... (Установите API ключ в bot.py)...",
-        "content": "Новость: Making sense of the panic over Chinese AI. On the latest episode of Equity, we discussed why Moonsho... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
         "date": "2026-07-27"
     }
 ]
