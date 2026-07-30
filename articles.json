@@ -1,5 +1,12 @@
 [
     {
+        "title": "SKI",
+        "summary": "Новость: SKI. <p>\n            Free voice coding for Claude Code, Codex and more\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
+        "content": "Новость: SKI. <p>\n            Free voice coding for Claude Code, Codex and more\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/ski",
+        "date": "2026-07-30"
+    },
+    {
         "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
         "summary": "Новость: Microsoft is openly competing with OpenAI, Anthropic more than ever. Microsoft pitched its own homeg... (Установите API ключ в bot.py)...",
         "content": "Новость: Microsoft is openly competing with OpenAI, Anthropic more than ever. Microsoft pitched its own homeg... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Cynative Security Research Agent. <p>\n            Ask your cloud anything without breaking prod. Rea... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/cynative-deep-infra-research",
         "date": "2026-07-28"
-    },
-    {
-        "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-        "summary": "Новость: OpenAI’s Hugging Face breach has reignited the debate over alignment and control. OpenAI's Hugging F... (Установите API ключ в bot.py)...",
-        "content": "Новость: OpenAI’s Hugging Face breach has reignited the debate over alignment and control. OpenAI's Hugging F... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-        "date": "2026-07-27"
     }
 ]
