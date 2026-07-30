@@ -1,5 +1,12 @@
 [
     {
+        "title": "CraftStory",
+        "summary": "Новость: CraftStory. <p>\n            Photorealistic human video, powered by compact AI\n          </p>\n       ... (Установите API ключ в bot.py)...",
+        "content": "Новость: CraftStory. <p>\n            Photorealistic human video, powered by compact AI\n          </p>\n       ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/craftstory",
+        "date": "2026-07-30"
+    },
+    {
         "title": "SKI",
         "summary": "Новость: SKI. <p>\n            Free voice coding for Claude Code, Codex and more\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: SKI. <p>\n            Free voice coding for Claude Code, Codex and more\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing. Cursor s... (Установите API ключ в bot.py)...",
         "content": "Новость: Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing. Cursor s... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-        "date": "2026-07-28"
-    },
-    {
-        "title": "Cynative Security Research Agent",
-        "summary": "Новость: Cynative Security Research Agent. <p>\n            Ask your cloud anything without breaking prod. Rea... (Установите API ключ в bot.py)...",
-        "content": "Новость: Cynative Security Research Agent. <p>\n            Ask your cloud anything without breaking prod. Rea... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/cynative-deep-infra-research",
         "date": "2026-07-28"
     }
 ]
