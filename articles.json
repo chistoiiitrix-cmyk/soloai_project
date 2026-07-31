@@ -1,5 +1,12 @@
 [
     {
+        "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+        "summary": "Новость: AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthrop... (Установите API ключ в bot.py)...",
+        "content": "Новость: AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthrop... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+        "date": "2026-07-31"
+    },
+    {
         "title": "Yap",
         "summary": "Новость: Yap. <p>\n            Open-source voice dictation for Mac, fully on-device\n          </p>\n          <... (Установите API ключ в bot.py)...",
         "content": "Новость: Yap. <p>\n            Open-source voice dictation for Mac, fully on-device\n          </p>\n          <... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Data centers may face temporary power cuts to prevent blackouts on largest US grid. The decision arr... (Установите API ключ в bot.py)...",
         "content": "Новость: Data centers may face temporary power cuts to prevent blackouts on largest US grid. The decision arr... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-        "date": "2026-07-28"
-    },
-    {
-        "title": "Prefactor",
-        "summary": "Новость: Prefactor. <p>\n            Evaluate your AI Agents in real-time\n          </p>\n          <p>\n       ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Prefactor. <p>\n            Evaluate your AI Agents in real-time\n          </p>\n          <p>\n       ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/prefactor",
         "date": "2026-07-28"
     }
 ]
