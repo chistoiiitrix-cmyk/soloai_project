@@ -1,5 +1,12 @@
 [
     {
+        "title": "Yap",
+        "summary": "Новость: Yap. <p>\n            Open-source voice dictation for Mac, fully on-device\n          </p>\n          <... (Установите API ключ в bot.py)...",
+        "content": "Новость: Yap. <p>\n            Open-source voice dictation for Mac, fully on-device\n          </p>\n          <... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/yap-5",
+        "date": "2026-07-31"
+    },
+    {
         "title": "CraftStory",
         "summary": "Новость: CraftStory. <p>\n            Photorealistic human video, powered by compact AI\n          </p>\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: CraftStory. <p>\n            Photorealistic human video, powered by compact AI\n          </p>\n       ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Prefactor. <p>\n            Evaluate your AI Agents in real-time\n          </p>\n          <p>\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: Prefactor. <p>\n            Evaluate your AI Agents in real-time\n          </p>\n          <p>\n       ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/prefactor",
-        "date": "2026-07-28"
-    },
-    {
-        "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-        "summary": "Новость: Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing. Cursor s... (Установите API ключ в bot.py)...",
-        "content": "Новость: Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing. Cursor s... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
         "date": "2026-07-28"
     }
 ]
