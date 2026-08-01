@@ -1,5 +1,12 @@
 [
     {
+        "title": "Yamanote 3D",
+        "summary": "Новость: Yamanote 3D. <p>\n            Ride Tokyo’s Yamanote Line in a 3D world\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Yamanote 3D. <p>\n            Ride Tokyo’s Yamanote Line in a 3D world\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/yamanote-3d",
+        "date": "2026-08-01"
+    },
+    {
         "title": "NudgeForMe",
         "summary": "Новость: NudgeForMe. <p>\n            AI follow-up agent for missed email opportunities\n          </p>\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: NudgeForMe. <p>\n            AI follow-up agent for missed email opportunities\n          </p>\n       ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: SKI. <p>\n            Free voice coding for Claude Code, Codex and more\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: SKI. <p>\n            Free voice coding for Claude Code, Codex and more\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/ski",
-        "date": "2026-07-30"
-    },
-    {
-        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-        "summary": "Новость: Microsoft is openly competing with OpenAI, Anthropic more than ever. Microsoft pitched its own homeg... (Установите API ключ в bot.py)...",
-        "content": "Новость: Microsoft is openly competing with OpenAI, Anthropic more than ever. Microsoft pitched its own homeg... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
         "date": "2026-07-30"
     }
 ]
