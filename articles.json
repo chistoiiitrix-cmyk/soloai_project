@@ -1,5 +1,12 @@
 [
     {
+        "title": "NudgeForMe",
+        "summary": "Новость: NudgeForMe. <p>\n            AI follow-up agent for missed email opportunities\n          </p>\n       ... (Установите API ключ в bot.py)...",
+        "content": "Новость: NudgeForMe. <p>\n            AI follow-up agent for missed email opportunities\n          </p>\n       ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/nudgeforme",
+        "date": "2026-08-01"
+    },
+    {
         "title": "Terminal Candy",
         "summary": "Новость: Terminal Candy. <p>\n            A native macOS terminal you can skin and theme\n          </p>\n      ... (Установите API ключ в bot.py)...",
         "content": "Новость: Terminal Candy. <p>\n            A native macOS terminal you can skin and theme\n          </p>\n      ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Microsoft is openly competing with OpenAI, Anthropic more than ever. Microsoft pitched its own homeg... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
         "date": "2026-07-30"
-    },
-    {
-        "title": "MemoryCustodian",
-        "summary": "Новость: MemoryCustodian. <p>\n            Repo-native memory for coding agents\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
-        "content": "Новость: MemoryCustodian. <p>\n            Repo-native memory for coding agents\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/memorycustodian",
-        "date": "2026-07-29"
     }
 ]
