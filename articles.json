@@ -1,5 +1,12 @@
 [
     {
+        "title": "Capptivo",
+        "summary": "Новость: Capptivo. <p>\n            Free open-source screen recorder & demo editor\n          </p>\n          <p... (Установите API ключ в bot.py)...",
+        "content": "Новость: Capptivo. <p>\n            Free open-source screen recorder & demo editor\n          </p>\n          <p... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/capptivo",
+        "date": "2026-08-02"
+    },
+    {
         "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
         "summary": "Новость: YouTuber Hank Green says his AI usage is ‘not healthy’. Green offered a remarkable apology, saying t... (Установите API ключ в bot.py)...",
         "content": "Новость: YouTuber Hank Green says his AI usage is ‘not healthy’. Green offered a remarkable apology, saying t... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Yap. <p>\n            Open-source voice dictation for Mac, fully on-device\n          </p>\n          <... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/yap-5",
         "date": "2026-07-31"
-    },
-    {
-        "title": "CraftStory",
-        "summary": "Новость: CraftStory. <p>\n            Photorealistic human video, powered by compact AI\n          </p>\n       ... (Установите API ключ в bot.py)...",
-        "content": "Новость: CraftStory. <p>\n            Photorealistic human video, powered by compact AI\n          </p>\n       ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/craftstory",
-        "date": "2026-07-30"
     }
 ]
