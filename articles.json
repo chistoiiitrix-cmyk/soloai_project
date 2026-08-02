@@ -1,5 +1,12 @@
 [
     {
+        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+        "summary": "Новость: YouTuber Hank Green says his AI usage is ‘not healthy’. Green offered a remarkable apology, saying t... (Установите API ключ в bot.py)...",
+        "content": "Новость: YouTuber Hank Green says his AI usage is ‘not healthy’. Green offered a remarkable apology, saying t... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+        "date": "2026-08-02"
+    },
+    {
         "title": "Yamanote 3D",
         "summary": "Новость: Yamanote 3D. <p>\n            Ride Tokyo’s Yamanote Line in a 3D world\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: Yamanote 3D. <p>\n            Ride Tokyo’s Yamanote Line in a 3D world\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: CraftStory. <p>\n            Photorealistic human video, powered by compact AI\n          </p>\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: CraftStory. <p>\n            Photorealistic human video, powered by compact AI\n          </p>\n       ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/craftstory",
-        "date": "2026-07-30"
-    },
-    {
-        "title": "SKI",
-        "summary": "Новость: SKI. <p>\n            Free voice coding for Claude Code, Codex and more\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
-        "content": "Новость: SKI. <p>\n            Free voice coding for Claude Code, Codex and more\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/ski",
         "date": "2026-07-30"
     }
 ]
