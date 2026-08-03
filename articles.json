@@ -1,5 +1,12 @@
 [
     {
+        "title": "Zen Whisper",
+        "summary": "Новость: Zen Whisper. <p>\n            On-device Mac dictation that types into any app\n          </p>\n        ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Zen Whisper. <p>\n            On-device Mac dictation that types into any app\n          </p>\n        ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/zen-whisper",
+        "date": "2026-08-03"
+    },
+    {
         "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
         "summary": "Новость: Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps. Despite a lawsuit from xAI, a Mi... (Установите API ключ в bot.py)...",
         "content": "Новость: Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps. Despite a lawsuit from xAI, a Mi... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: TraceLLM. <p>\n            OpenTelemetry for production AI applications\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: TraceLLM. <p>\n            OpenTelemetry for production AI applications\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/tracellm",
-        "date": "2026-07-31"
-    },
-    {
-        "title": "Screencap",
-        "summary": "Новость: Screencap. <p>\n            Turn your team's real workflows into AI training data\n          </p>\n    ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Screencap. <p>\n            Turn your team's real workflows into AI training data\n          </p>\n    ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/screencap",
         "date": "2026-07-31"
     }
 ]
