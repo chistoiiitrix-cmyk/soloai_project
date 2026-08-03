@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sam Altman and AI’s decel debate",
+        "summary": "Новость: Sam Altman and AI’s decel debate. On the latest episode of Equity, we discuss why Sam Altman has cal... (Установите API ключ в bot.py)...",
+        "content": "Новость: Sam Altman and AI’s decel debate. On the latest episode of Equity, we discuss why Sam Altman has cal... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+        "date": "2026-08-03"
+    },
+    {
         "title": "Zen Whisper",
         "summary": "Новость: Zen Whisper. <p>\n            On-device Mac dictation that types into any app\n          </p>\n        ... (Установите API ключ в bot.py)...",
         "content": "Новость: Zen Whisper. <p>\n            On-device Mac dictation that types into any app\n          </p>\n        ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: OpenAI reportedly finds evidence that more of its agents ran amok. OpenAI has reportedly found evide... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
         "date": "2026-08-01"
-    },
-    {
-        "title": "TraceLLM",
-        "summary": "Новость: TraceLLM. <p>\n            OpenTelemetry for production AI applications\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
-        "content": "Новость: TraceLLM. <p>\n            OpenTelemetry for production AI applications\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/tracellm",
-        "date": "2026-07-31"
     }
 ]
