@@ -1,5 +1,12 @@
 [
     {
+        "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+        "summary": "Новость: A Marc Benioff-backed startup thinks AI can solve the AI deployment problem. June emerged from steal... (Установите API ключ в bot.py)...",
+        "content": "Новость: A Marc Benioff-backed startup thinks AI can solve the AI deployment problem. June emerged from steal... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+        "date": "2026-08-03"
+    },
+    {
         "title": "Sam Altman and AI’s decel debate",
         "summary": "Новость: Sam Altman and AI’s decel debate. On the latest episode of Equity, we discuss why Sam Altman has cal... (Установите API ключ в bot.py)...",
         "content": "Новость: Sam Altman and AI’s decel debate. On the latest episode of Equity, we discuss why Sam Altman has cal... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Terminal Candy. <p>\n            A native macOS terminal you can skin and theme\n          </p>\n      ... (Установите API ключ в bot.py)...",
         "content": "Новость: Terminal Candy. <p>\n            A native macOS terminal you can skin and theme\n          </p>\n      ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/terminal-candy",
-        "date": "2026-08-01"
-    },
-    {
-        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-        "summary": "Новость: OpenAI reportedly finds evidence that more of its agents ran amok. OpenAI has reportedly found evide... (Установите API ключ в bot.py)...",
-        "content": "Новость: OpenAI reportedly finds evidence that more of its agents ran amok. OpenAI has reportedly found evide... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
         "date": "2026-08-01"
     }
 ]
