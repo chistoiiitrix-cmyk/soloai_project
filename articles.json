@@ -1,5 +1,12 @@
 [
     {
+        "title": "Murmell",
+        "summary": "Новость: Murmell. <p>\n            Cloud canvas where your team and AI agents works together\n          </p>\n  ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Murmell. <p>\n            Cloud canvas where your team and AI agents works together\n          </p>\n  ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/murmell",
+        "date": "2026-08-03"
+    },
+    {
         "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
         "summary": "Новость: A Marc Benioff-backed startup thinks AI can solve the AI deployment problem. June emerged from steal... (Установите API ключ в bot.py)...",
         "content": "Новость: A Marc Benioff-backed startup thinks AI can solve the AI deployment problem. June emerged from steal... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: NudgeForMe. <p>\n            AI follow-up agent for missed email opportunities\n          </p>\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: NudgeForMe. <p>\n            AI follow-up agent for missed email opportunities\n          </p>\n       ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/nudgeforme",
-        "date": "2026-08-01"
-    },
-    {
-        "title": "Terminal Candy",
-        "summary": "Новость: Terminal Candy. <p>\n            A native macOS terminal you can skin and theme\n          </p>\n      ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Terminal Candy. <p>\n            A native macOS terminal you can skin and theme\n          </p>\n      ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/terminal-candy",
         "date": "2026-08-01"
     }
 ]
