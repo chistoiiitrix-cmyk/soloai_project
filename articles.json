@@ -1,5 +1,12 @@
 [
     {
+        "title": "VIDEO AI ME",
+        "summary": "Новость: VIDEO AI ME. <p>\n            Make videos and post them everywhere with just one tool\n          </p>\n... (Установите API ключ в bot.py)...",
+        "content": "Новость: VIDEO AI ME. <p>\n            Make videos and post them everywhere with just one tool\n          </p>\n... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/video-ai-me",
+        "date": "2026-08-04"
+    },
+    {
         "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
         "summary": "Новость: After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’. After a quarter that deliv... (Установите API ключ в bot.py)...",
         "content": "Новость: After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’. After a quarter that deliv... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Capptivo. <p>\n            Free open-source screen recorder & demo editor\n          </p>\n          <p... (Установите API ключ в bot.py)...",
         "content": "Новость: Capptivo. <p>\n            Free open-source screen recorder & demo editor\n          </p>\n          <p... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/capptivo",
-        "date": "2026-08-02"
-    },
-    {
-        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-        "summary": "Новость: YouTuber Hank Green says his AI usage is ‘not healthy’. Green offered a remarkable apology, saying t... (Установите API ключ в bot.py)...",
-        "content": "Новость: YouTuber Hank Green says his AI usage is ‘not healthy’. Green offered a remarkable apology, saying t... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
         "date": "2026-08-02"
     }
 ]
