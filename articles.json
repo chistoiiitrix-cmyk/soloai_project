@@ -1,5 +1,12 @@
 [
     {
+        "title": "Glasp MCP Connector",
+        "summary": "Новость: Glasp MCP Connector. <p>\n            Search your highlights and notes inside Claude and ChatGPT\n    ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Glasp MCP Connector. <p>\n            Search your highlights and notes inside Claude and ChatGPT\n    ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/glasp-mcp-connector",
+        "date": "2026-08-04"
+    },
+    {
         "title": "VIDEO AI ME",
         "summary": "Новость: VIDEO AI ME. <p>\n            Make videos and post them everywhere with just one tool\n          </p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: VIDEO AI ME. <p>\n            Make videos and post them everywhere with just one tool\n          </p>\n... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: FreqWave EQ. <p>\n            Customize your web audio with a real-time EQ\n          </p>\n          <... (Установите API ключ в bot.py)...",
         "content": "Новость: FreqWave EQ. <p>\n            Customize your web audio with a real-time EQ\n          </p>\n          <... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/freqwave-eq-browser-audio-equalizer",
-        "date": "2026-08-02"
-    },
-    {
-        "title": "Capptivo",
-        "summary": "Новость: Capptivo. <p>\n            Free open-source screen recorder & demo editor\n          </p>\n          <p... (Установите API ключ в bot.py)...",
-        "content": "Новость: Capptivo. <p>\n            Free open-source screen recorder & demo editor\n          </p>\n          <p... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/capptivo",
         "date": "2026-08-02"
     }
 ]
