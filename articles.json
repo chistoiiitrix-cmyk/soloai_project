@@ -1,5 +1,12 @@
 [
     {
+        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+        "summary": "Новость: Open-weight AI models are catching up to the frontier. The safety gap remains.. A new SaferAI report... (Установите API ключ в bot.py)...",
+        "content": "Новость: Open-weight AI models are catching up to the frontier. The safety gap remains.. A new SaferAI report... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+        "date": "2026-08-05"
+    },
+    {
         "title": "Driven",
         "summary": "Новость: Driven. <p>\n            The trusted AI investment agent, from insight to action\n          </p>\n     ... (Установите API ключ в bot.py)...",
         "content": "Новость: Driven. <p>\n            The trusted AI investment agent, from insight to action\n          </p>\n     ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Zen Whisper. <p>\n            On-device Mac dictation that types into any app\n          </p>\n        ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/zen-whisper",
         "date": "2026-08-03"
-    },
-    {
-        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-        "summary": "Новость: Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps. Despite a lawsuit from xAI, a Mi... (Установите API ключ в bot.py)...",
-        "content": "Новость: Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps. Despite a lawsuit from xAI, a Mi... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-        "date": "2026-08-02"
     }
 ]
