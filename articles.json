@@ -1,5 +1,12 @@
 [
     {
+        "title": "BackEngine MCP",
+        "summary": "Новость: BackEngine MCP. <p>\n            Make private company knowledge usable for AI\n          </p>\n        ... (Установите API ключ в bot.py)...",
+        "content": "Новость: BackEngine MCP. <p>\n            Make private company knowledge usable for AI\n          </p>\n        ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/backengine-mcp",
+        "date": "2026-08-05"
+    },
+    {
         "title": "Hansel",
         "summary": "Новость: Hansel. <p>\n            Remember everything you've worked on\n          </p>\n          <p>\n          ... (Установите API ключ в bot.py)...",
         "content": "Новость: Hansel. <p>\n            Remember everything you've worked on\n          </p>\n          <p>\n          ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: A Marc Benioff-backed startup thinks AI can solve the AI deployment problem. June emerged from steal... (Установите API ключ в bot.py)...",
         "content": "Новость: A Marc Benioff-backed startup thinks AI can solve the AI deployment problem. June emerged from steal... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-        "date": "2026-08-03"
-    },
-    {
-        "title": "Sam Altman and AI’s decel debate",
-        "summary": "Новость: Sam Altman and AI’s decel debate. On the latest episode of Equity, we discuss why Sam Altman has cal... (Установите API ключ в bot.py)...",
-        "content": "Новость: Sam Altman and AI’s decel debate. On the latest episode of Equity, we discuss why Sam Altman has cal... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
         "date": "2026-08-03"
     }
 ]
