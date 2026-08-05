@@ -1,5 +1,12 @@
 [
     {
+        "title": "Driven",
+        "summary": "Новость: Driven. <p>\n            The trusted AI investment agent, from insight to action\n          </p>\n     ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Driven. <p>\n            The trusted AI investment agent, from insight to action\n          </p>\n     ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/driven-ai",
+        "date": "2026-08-05"
+    },
+    {
         "title": "Glasp MCP Connector",
         "summary": "Новость: Glasp MCP Connector. <p>\n            Search your highlights and notes inside Claude and ChatGPT\n    ... (Установите API ключ в bot.py)...",
         "content": "Новость: Glasp MCP Connector. <p>\n            Search your highlights and notes inside Claude and ChatGPT\n    ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps. Despite a lawsuit from xAI, a Mi... (Установите API ключ в bot.py)...",
         "content": "Новость: Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps. Despite a lawsuit from xAI, a Mi... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-        "date": "2026-08-02"
-    },
-    {
-        "title": "FreqWave EQ",
-        "summary": "Новость: FreqWave EQ. <p>\n            Customize your web audio with a real-time EQ\n          </p>\n          <... (Установите API ключ в bot.py)...",
-        "content": "Новость: FreqWave EQ. <p>\n            Customize your web audio with a real-time EQ\n          </p>\n          <... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/freqwave-eq-browser-audio-equalizer",
         "date": "2026-08-02"
     }
 ]
