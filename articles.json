@@ -1,5 +1,12 @@
 [
     {
+        "title": "Hansel",
+        "summary": "Новость: Hansel. <p>\n            Remember everything you've worked on\n          </p>\n          <p>\n          ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Hansel. <p>\n            Remember everything you've worked on\n          </p>\n          <p>\n          ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/hansel-2",
+        "date": "2026-08-05"
+    },
+    {
         "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
         "summary": "Новость: Open-weight AI models are catching up to the frontier. The safety gap remains.. A new SaferAI report... (Установите API ключ в bot.py)...",
         "content": "Новость: Open-weight AI models are catching up to the frontier. The safety gap remains.. A new SaferAI report... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Sam Altman and AI’s decel debate. On the latest episode of Equity, we discuss why Sam Altman has cal... (Установите API ключ в bot.py)...",
         "content": "Новость: Sam Altman and AI’s decel debate. On the latest episode of Equity, we discuss why Sam Altman has cal... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-        "date": "2026-08-03"
-    },
-    {
-        "title": "Zen Whisper",
-        "summary": "Новость: Zen Whisper. <p>\n            On-device Mac dictation that types into any app\n          </p>\n        ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Zen Whisper. <p>\n            On-device Mac dictation that types into any app\n          </p>\n        ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/zen-whisper",
         "date": "2026-08-03"
     }
 ]
