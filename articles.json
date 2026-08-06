@@ -1,5 +1,12 @@
 [
     {
+        "title": "Brandfetch MCP",
+        "summary": "Новость: Brandfetch MCP. <p>\n            Stop your AI from guessing brand logos\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
+        "content": "Новость: Brandfetch MCP. <p>\n            Stop your AI from guessing brand logos\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/brandfetch",
+        "date": "2026-08-06"
+    },
+    {
         "title": "Meta launches Muse Code, an AI agent for large code bases",
         "summary": "Новость: Meta launches Muse Code, an AI agent for large code bases. Meta expanded its AI coding offerings wit... (Установите API ключ в bot.py)...",
         "content": "Новость: Meta launches Muse Code, an AI agent for large code bases. Meta expanded its AI coding offerings wit... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Appllama. <p>\n            Study 25,000+ screens from top-earning iOS apps\n          </p>\n          <... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/appllama",
         "date": "2026-08-04"
-    },
-    {
-        "title": "Murmell",
-        "summary": "Новость: Murmell. <p>\n            Cloud canvas where your team and AI agents works together\n          </p>\n  ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Murmell. <p>\n            Cloud canvas where your team and AI agents works together\n          </p>\n  ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/murmell",
-        "date": "2026-08-03"
     }
 ]
