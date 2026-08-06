@@ -1,5 +1,12 @@
 [
     {
+        "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+        "summary": "Новость: Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI. Mirendil has signed a ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI. Mirendil has signed a ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+        "date": "2026-08-06"
+    },
+    {
         "title": "Brandfetch MCP",
         "summary": "Новость: Brandfetch MCP. <p>\n            Stop your AI from guessing brand logos\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: Brandfetch MCP. <p>\n            Stop your AI from guessing brand logos\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’. After a quarter that deliv... (Установите API ключ в bot.py)...",
         "content": "Новость: After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’. After a quarter that deliv... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-        "date": "2026-08-04"
-    },
-    {
-        "title": "Appllama",
-        "summary": "Новость: Appllama. <p>\n            Study 25,000+ screens from top-earning iOS apps\n          </p>\n          <... (Установите API ключ в bot.py)...",
-        "content": "Новость: Appllama. <p>\n            Study 25,000+ screens from top-earning iOS apps\n          </p>\n          <... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/appllama",
         "date": "2026-08-04"
     }
 ]
