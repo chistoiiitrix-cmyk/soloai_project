@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+        "summary": "Новость: OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400. Additional details abo... (Установите API ключ в bot.py)...",
+        "content": "Новость: OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400. Additional details abo... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+        "date": "2026-08-07"
+    },
+    {
         "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
         "summary": "Новость: Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI. Mirendil has signed a ... (Установите API ключ в bot.py)...",
         "content": "Новость: Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI. Mirendil has signed a ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: VIDEO AI ME. <p>\n            Make videos and post them everywhere with just one tool\n          </p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: VIDEO AI ME. <p>\n            Make videos and post them everywhere with just one tool\n          </p>\n... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/video-ai-me",
-        "date": "2026-08-04"
-    },
-    {
-        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-        "summary": "Новость: After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’. After a quarter that deliv... (Установите API ключ в bot.py)...",
-        "content": "Новость: After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’. After a quarter that deliv... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
         "date": "2026-08-04"
     }
 ]
