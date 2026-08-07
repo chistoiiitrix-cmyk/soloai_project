@@ -1,5 +1,12 @@
 [
     {
+        "title": "Crew",
+        "summary": "Новость: Crew. <p>\n            A tiny crew of monsters for your Claude Code agents\n          </p>\n          <... (Установите API ключ в bot.py)...",
+        "content": "Новость: Crew. <p>\n            A tiny crew of monsters for your Claude Code agents\n          </p>\n          <... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code",
+        "date": "2026-08-07"
+    },
+    {
         "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
         "summary": "Новость: OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400. Additional details abo... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400. Additional details abo... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Glasp MCP Connector. <p>\n            Search your highlights and notes inside Claude and ChatGPT\n    ... (Установите API ключ в bot.py)...",
         "content": "Новость: Glasp MCP Connector. <p>\n            Search your highlights and notes inside Claude and ChatGPT\n    ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/glasp-mcp-connector",
-        "date": "2026-08-04"
-    },
-    {
-        "title": "VIDEO AI ME",
-        "summary": "Новость: VIDEO AI ME. <p>\n            Make videos and post them everywhere with just one tool\n          </p>\n... (Установите API ключ в bot.py)...",
-        "content": "Новость: VIDEO AI ME. <p>\n            Make videos and post them everywhere with just one tool\n          </p>\n... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/video-ai-me",
         "date": "2026-08-04"
     }
 ]
