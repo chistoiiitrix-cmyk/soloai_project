@@ -1,5 +1,12 @@
 [
     {
+        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+        "summary": "Новость: After Rippling blew millions on AI in months, it built an employee ROI tool. After its own AI usage ... (Установите API ключ в bot.py)...",
+        "content": "Новость: After Rippling blew millions on AI in months, it built an employee ROI tool. After its own AI usage ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+        "date": "2026-08-08"
+    },
+    {
         "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
         "summary": "Новость: Cloudflare launches Kitesurf, a browser built for AI agents. Kitesurf is a cloud-hosted browser desi... (Установите API ключ в bot.py)...",
         "content": "Новость: Cloudflare launches Kitesurf, a browser built for AI agents. Kitesurf is a cloud-hosted browser desi... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: BackEngine MCP. <p>\n            Make private company knowledge usable for AI\n          </p>\n        ... (Установите API ключ в bot.py)...",
         "content": "Новость: BackEngine MCP. <p>\n            Make private company knowledge usable for AI\n          </p>\n        ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/backengine-mcp",
-        "date": "2026-08-05"
-    },
-    {
-        "title": "Hansel",
-        "summary": "Новость: Hansel. <p>\n            Remember everything you've worked on\n          </p>\n          <p>\n          ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Hansel. <p>\n            Remember everything you've worked on\n          </p>\n          <p>\n          ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/hansel-2",
         "date": "2026-08-05"
     }
 ]
