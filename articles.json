@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+        "summary": "Новость: Cloudflare launches Kitesurf, a browser built for AI agents. Kitesurf is a cloud-hosted browser desi... (Установите API ключ в bot.py)...",
+        "content": "Новость: Cloudflare launches Kitesurf, a browser built for AI agents. Kitesurf is a cloud-hosted browser desi... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+        "date": "2026-08-08"
+    },
+    {
         "title": "Rindler",
         "summary": "Новость: Rindler. <p>\n            Automate the web work your team does by hand\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: Rindler. <p>\n            Automate the web work your team does by hand\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Hansel. <p>\n            Remember everything you've worked on\n          </p>\n          <p>\n          ... (Установите API ключ в bot.py)...",
         "content": "Новость: Hansel. <p>\n            Remember everything you've worked on\n          </p>\n          <p>\n          ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/hansel-2",
-        "date": "2026-08-05"
-    },
-    {
-        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-        "summary": "Новость: Open-weight AI models are catching up to the frontier. The safety gap remains.. A new SaferAI report... (Установите API ключ в bot.py)...",
-        "content": "Новость: Open-weight AI models are catching up to the frontier. The safety gap remains.. A new SaferAI report... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
         "date": "2026-08-05"
     }
 ]
