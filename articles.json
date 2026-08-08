@@ -1,5 +1,12 @@
 [
     {
+        "title": "Rindler",
+        "summary": "Новость: Rindler. <p>\n            Automate the web work your team does by hand\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Rindler. <p>\n            Automate the web work your team does by hand\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/rindler",
+        "date": "2026-08-08"
+    },
+    {
         "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
         "summary": "Новость: Airbnb says AI is helping it ship features faster as it tests a new search function. Airbnb will deb... (Установите API ключ в bot.py)...",
         "content": "Новость: Airbnb says AI is helping it ship features faster as it tests a new search function. Airbnb will deb... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Open-weight AI models are catching up to the frontier. The safety gap remains.. A new SaferAI report... (Установите API ключ в bot.py)...",
         "content": "Новость: Open-weight AI models are catching up to the frontier. The safety gap remains.. A new SaferAI report... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-        "date": "2026-08-05"
-    },
-    {
-        "title": "Driven",
-        "summary": "Новость: Driven. <p>\n            The trusted AI investment agent, from insight to action\n          </p>\n     ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Driven. <p>\n            The trusted AI investment agent, from insight to action\n          </p>\n     ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/driven-ai",
         "date": "2026-08-05"
     }
 ]
