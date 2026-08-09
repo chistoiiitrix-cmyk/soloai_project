@@ -1,5 +1,12 @@
 [
     {
+        "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+        "summary": "Новость: Planned Amazon data center could become the biggest climate polluter in the U.S.. As part of a plann... (Установите API ключ в bot.py)...",
+        "content": "Новость: Planned Amazon data center could become the biggest climate polluter in the U.S.. As part of a plann... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+        "date": "2026-08-09"
+    },
+    {
         "title": "OpenAI says it slowed Astra model development over security concerns",
         "summary": "Новость: OpenAI says it slowed Astra model development over security concerns. OpenAI said this model, which ... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI says it slowed Astra model development over security concerns. OpenAI said this model, which ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Brandfetch MCP. <p>\n            Stop your AI from guessing brand logos\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: Brandfetch MCP. <p>\n            Stop your AI from guessing brand logos\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/brandfetch",
-        "date": "2026-08-06"
-    },
-    {
-        "title": "Meta launches Muse Code, an AI agent for large code bases",
-        "summary": "Новость: Meta launches Muse Code, an AI agent for large code bases. Meta expanded its AI coding offerings wit... (Установите API ключ в bot.py)...",
-        "content": "Новость: Meta launches Muse Code, an AI agent for large code bases. Meta expanded its AI coding offerings wit... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
         "date": "2026-08-06"
     }
 ]
