@@ -1,5 +1,12 @@
 [
     {
+        "title": "Grok Imagine 2.0",
+        "summary": "Новость: Grok Imagine 2.0. <p>\n            Next-gen AI image generator with segmentation editing.\n          <... (Установите API ключ в bot.py)...",
+        "content": "Новость: Grok Imagine 2.0. <p>\n            Next-gen AI image generator with segmentation editing.\n          <... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/grok",
+        "date": "2026-08-09"
+    },
+    {
         "title": "Basedash Subscriptions",
         "summary": "Новость: Basedash Subscriptions. <p>\n            Subscribe to any dashboard. Delivered on schedule.\n         ... (Установите API ключ в bot.py)...",
         "content": "Новость: Basedash Subscriptions. <p>\n            Subscribe to any dashboard. Delivered on schedule.\n         ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400. Additional details abo... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
         "date": "2026-08-07"
-    },
-    {
-        "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-        "summary": "Новость: Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI. Mirendil has signed a ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI. Mirendil has signed a ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-        "date": "2026-08-06"
     }
 ]
