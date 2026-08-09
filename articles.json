@@ -1,5 +1,12 @@
 [
     {
+        "title": "DocsAlot CLI",
+        "summary": "Новость: DocsAlot CLI. <p>\n            Let Claude or Codex create and maintain good looking docs\n          </... (Установите API ключ в bot.py)...",
+        "content": "Новость: DocsAlot CLI. <p>\n            Let Claude or Codex create and maintain good looking docs\n          </... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/docsalot-2",
+        "date": "2026-08-09"
+    },
+    {
         "title": "Grok Imagine 2.0",
         "summary": "Новость: Grok Imagine 2.0. <p>\n            Next-gen AI image generator with segmentation editing.\n          <... (Установите API ключ в bot.py)...",
         "content": "Новость: Grok Imagine 2.0. <p>\n            Next-gen AI image generator with segmentation editing.\n          <... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Crew. <p>\n            A tiny crew of monsters for your Claude Code agents\n          </p>\n          <... (Установите API ключ в bot.py)...",
         "content": "Новость: Crew. <p>\n            A tiny crew of monsters for your Claude Code agents\n          </p>\n          <... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code",
-        "date": "2026-08-07"
-    },
-    {
-        "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-        "summary": "Новость: OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400. Additional details abo... (Установите API ключ в bot.py)...",
-        "content": "Новость: OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400. Additional details abo... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
         "date": "2026-08-07"
     }
 ]
