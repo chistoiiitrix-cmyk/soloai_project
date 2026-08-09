@@ -1,5 +1,12 @@
 [
     {
+        "title": "Basedash Subscriptions",
+        "summary": "Новость: Basedash Subscriptions. <p>\n            Subscribe to any dashboard. Delivered on schedule.\n         ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Basedash Subscriptions. <p>\n            Subscribe to any dashboard. Delivered on schedule.\n         ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/basedash",
+        "date": "2026-08-09"
+    },
+    {
         "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
         "summary": "Новость: Planned Amazon data center could become the biggest climate polluter in the U.S.. As part of a plann... (Установите API ключ в bot.py)...",
         "content": "Новость: Planned Amazon data center could become the biggest climate polluter in the U.S.. As part of a plann... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI. Mirendil has signed a ... (Установите API ключ в bot.py)...",
         "content": "Новость: Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI. Mirendil has signed a ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-        "date": "2026-08-06"
-    },
-    {
-        "title": "Brandfetch MCP",
-        "summary": "Новость: Brandfetch MCP. <p>\n            Stop your AI from guessing brand logos\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
-        "content": "Новость: Brandfetch MCP. <p>\n            Stop your AI from guessing brand logos\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/brandfetch",
         "date": "2026-08-06"
     }
 ]
