@@ -1,5 +1,12 @@
 [
     {
+        "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+        "summary": "Новость: Discovered Materials is playing AI whack-a-mole to hunt cooler chips. Discovered Materials raised $9... (Установите API ключ в bot.py)...",
+        "content": "Новость: Discovered Materials is playing AI whack-a-mole to hunt cooler chips. Discovered Materials raised $9... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+        "date": "2026-08-10"
+    },
+    {
         "title": "AI Group Call",
         "summary": "Новость: AI Group Call. <p>\n            Type a goal, join a live voice call with six AI minds\n          </p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: AI Group Call. <p>\n            Type a goal, join a live voice call with six AI minds\n          </p>\n... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: After Rippling blew millions on AI in months, it built an employee ROI tool. After its own AI usage ... (Установите API ключ в bot.py)...",
         "content": "Новость: After Rippling blew millions on AI in months, it built an employee ROI tool. After its own AI usage ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-        "date": "2026-08-08"
-    },
-    {
-        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-        "summary": "Новость: Cloudflare launches Kitesurf, a browser built for AI agents. Kitesurf is a cloud-hosted browser desi... (Установите API ключ в bot.py)...",
-        "content": "Новость: Cloudflare launches Kitesurf, a browser built for AI agents. Kitesurf is a cloud-hosted browser desi... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
         "date": "2026-08-08"
     }
 ]
