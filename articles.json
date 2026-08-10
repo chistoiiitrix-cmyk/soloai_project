@@ -1,5 +1,12 @@
 [
     {
+        "title": "Workflo",
+        "summary": "Новость: Workflo. <p>\n            Mac workspace automation that never sees your screen\n          </p>\n       ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Workflo. <p>\n            Mac workspace automation that never sees your screen\n          </p>\n       ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/workflo-2",
+        "date": "2026-08-10"
+    },
+    {
         "title": "DocsAlot CLI",
         "summary": "Новость: DocsAlot CLI. <p>\n            Let Claude or Codex create and maintain good looking docs\n          </... (Установите API ключ в bot.py)...",
         "content": "Новость: DocsAlot CLI. <p>\n            Let Claude or Codex create and maintain good looking docs\n          </... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Airbnb says AI is helping it ship features faster as it tests a new search function. Airbnb will deb... (Установите API ключ в bot.py)...",
         "content": "Новость: Airbnb says AI is helping it ship features faster as it tests a new search function. Airbnb will deb... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-        "date": "2026-08-07"
-    },
-    {
-        "title": "Crew",
-        "summary": "Новость: Crew. <p>\n            A tiny crew of monsters for your Claude Code agents\n          </p>\n          <... (Установите API ключ в bot.py)...",
-        "content": "Новость: Crew. <p>\n            A tiny crew of monsters for your Claude Code agents\n          </p>\n          <... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code",
         "date": "2026-08-07"
     }
 ]
