@@ -1,5 +1,12 @@
 [
     {
+        "title": "Google’s Gemini app surges to one billion users",
+        "summary": "Новость: Google’s Gemini app surges to one billion users. Gemini is keeping pace with OpenAI’s ChatGPT, which... (Установите API ключ в bot.py)...",
+        "content": "Новость: Google’s Gemini app surges to one billion users. Gemini is keeping pace with OpenAI’s ChatGPT, which... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+        "date": "2026-08-11"
+    },
+    {
         "title": "OpenAI reportedly completed a $7 billion employee tender offer",
         "summary": "Новость: OpenAI reportedly completed a $7 billion employee tender offer. San Francisco's housing market is in... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI reportedly completed a $7 billion employee tender offer. San Francisco's housing market is in... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Basedash Subscriptions. <p>\n            Subscribe to any dashboard. Delivered on schedule.\n         ... (Установите API ключ в bot.py)...",
         "content": "Новость: Basedash Subscriptions. <p>\n            Subscribe to any dashboard. Delivered on schedule.\n         ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/basedash",
-        "date": "2026-08-09"
-    },
-    {
-        "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-        "summary": "Новость: Planned Amazon data center could become the biggest climate polluter in the U.S.. As part of a plann... (Установите API ключ в bot.py)...",
-        "content": "Новость: Planned Amazon data center could become the biggest climate polluter in the U.S.. As part of a plann... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
         "date": "2026-08-09"
     }
 ]
