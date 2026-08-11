@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+        "summary": "Новость: OpenAI reportedly completed a $7 billion employee tender offer. San Francisco's housing market is in... (Установите API ключ в bot.py)...",
+        "content": "Новость: OpenAI reportedly completed a $7 billion employee tender offer. San Francisco's housing market is in... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+        "date": "2026-08-11"
+    },
+    {
         "title": "Vidaya",
         "summary": "Новость: Vidaya. <p>\n            Healthspan score from your wearables, labs, and DNA. \n          </p>\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: Vidaya. <p>\n            Healthspan score from your wearables, labs, and DNA. \n          </p>\n       ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Planned Amazon data center could become the biggest climate polluter in the U.S.. As part of a plann... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
         "date": "2026-08-09"
-    },
-    {
-        "title": "OpenAI says it slowed Astra model development over security concerns",
-        "summary": "Новость: OpenAI says it slowed Astra model development over security concerns. OpenAI said this model, which ... (Установите API ключ в bot.py)...",
-        "content": "Новость: OpenAI says it slowed Astra model development over security concerns. OpenAI said this model, which ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-        "date": "2026-08-08"
     }
 ]
