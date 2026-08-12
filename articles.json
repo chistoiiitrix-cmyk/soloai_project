@@ -1,5 +1,12 @@
 [
     {
+        "title": "Equitybee Benchmark",
+        "summary": "Новость: Equitybee Benchmark. <p>\n            Compare your startup equity grant for free.\n          </p>\n    ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Equitybee Benchmark. <p>\n            Compare your startup equity grant for free.\n          </p>\n    ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/equitybee",
+        "date": "2026-08-12"
+    },
+    {
         "title": "Google’s Gemini app surges to one billion users",
         "summary": "Новость: Google’s Gemini app surges to one billion users. Gemini is keeping pace with OpenAI’s ChatGPT, which... (Установите API ключ в bot.py)...",
         "content": "Новость: Google’s Gemini app surges to one billion users. Gemini is keeping pace with OpenAI’s ChatGPT, which... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Grok Imagine 2.0. <p>\n            Next-gen AI image generator with segmentation editing.\n          <... (Установите API ключ в bot.py)...",
         "content": "Новость: Grok Imagine 2.0. <p>\n            Next-gen AI image generator with segmentation editing.\n          <... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/grok",
-        "date": "2026-08-09"
-    },
-    {
-        "title": "Basedash Subscriptions",
-        "summary": "Новость: Basedash Subscriptions. <p>\n            Subscribe to any dashboard. Delivered on schedule.\n         ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Basedash Subscriptions. <p>\n            Subscribe to any dashboard. Delivered on schedule.\n         ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/basedash",
         "date": "2026-08-09"
     }
 ]
