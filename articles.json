@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+        "summary": "Новость: OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise. Thrive Holdings has raised $... (Установите API ключ в bot.py)...",
+        "content": "Новость: OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise. Thrive Holdings has raised $... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+        "date": "2026-08-12"
+    },
+    {
         "title": "tash",
         "summary": "Новость: tash. <p>\n            The investment platform for trading cards\n          </p>\n          <p>\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: tash. <p>\n            The investment platform for trading cards\n          </p>\n          <p>\n       ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Portfolio Lab. <p>\n            AI investing, done responsibly\n          </p>\n          <p>\n         ... (Установите API ключ в bot.py)...",
         "content": "Новость: Portfolio Lab. <p>\n            AI investing, done responsibly\n          </p>\n          <p>\n         ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/portfolio-lab",
-        "date": "2026-08-10"
-    },
-    {
-        "title": "Workflo",
-        "summary": "Новость: Workflo. <p>\n            Mac workspace automation that never sees your screen\n          </p>\n       ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Workflo. <p>\n            Mac workspace automation that never sees your screen\n          </p>\n       ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/workflo-2",
         "date": "2026-08-10"
     }
 ]
