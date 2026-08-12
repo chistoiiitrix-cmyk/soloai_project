@@ -1,5 +1,12 @@
 [
     {
+        "title": "tash",
+        "summary": "Новость: tash. <p>\n            The investment platform for trading cards\n          </p>\n          <p>\n       ... (Установите API ключ в bot.py)...",
+        "content": "Новость: tash. <p>\n            The investment platform for trading cards\n          </p>\n          <p>\n       ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/tash",
+        "date": "2026-08-12"
+    },
+    {
         "title": "Google’s Gemini app surges to 1 billion users",
         "summary": "Новость: Google’s Gemini app surges to 1 billion users. Google also shared numbers of how people are actually... (Установите API ключ в bot.py)...",
         "content": "Новость: Google’s Gemini app surges to 1 billion users. Google also shared numbers of how people are actually... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Workflo. <p>\n            Mac workspace automation that never sees your screen\n          </p>\n       ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/workflo-2",
         "date": "2026-08-10"
-    },
-    {
-        "title": "DocsAlot CLI",
-        "summary": "Новость: DocsAlot CLI. <p>\n            Let Claude or Codex create and maintain good looking docs\n          </... (Установите API ключ в bot.py)...",
-        "content": "Новость: DocsAlot CLI. <p>\n            Let Claude or Codex create and maintain good looking docs\n          </... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/docsalot-2",
-        "date": "2026-08-09"
     }
 ]
