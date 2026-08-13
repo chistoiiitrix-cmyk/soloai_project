@@ -1,5 +1,12 @@
 [
     {
+        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+        "summary": "Новость: Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, cl... (Установите API ключ в bot.py)...",
+        "content": "Новость: Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, cl... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+        "date": "2026-08-13"
+    },
+    {
         "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
         "summary": "Новость: Amazon will train on Twitch streamers’ content by default, unless they opt out. \"If this was opt-in,... (Установите API ключ в bot.py)...",
         "content": "Новость: Amazon will train on Twitch streamers’ content by default, unless they opt out. \"If this was opt-in,... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Discovered Materials is playing AI whack-a-mole to hunt cooler chips. Discovered Materials raised $9... (Установите API ключ в bot.py)...",
         "content": "Новость: Discovered Materials is playing AI whack-a-mole to hunt cooler chips. Discovered Materials raised $9... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-        "date": "2026-08-10"
-    },
-    {
-        "title": "AI Group Call",
-        "summary": "Новость: AI Group Call. <p>\n            Type a goal, join a live voice call with six AI minds\n          </p>\n... (Установите API ключ в bot.py)...",
-        "content": "Новость: AI Group Call. <p>\n            Type a goal, join a live voice call with six AI minds\n          </p>\n... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/ai-group-call",
         "date": "2026-08-10"
     }
 ]
