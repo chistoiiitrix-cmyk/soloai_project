@@ -1,5 +1,12 @@
 [
     {
+        "title": "WebBrain",
+        "summary": "Новость: WebBrain. <p>\n            The sidebar agent for the rest of us\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)...",
+        "content": "Новость: WebBrain. <p>\n            The sidebar agent for the rest of us\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/webbrain",
+        "date": "2026-08-13"
+    },
+    {
         "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
         "summary": "Новость: Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, cl... (Установите API ключ в bot.py)...",
         "content": "Новость: Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, cl... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Vidaya. <p>\n            Healthspan score from your wearables, labs, and DNA. \n          </p>\n       ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/vidaya",
         "date": "2026-08-11"
-    },
-    {
-        "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-        "summary": "Новость: Discovered Materials is playing AI whack-a-mole to hunt cooler chips. Discovered Materials raised $9... (Установите API ключ в bot.py)...",
-        "content": "Новость: Discovered Materials is playing AI whack-a-mole to hunt cooler chips. Discovered Materials raised $9... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-        "date": "2026-08-10"
     }
 ]
