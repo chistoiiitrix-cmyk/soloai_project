@@ -1,5 +1,12 @@
 [
     {
+        "title": "Suno Studio 2.0",
+        "summary": "Новость: Suno Studio 2.0. <p>\n            Browser-based generative DAW\n          </p>\n          <p>\n         ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Suno Studio 2.0. <p>\n            Browser-based generative DAW\n          </p>\n          <p>\n         ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/suno",
+        "date": "2026-08-14"
+    },
+    {
         "title": "Oasis",
         "summary": "Новость: Oasis. <p>\n            Where humans and agents come to work.\n          </p>\n          <p>\n          ... (Установите API ключ в bot.py)...",
         "content": "Новость: Oasis. <p>\n            Where humans and agents come to work.\n          </p>\n          <p>\n          ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Equitybee Benchmark. <p>\n            Compare your startup equity grant for free.\n          </p>\n    ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/equitybee",
         "date": "2026-08-12"
-    },
-    {
-        "title": "Google’s Gemini app surges to one billion users",
-        "summary": "Новость: Google’s Gemini app surges to one billion users. Gemini is keeping pace with OpenAI’s ChatGPT, which... (Установите API ключ в bot.py)...",
-        "content": "Новость: Google’s Gemini app surges to one billion users. Gemini is keeping pace with OpenAI’s ChatGPT, which... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-        "date": "2026-08-11"
     }
 ]
