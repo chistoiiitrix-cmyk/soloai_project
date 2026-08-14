@@ -1,5 +1,12 @@
 [
     {
+        "title": "Oasis",
+        "summary": "Новость: Oasis. <p>\n            Where humans and agents come to work.\n          </p>\n          <p>\n          ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Oasis. <p>\n            Where humans and agents come to work.\n          </p>\n          <p>\n          ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/oasis-6",
+        "date": "2026-08-14"
+    },
+    {
         "title": "OpenAI hires new CRO as executive shake-up continues",
         "summary": "Новость: OpenAI hires new CRO as executive shake-up continues. Dali Rajic will take over as OpenAI's top sale... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI hires new CRO as executive shake-up continues. Dali Rajic will take over as OpenAI's top sale... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Google’s Gemini app surges to one billion users. Gemini is keeping pace with OpenAI’s ChatGPT, which... (Установите API ключ в bot.py)...",
         "content": "Новость: Google’s Gemini app surges to one billion users. Gemini is keeping pace with OpenAI’s ChatGPT, which... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-        "date": "2026-08-11"
-    },
-    {
-        "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-        "summary": "Новость: OpenAI reportedly completed a $7 billion employee tender offer. San Francisco's housing market is in... (Установите API ключ в bot.py)...",
-        "content": "Новость: OpenAI reportedly completed a $7 billion employee tender offer. San Francisco's housing market is in... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
         "date": "2026-08-11"
     }
 ]
