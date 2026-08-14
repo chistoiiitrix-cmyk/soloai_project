@@ -1,5 +1,12 @@
 [
     {
+        "title": "Outcome",
+        "summary": "Новость: Outcome. <p>\n            Turn your content into a personal outcome for every lead\n          </p>\n   ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Outcome. <p>\n            Turn your content into a personal outcome for every lead\n          </p>\n   ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/contentblocks",
+        "date": "2026-08-14"
+    },
+    {
         "title": "Suno Studio 2.0",
         "summary": "Новость: Suno Studio 2.0. <p>\n            Browser-based generative DAW\n          </p>\n          <p>\n         ... (Установите API ключ в bot.py)...",
         "content": "Новость: Suno Studio 2.0. <p>\n            Browser-based generative DAW\n          </p>\n          <p>\n         ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Google’s Gemini app surges to 1 billion users. Google also shared numbers of how people are actually... (Установите API ключ в bot.py)...",
         "content": "Новость: Google’s Gemini app surges to 1 billion users. Google also shared numbers of how people are actually... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-        "date": "2026-08-12"
-    },
-    {
-        "title": "Equitybee Benchmark",
-        "summary": "Новость: Equitybee Benchmark. <p>\n            Compare your startup equity grant for free.\n          </p>\n    ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Equitybee Benchmark. <p>\n            Compare your startup equity grant for free.\n          </p>\n    ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/equitybee",
         "date": "2026-08-12"
     }
 ]
