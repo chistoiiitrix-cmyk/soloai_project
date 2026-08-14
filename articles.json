@@ -1,5 +1,12 @@
 [
     {
+        "title": "Compass Calendar",
+        "summary": "Новость: Compass Calendar. <p>\n            The keyboard-first calendar to get organized quickly\n          </p... (Установите API ключ в bot.py)...",
+        "content": "Новость: Compass Calendar. <p>\n            The keyboard-first calendar to get organized quickly\n          </p... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/compass-calendar",
+        "date": "2026-08-14"
+    },
+    {
         "title": "Outcome",
         "summary": "Новость: Outcome. <p>\n            Turn your content into a personal outcome for every lead\n          </p>\n   ... (Установите API ключ в bot.py)...",
         "content": "Новость: Outcome. <p>\n            Turn your content into a personal outcome for every lead\n          </p>\n   ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: tash. <p>\n            The investment platform for trading cards\n          </p>\n          <p>\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: tash. <p>\n            The investment platform for trading cards\n          </p>\n          <p>\n       ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/tash",
-        "date": "2026-08-12"
-    },
-    {
-        "title": "Google’s Gemini app surges to 1 billion users",
-        "summary": "Новость: Google’s Gemini app surges to 1 billion users. Google also shared numbers of how people are actually... (Установите API ключ в bot.py)...",
-        "content": "Новость: Google’s Gemini app surges to 1 billion users. Google also shared numbers of how people are actually... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
         "date": "2026-08-12"
     }
 ]
