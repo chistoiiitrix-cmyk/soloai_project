@@ -1,5 +1,12 @@
 [
     {
+        "title": "Big Mike",
+        "summary": "Новость: Big Mike. <p>\n            Your favorite uncle who knows sports & bets, on iMessage\n          </p>\n  ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Big Mike. <p>\n            Your favorite uncle who knows sports & bets, on iMessage\n          </p>\n  ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/big-mike",
+        "date": "2026-08-15"
+    },
+    {
         "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
         "summary": "Новость: Does Mark Zuckerberg really believe AI is ‘for everyone’?. Meta released Glimmer this week, an open-... (Установите API ключ в bot.py)...",
         "content": "Новость: Does Mark Zuckerberg really believe AI is ‘for everyone’?. Meta released Glimmer this week, an open-... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, cl... (Установите API ключ в bot.py)...",
         "content": "Новость: Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, cl... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-        "date": "2026-08-13"
-    },
-    {
-        "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-        "summary": "Новость: Amazon will train on Twitch streamers’ content by default, unless they opt out. \"If this was opt-in,... (Установите API ключ в bot.py)...",
-        "content": "Новость: Amazon will train on Twitch streamers’ content by default, unless they opt out. \"If this was opt-in,... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
         "date": "2026-08-13"
     }
 ]
