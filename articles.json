@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kog is going deeper to squeeze more inference out of GPUs",
+        "summary": "Новость: Kog is going deeper to squeeze more inference out of GPUs. The idea that GPUs are poorly suited for ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Kog is going deeper to squeeze more inference out of GPUs. The idea that GPUs are poorly suited for ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+        "date": "2026-08-15"
+    },
+    {
         "title": "Compass Calendar",
         "summary": "Новость: Compass Calendar. <p>\n            The keyboard-first calendar to get organized quickly\n          </p... (Установите API ключ в bot.py)...",
         "content": "Новость: Compass Calendar. <p>\n            The keyboard-first calendar to get organized quickly\n          </p... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise. Thrive Holdings has raised $... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise. Thrive Holdings has raised $... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-        "date": "2026-08-12"
-    },
-    {
-        "title": "tash",
-        "summary": "Новость: tash. <p>\n            The investment platform for trading cards\n          </p>\n          <p>\n       ... (Установите API ключ в bot.py)...",
-        "content": "Новость: tash. <p>\n            The investment platform for trading cards\n          </p>\n          <p>\n       ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/tash",
         "date": "2026-08-12"
     }
 ]
