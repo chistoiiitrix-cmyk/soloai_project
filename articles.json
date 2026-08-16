@@ -1,5 +1,12 @@
 [
     {
+        "title": "Clamshell",
+        "summary": "Новость: Clamshell. <p>\n            Close your MacBook. Keep the work running.\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Clamshell. <p>\n            Close your MacBook. Keep the work running.\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/clamshell",
+        "date": "2026-08-16"
+    },
+    {
         "title": "Big Mike",
         "summary": "Новость: Big Mike. <p>\n            Your favorite uncle who knows sports & bets, on iMessage\n          </p>\n  ... (Установите API ключ в bot.py)...",
         "content": "Новость: Big Mike. <p>\n            Your favorite uncle who knows sports & bets, on iMessage\n          </p>\n  ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: WebBrain. <p>\n            The sidebar agent for the rest of us\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)...",
         "content": "Новость: WebBrain. <p>\n            The sidebar agent for the rest of us\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/webbrain",
-        "date": "2026-08-13"
-    },
-    {
-        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-        "summary": "Новость: Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, cl... (Установите API ключ в bot.py)...",
-        "content": "Новость: Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, cl... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
         "date": "2026-08-13"
     }
 ]
