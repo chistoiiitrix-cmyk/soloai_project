@@ -1,5 +1,12 @@
 [
     {
+        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "summary": "Новость: Anthropic shares more details about how Claude’s new watermarks will work. How will the watermarking... (Установите API ключ в bot.py)...",
+        "content": "Новость: Anthropic shares more details about how Claude’s new watermarks will work. How will the watermarking... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "date": "2026-08-16"
+    },
+    {
         "title": "Clamshell",
         "summary": "Новость: Clamshell. <p>\n            Close your MacBook. Keep the work running.\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: Clamshell. <p>\n            Close your MacBook. Keep the work running.\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: OpenAI hires new CRO as executive shake-up continues. Dali Rajic will take over as OpenAI's top sale... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI hires new CRO as executive shake-up continues. Dali Rajic will take over as OpenAI's top sale... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-        "date": "2026-08-13"
-    },
-    {
-        "title": "WebBrain",
-        "summary": "Новость: WebBrain. <p>\n            The sidebar agent for the rest of us\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)...",
-        "content": "Новость: WebBrain. <p>\n            The sidebar agent for the rest of us\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/webbrain",
         "date": "2026-08-13"
     }
 ]
