@@ -1,5 +1,12 @@
 [
     {
+        "title": "CostLogic",
+        "summary": "Новость: CostLogic. <p>\n            AI-powered construction takeoffs, estimates, and invoices\n          </p>\n... (Установите API ключ в bot.py)...",
+        "content": "Новость: CostLogic. <p>\n            AI-powered construction takeoffs, estimates, and invoices\n          </p>\n... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/costlogic",
+        "date": "2026-08-17"
+    },
+    {
         "title": "HarnessRouter Community Edition",
         "summary": "Новость: HarnessRouter Community Edition. <p>\n            Open-source unified interface for agent harnesses\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: HarnessRouter Community Edition. <p>\n            Open-source unified interface for agent harnesses\n ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Suno Studio 2.0. <p>\n            Browser-based generative DAW\n          </p>\n          <p>\n         ... (Установите API ключ в bot.py)...",
         "content": "Новость: Suno Studio 2.0. <p>\n            Browser-based generative DAW\n          </p>\n          <p>\n         ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/suno",
-        "date": "2026-08-14"
-    },
-    {
-        "title": "Oasis",
-        "summary": "Новость: Oasis. <p>\n            Where humans and agents come to work.\n          </p>\n          <p>\n          ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Oasis. <p>\n            Where humans and agents come to work.\n          </p>\n          <p>\n          ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/oasis-6",
         "date": "2026-08-14"
     }
 ]
