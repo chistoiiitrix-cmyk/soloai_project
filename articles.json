@@ -1,5 +1,12 @@
 [
     {
+        "title": "Vendo",
+        "summary": "Новость: Vendo. <p>\n            Let your users build their own features inside your product\n          </p>\n  ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Vendo. <p>\n            Let your users build their own features inside your product\n          </p>\n  ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/vendo",
+        "date": "2026-08-17"
+    },
+    {
         "title": "OpenTrade",
         "summary": "Новость: OpenTrade. <p>\n            Open-source trading harness for Claude Code / Codex.\n          </p>\n     ... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenTrade. <p>\n            Open-source trading harness for Claude Code / Codex.\n          </p>\n     ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Compass Calendar. <p>\n            The keyboard-first calendar to get organized quickly\n          </p... (Установите API ключ в bot.py)...",
         "content": "Новость: Compass Calendar. <p>\n            The keyboard-first calendar to get organized quickly\n          </p... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/compass-calendar",
-        "date": "2026-08-14"
-    },
-    {
-        "title": "Outcome",
-        "summary": "Новость: Outcome. <p>\n            Turn your content into a personal outcome for every lead\n          </p>\n   ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Outcome. <p>\n            Turn your content into a personal outcome for every lead\n          </p>\n   ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/contentblocks",
         "date": "2026-08-14"
     }
 ]
