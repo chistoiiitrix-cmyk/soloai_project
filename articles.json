@@ -1,5 +1,12 @@
 [
     {
+        "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+        "summary": "Новость: Amazon, which started off selling books, is destroying rare texts to train AI. Rare books are incred... (Установите API ключ в bot.py)...",
+        "content": "Новость: Amazon, which started off selling books, is destroying rare texts to train AI. Rare books are incred... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+        "date": "2026-08-18"
+    },
+    {
         "title": "Vendo",
         "summary": "Новость: Vendo. <p>\n            Let your users build their own features inside your product\n          </p>\n  ... (Установите API ключ в bot.py)...",
         "content": "Новость: Vendo. <p>\n            Let your users build their own features inside your product\n          </p>\n  ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Kog is going deeper to squeeze more inference out of GPUs. The idea that GPUs are poorly suited for ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
         "date": "2026-08-15"
-    },
-    {
-        "title": "Compass Calendar",
-        "summary": "Новость: Compass Calendar. <p>\n            The keyboard-first calendar to get organized quickly\n          </p... (Установите API ключ в bot.py)...",
-        "content": "Новость: Compass Calendar. <p>\n            The keyboard-first calendar to get organized quickly\n          </p... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/compass-calendar",
-        "date": "2026-08-14"
     }
 ]
