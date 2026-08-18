@@ -1,5 +1,12 @@
 [
     {
+        "title": "Taku AI",
+        "summary": "Новость: Taku AI. <p>\n            Borrow the best AI setups and make them yours.\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
+        "content": "Новость: Taku AI. <p>\n            Borrow the best AI setups and make them yours.\n          </p>\n          <p>... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/taku-ai",
+        "date": "2026-08-18"
+    },
+    {
         "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
         "summary": "Новость: AI automation startup Relay shuts down, staff joins Google’s Chrome team. \"We have some really ambit... (Установите API ключ в bot.py)...",
         "content": "Новость: AI automation startup Relay shuts down, staff joins Google’s Chrome team. \"We have some really ambit... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Clamshell. <p>\n            Close your MacBook. Keep the work running.\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/clamshell",
         "date": "2026-08-16"
-    },
-    {
-        "title": "Big Mike",
-        "summary": "Новость: Big Mike. <p>\n            Your favorite uncle who knows sports & bets, on iMessage\n          </p>\n  ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Big Mike. <p>\n            Your favorite uncle who knows sports & bets, on iMessage\n          </p>\n  ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/big-mike",
-        "date": "2026-08-15"
     }
 ]
