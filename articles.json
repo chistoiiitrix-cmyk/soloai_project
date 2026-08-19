@@ -1,5 +1,12 @@
 [
     {
+        "title": "Meet the startup helping Wall Street put a price on AI compute",
+        "summary": "Новость: Meet the startup helping Wall Street put a price on AI compute. The AI buildout shows no signs of sl... (Установите API ключ в bot.py)...",
+        "content": "Новость: Meet the startup helping Wall Street put a price on AI compute. The AI buildout shows no signs of sl... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+        "date": "2026-08-19"
+    },
+    {
         "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
         "summary": "Новость: Cursor capitalizes on GitHub frustration, launches rival hosting platform. Cursor, known for its AI ... (Установите API ключ в bot.py)...",
         "content": "Новость: Cursor capitalizes on GitHub frustration, launches rival hosting platform. Cursor, known for its AI ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: HarnessRouter Community Edition. <p>\n            Open-source unified interface for agent harnesses\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: HarnessRouter Community Edition. <p>\n            Open-source unified interface for agent harnesses\n ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/epsilla",
-        "date": "2026-08-16"
-    },
-    {
-        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-        "summary": "Новость: Anthropic shares more details about how Claude’s new watermarks will work. How will the watermarking... (Установите API ключ в bot.py)...",
-        "content": "Новость: Anthropic shares more details about how Claude’s new watermarks will work. How will the watermarking... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
         "date": "2026-08-16"
     }
 ]
