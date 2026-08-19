@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+        "summary": "Новость: Cursor capitalizes on GitHub frustration, launches rival hosting platform. Cursor, known for its AI ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Cursor capitalizes on GitHub frustration, launches rival hosting platform. Cursor, known for its AI ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+        "date": "2026-08-19"
+    },
+    {
         "title": "Taku AI",
         "summary": "Новость: Taku AI. <p>\n            Borrow the best AI setups and make them yours.\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
         "content": "Новость: Taku AI. <p>\n            Borrow the best AI setups and make them yours.\n          </p>\n          <p>... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Anthropic shares more details about how Claude’s new watermarks will work. How will the watermarking... (Установите API ключ в bot.py)...",
         "content": "Новость: Anthropic shares more details about how Claude’s new watermarks will work. How will the watermarking... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-        "date": "2026-08-16"
-    },
-    {
-        "title": "Clamshell",
-        "summary": "Новость: Clamshell. <p>\n            Close your MacBook. Keep the work running.\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Clamshell. <p>\n            Close your MacBook. Keep the work running.\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/clamshell",
         "date": "2026-08-16"
     }
 ]
