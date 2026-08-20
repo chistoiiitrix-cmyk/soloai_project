@@ -1,5 +1,12 @@
 [
     {
+        "title": "MeetStream AI",
+        "summary": "Новость: MeetStream AI. <p>\n            Unified API & Infra for AI Meeting Agents\n          </p>\n          <p... (Установите API ключ в bot.py)...",
+        "content": "Новость: MeetStream AI. <p>\n            Unified API & Infra for AI Meeting Agents\n          </p>\n          <p... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/meetstream-ai",
+        "date": "2026-08-20"
+    },
+    {
         "title": "MiniMax Design",
         "summary": "Новость: MiniMax Design. <p>\n            Your own agent team for open-ended creation\n          </p>\n         ... (Установите API ключ в bot.py)...",
         "content": "Новость: MiniMax Design. <p>\n            Your own agent team for open-ended creation\n          </p>\n         ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Amazon, which started off selling books, is destroying rare texts to train AI. Rare books are incred... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
         "date": "2026-08-18"
-    },
-    {
-        "title": "Vendo",
-        "summary": "Новость: Vendo. <p>\n            Let your users build their own features inside your product\n          </p>\n  ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Vendo. <p>\n            Let your users build their own features inside your product\n          </p>\n  ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/vendo",
-        "date": "2026-08-17"
     }
 ]
