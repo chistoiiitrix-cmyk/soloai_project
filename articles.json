@@ -1,5 +1,12 @@
 [
     {
+        "title": "MiniMax Design",
+        "summary": "Новость: MiniMax Design. <p>\n            Your own agent team for open-ended creation\n          </p>\n         ... (Установите API ключ в bot.py)...",
+        "content": "Новость: MiniMax Design. <p>\n            Your own agent team for open-ended creation\n          </p>\n         ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/minimax",
+        "date": "2026-08-20"
+    },
+    {
         "title": "anyCreature by Gobkit",
         "summary": "Новость: anyCreature by Gobkit. <p>\n            Summon monsters straight from your agent.\n          </p>\n    ... (Установите API ключ в bot.py)...",
         "content": "Новость: anyCreature by Gobkit. <p>\n            Summon monsters straight from your agent.\n          </p>\n    ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Vendo. <p>\n            Let your users build their own features inside your product\n          </p>\n  ... (Установите API ключ в bot.py)...",
         "content": "Новость: Vendo. <p>\n            Let your users build their own features inside your product\n          </p>\n  ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/vendo",
-        "date": "2026-08-17"
-    },
-    {
-        "title": "OpenTrade",
-        "summary": "Новость: OpenTrade. <p>\n            Open-source trading harness for Claude Code / Codex.\n          </p>\n     ... (Установите API ключ в bot.py)...",
-        "content": "Новость: OpenTrade. <p>\n            Open-source trading harness for Claude Code / Codex.\n          </p>\n     ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/opentrade",
         "date": "2026-08-17"
     }
 ]
