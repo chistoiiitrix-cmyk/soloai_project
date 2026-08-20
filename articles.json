@@ -1,5 +1,12 @@
 [
     {
+        "title": "anyCreature by Gobkit",
+        "summary": "Новость: anyCreature by Gobkit. <p>\n            Summon monsters straight from your agent.\n          </p>\n    ... (Установите API ключ в bot.py)...",
+        "content": "Новость: anyCreature by Gobkit. <p>\n            Summon monsters straight from your agent.\n          </p>\n    ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/anycreature",
+        "date": "2026-08-20"
+    },
+    {
         "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
         "summary": "Новость: Cognition CEO denies report that SpaceX tried to acquire the startup. SpaceX was reportedly in talks... (Установите API ключ в bot.py)...",
         "content": "Новость: Cognition CEO denies report that SpaceX tried to acquire the startup. SpaceX was reportedly in talks... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: OpenTrade. <p>\n            Open-source trading harness for Claude Code / Codex.\n          </p>\n     ... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenTrade. <p>\n            Open-source trading harness for Claude Code / Codex.\n          </p>\n     ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/opentrade",
-        "date": "2026-08-17"
-    },
-    {
-        "title": "CostLogic",
-        "summary": "Новость: CostLogic. <p>\n            AI-powered construction takeoffs, estimates, and invoices\n          </p>\n... (Установите API ключ в bot.py)...",
-        "content": "Новость: CostLogic. <p>\n            AI-powered construction takeoffs, estimates, and invoices\n          </p>\n... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/costlogic",
         "date": "2026-08-17"
     }
 ]
