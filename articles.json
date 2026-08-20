@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+        "summary": "Новость: Cognition CEO denies report that SpaceX tried to acquire the startup. SpaceX was reportedly in talks... (Установите API ключ в bot.py)...",
+        "content": "Новость: Cognition CEO denies report that SpaceX tried to acquire the startup. SpaceX was reportedly in talks... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+        "date": "2026-08-20"
+    },
+    {
         "title": "Meet the startup helping Wall Street put a price on AI compute",
         "summary": "Новость: Meet the startup helping Wall Street put a price on AI compute. The AI buildout shows no signs of sl... (Установите API ключ в bot.py)...",
         "content": "Новость: Meet the startup helping Wall Street put a price on AI compute. The AI buildout shows no signs of sl... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: CostLogic. <p>\n            AI-powered construction takeoffs, estimates, and invoices\n          </p>\n... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/costlogic",
         "date": "2026-08-17"
-    },
-    {
-        "title": "HarnessRouter Community Edition",
-        "summary": "Новость: HarnessRouter Community Edition. <p>\n            Open-source unified interface for agent harnesses\n ... (Установите API ключ в bot.py)...",
-        "content": "Новость: HarnessRouter Community Edition. <p>\n            Open-source unified interface for agent harnesses\n ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/epsilla",
-        "date": "2026-08-16"
     }
 ]
