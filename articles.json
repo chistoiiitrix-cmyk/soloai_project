@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+        "summary": "Новость: OpenAI is gaining on Anthropic with business users, new data indicates. Businesses are willing to fl... (Установите API ключ в bot.py)...",
+        "content": "Новость: OpenAI is gaining on Anthropic with business users, new data indicates. Businesses are willing to fl... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+        "date": "2026-08-21"
+    },
+    {
         "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
         "summary": "Новость: ChatGPT can now send texts for you with new Apple Messages plug-in. Ever wanted someone else to do y... (Установите API ключ в bot.py)...",
         "content": "Новость: ChatGPT can now send texts for you with new Apple Messages plug-in. Ever wanted someone else to do y... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Taku AI. <p>\n            Borrow the best AI setups and make them yours.\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
         "content": "Новость: Taku AI. <p>\n            Borrow the best AI setups and make them yours.\n          </p>\n          <p>... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/taku-ai",
-        "date": "2026-08-18"
-    },
-    {
-        "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-        "summary": "Новость: AI automation startup Relay shuts down, staff joins Google’s Chrome team. \"We have some really ambit... (Установите API ключ в bot.py)...",
-        "content": "Новость: AI automation startup Relay shuts down, staff joins Google’s Chrome team. \"We have some really ambit... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
         "date": "2026-08-18"
     }
 ]
