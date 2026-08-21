@@ -1,5 +1,12 @@
 [
     {
+        "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+        "summary": "Новость: ChatGPT can now send texts for you with new Apple Messages plug-in. Ever wanted someone else to do y... (Установите API ключ в bot.py)...",
+        "content": "Новость: ChatGPT can now send texts for you with new Apple Messages plug-in. Ever wanted someone else to do y... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+        "date": "2026-08-21"
+    },
+    {
         "title": "Lifelong",
         "summary": "Новость: Lifelong. <p>\n            Your whole family’s health in one place.\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)...",
         "content": "Новость: Lifelong. <p>\n            Your whole family’s health in one place.\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: AI automation startup Relay shuts down, staff joins Google’s Chrome team. \"We have some really ambit... (Установите API ключ в bot.py)...",
         "content": "Новость: AI automation startup Relay shuts down, staff joins Google’s Chrome team. \"We have some really ambit... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-        "date": "2026-08-18"
-    },
-    {
-        "title": "Omni by xpander",
-        "summary": "Новость: Omni by xpander. <p>\n            Stop babysitting your AI agents\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Omni by xpander. <p>\n            Stop babysitting your AI agents\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/omni-by-xpander",
         "date": "2026-08-18"
     }
 ]
