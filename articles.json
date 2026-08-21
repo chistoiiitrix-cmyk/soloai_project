@@ -1,5 +1,12 @@
 [
     {
+        "title": "Antigravity IDE Extensions",
+        "summary": "Новость: Antigravity IDE Extensions. <p>\n            Antigravity agents now live inside your existing editor\n... (Установите API ключ в bot.py)...",
+        "content": "Новость: Antigravity IDE Extensions. <p>\n            Antigravity agents now live inside your existing editor\n... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/google-antigravity",
+        "date": "2026-08-21"
+    },
+    {
         "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
         "summary": "Новость: OpenAI is gaining on Anthropic with business users, new data indicates. Businesses are willing to fl... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI is gaining on Anthropic with business users, new data indicates. Businesses are willing to fl... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Cursor capitalizes on GitHub frustration, launches rival hosting platform. Cursor, known for its AI ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
         "date": "2026-08-19"
-    },
-    {
-        "title": "Taku AI",
-        "summary": "Новость: Taku AI. <p>\n            Borrow the best AI setups and make them yours.\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
-        "content": "Новость: Taku AI. <p>\n            Borrow the best AI setups and make them yours.\n          </p>\n          <p>... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/taku-ai",
-        "date": "2026-08-18"
     }
 ]
