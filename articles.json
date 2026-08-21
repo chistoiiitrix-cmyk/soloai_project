@@ -1,5 +1,12 @@
 [
     {
+        "title": "Lifelong",
+        "summary": "Новость: Lifelong. <p>\n            Your whole family’s health in one place.\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Lifelong. <p>\n            Your whole family’s health in one place.\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/lifelong-the-family-health-company",
+        "date": "2026-08-21"
+    },
+    {
         "title": "MeetStream AI",
         "summary": "Новость: MeetStream AI. <p>\n            Unified API & Infra for AI Meeting Agents\n          </p>\n          <p... (Установите API ключ в bot.py)...",
         "content": "Новость: MeetStream AI. <p>\n            Unified API & Infra for AI Meeting Agents\n          </p>\n          <p... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Omni by xpander. <p>\n            Stop babysitting your AI agents\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)...",
         "content": "Новость: Omni by xpander. <p>\n            Stop babysitting your AI agents\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/omni-by-xpander",
-        "date": "2026-08-18"
-    },
-    {
-        "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-        "summary": "Новость: Amazon, which started off selling books, is destroying rare texts to train AI. Rare books are incred... (Установите API ключ в bot.py)...",
-        "content": "Новость: Amazon, which started off selling books, is destroying rare texts to train AI. Rare books are incred... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
         "date": "2026-08-18"
     }
 ]
