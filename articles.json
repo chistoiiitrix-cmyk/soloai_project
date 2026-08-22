@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pocket by Meta",
+        "summary": "Новость: Pocket by Meta. <p>\n            Vibe-code games, then share them like TikToks\n          </p>\n       ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Pocket by Meta. <p>\n            Vibe-code games, then share them like TikToks\n          </p>\n       ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/pocket-by-meta",
+        "date": "2026-08-22"
+    },
+    {
         "title": "Outlook Google Calendar Sync for Mac",
         "summary": "Новость: Outlook Google Calendar Sync for Mac. <p>\n            Sync Outlook calendars to Google on your Mac\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: Outlook Google Calendar Sync for Mac. <p>\n            Sync Outlook calendars to Google on your Mac\n ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: anyCreature by Gobkit. <p>\n            Summon monsters straight from your agent.\n          </p>\n    ... (Установите API ключ в bot.py)...",
         "content": "Новость: anyCreature by Gobkit. <p>\n            Summon monsters straight from your agent.\n          </p>\n    ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/anycreature",
-        "date": "2026-08-20"
-    },
-    {
-        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-        "summary": "Новость: Cognition CEO denies report that SpaceX tried to acquire the startup. SpaceX was reportedly in talks... (Установите API ключ в bot.py)...",
-        "content": "Новость: Cognition CEO denies report that SpaceX tried to acquire the startup. SpaceX was reportedly in talks... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
         "date": "2026-08-20"
     }
 ]
