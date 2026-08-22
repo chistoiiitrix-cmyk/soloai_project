@@ -1,5 +1,12 @@
 [
     {
+        "title": "Nvidia partners with data center developer Cloverleaf",
+        "summary": "Новость: Nvidia partners with data center developer Cloverleaf. Nvidia continues to pour money into data cent... (Установите API ключ в bot.py)...",
+        "content": "Новость: Nvidia partners with data center developer Cloverleaf. Nvidia continues to pour money into data cent... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+        "date": "2026-08-22"
+    },
+    {
         "title": "Antigravity IDE Extensions",
         "summary": "Новость: Antigravity IDE Extensions. <p>\n            Antigravity agents now live inside your existing editor\n... (Установите API ключ в bot.py)...",
         "content": "Новость: Antigravity IDE Extensions. <p>\n            Antigravity agents now live inside your existing editor\n... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Meet the startup helping Wall Street put a price on AI compute. The AI buildout shows no signs of sl... (Установите API ключ в bot.py)...",
         "content": "Новость: Meet the startup helping Wall Street put a price on AI compute. The AI buildout shows no signs of sl... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-        "date": "2026-08-19"
-    },
-    {
-        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-        "summary": "Новость: Cursor capitalizes on GitHub frustration, launches rival hosting platform. Cursor, known for its AI ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Cursor capitalizes on GitHub frustration, launches rival hosting platform. Cursor, known for its AI ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
         "date": "2026-08-19"
     }
 ]
