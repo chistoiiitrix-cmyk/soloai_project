@@ -1,5 +1,12 @@
 [
     {
+        "title": "Outlook Google Calendar Sync for Mac",
+        "summary": "Новость: Outlook Google Calendar Sync for Mac. <p>\n            Sync Outlook calendars to Google on your Mac\n ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Outlook Google Calendar Sync for Mac. <p>\n            Sync Outlook calendars to Google on your Mac\n ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/outlook-google-calendar-sync-for-mac",
+        "date": "2026-08-22"
+    },
+    {
         "title": "Nvidia partners with data center developer Cloverleaf",
         "summary": "Новость: Nvidia partners with data center developer Cloverleaf. Nvidia continues to pour money into data cent... (Установите API ключ в bot.py)...",
         "content": "Новость: Nvidia partners with data center developer Cloverleaf. Nvidia continues to pour money into data cent... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Cognition CEO denies report that SpaceX tried to acquire the startup. SpaceX was reportedly in talks... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
         "date": "2026-08-20"
-    },
-    {
-        "title": "Meet the startup helping Wall Street put a price on AI compute",
-        "summary": "Новость: Meet the startup helping Wall Street put a price on AI compute. The AI buildout shows no signs of sl... (Установите API ключ в bot.py)...",
-        "content": "Новость: Meet the startup helping Wall Street put a price on AI compute. The AI buildout shows no signs of sl... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-        "date": "2026-08-19"
     }
 ]
