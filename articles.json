@@ -1,5 +1,12 @@
 [
     {
+        "title": "Tab Notes",
+        "summary": "Новость: Tab Notes. <p>\n            Turn your browser new tab into a distraction-free notepad\n          </p>\n... (Установите API ключ в bot.py)...",
+        "content": "Новость: Tab Notes. <p>\n            Turn your browser new tab into a distraction-free notepad\n          </p>\n... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/tab-notes",
+        "date": "2026-08-23"
+    },
+    {
         "title": "Zero",
         "summary": "Новость: Zero. <p>\n            Vercel's programming language built for AI agents\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
         "content": "Новость: Zero. <p>\n            Vercel's programming language built for AI agents\n          </p>\n          <p>... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Lifelong. <p>\n            Your whole family’s health in one place.\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/lifelong-the-family-health-company",
         "date": "2026-08-21"
-    },
-    {
-        "title": "MeetStream AI",
-        "summary": "Новость: MeetStream AI. <p>\n            Unified API & Infra for AI Meeting Agents\n          </p>\n          <p... (Установите API ключ в bot.py)...",
-        "content": "Новость: MeetStream AI. <p>\n            Unified API & Infra for AI Meeting Agents\n          </p>\n          <p... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/meetstream-ai",
-        "date": "2026-08-20"
     }
 ]
