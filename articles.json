@@ -1,5 +1,12 @@
 [
     {
+        "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+        "summary": "Новость: Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash. Flock Safety faces ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash. Flock Safety faces ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+        "date": "2026-08-23"
+    },
+    {
         "title": "Tab Notes",
         "summary": "Новость: Tab Notes. <p>\n            Turn your browser new tab into a distraction-free notepad\n          </p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: Tab Notes. <p>\n            Turn your browser new tab into a distraction-free notepad\n          </p>\n... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: ChatGPT can now send texts for you with new Apple Messages plug-in. Ever wanted someone else to do y... (Установите API ключ в bot.py)...",
         "content": "Новость: ChatGPT can now send texts for you with new Apple Messages plug-in. Ever wanted someone else to do y... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-        "date": "2026-08-21"
-    },
-    {
-        "title": "Lifelong",
-        "summary": "Новость: Lifelong. <p>\n            Your whole family’s health in one place.\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Lifelong. <p>\n            Your whole family’s health in one place.\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/lifelong-the-family-health-company",
         "date": "2026-08-21"
     }
 ]
