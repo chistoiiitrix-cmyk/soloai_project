@@ -1,5 +1,12 @@
 [
     {
+        "title": "Zero",
+        "summary": "Новость: Zero. <p>\n            Vercel's programming language built for AI agents\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
+        "content": "Новость: Zero. <p>\n            Vercel's programming language built for AI agents\n          </p>\n          <p>... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/zero-15",
+        "date": "2026-08-23"
+    },
+    {
         "title": "Anthropic’s Opus 4.6 is a smut-machine",
         "summary": "Новость: Anthropic’s Opus 4.6 is a smut-machine. Anthropic forbids its Claude models from generating sexually... (Установите API ключ в bot.py)...",
         "content": "Новость: Anthropic’s Opus 4.6 is a smut-machine. Anthropic forbids its Claude models from generating sexually... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: MeetStream AI. <p>\n            Unified API & Infra for AI Meeting Agents\n          </p>\n          <p... (Установите API ключ в bot.py)...",
         "content": "Новость: MeetStream AI. <p>\n            Unified API & Infra for AI Meeting Agents\n          </p>\n          <p... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/meetstream-ai",
-        "date": "2026-08-20"
-    },
-    {
-        "title": "MiniMax Design",
-        "summary": "Новость: MiniMax Design. <p>\n            Your own agent team for open-ended creation\n          </p>\n         ... (Установите API ключ в bot.py)...",
-        "content": "Новость: MiniMax Design. <p>\n            Your own agent team for open-ended creation\n          </p>\n         ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/minimax",
         "date": "2026-08-20"
     }
 ]
