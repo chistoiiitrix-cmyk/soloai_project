@@ -1,5 +1,12 @@
 [
     {
+        "title": "PaymentKit",
+        "summary": "Новость: PaymentKit. <p>\n            Billing that survives a processor shutdown\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
+        "content": "Новость: PaymentKit. <p>\n            Billing that survives a processor shutdown\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/paymentkit",
+        "date": "2026-08-24"
+    },
+    {
         "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
         "summary": "Новость: Linkdaze’s smart calendar is built to run a household, not just track a schedule. Linkdaze's smart d... (Установите API ключ в bot.py)...",
         "content": "Новость: Linkdaze’s smart calendar is built to run a household, not just track a schedule. Linkdaze's smart d... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Antigravity IDE Extensions. <p>\n            Antigravity agents now live inside your existing editor\n... (Установите API ключ в bot.py)...",
         "content": "Новость: Antigravity IDE Extensions. <p>\n            Antigravity agents now live inside your existing editor\n... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/google-antigravity",
-        "date": "2026-08-21"
-    },
-    {
-        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-        "summary": "Новость: OpenAI is gaining on Anthropic with business users, new data indicates. Businesses are willing to fl... (Установите API ключ в bot.py)...",
-        "content": "Новость: OpenAI is gaining on Anthropic with business users, new data indicates. Businesses are willing to fl... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
         "date": "2026-08-21"
     }
 ]
