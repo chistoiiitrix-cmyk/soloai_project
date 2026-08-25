@@ -1,5 +1,12 @@
 [
     {
+        "title": "ChatGPT Ad Library",
+        "summary": "Новость: ChatGPT Ad Library. <p>\n            See every ad running inside ChatGPT\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
+        "content": "Новость: ChatGPT Ad Library. <p>\n            See every ad running inside ChatGPT\n          </p>\n          <p>... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/chatgpt-ad-library",
+        "date": "2026-08-25"
+    },
+    {
         "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
         "summary": "Новость: Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC. The AI ... (Установите API ключ в bot.py)...",
         "content": "Новость: Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC. The AI ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Anthropic’s Opus 4.6 is a smut-machine. Anthropic forbids its Claude models from generating sexually... (Установите API ключ в bot.py)...",
         "content": "Новость: Anthropic’s Opus 4.6 is a smut-machine. Anthropic forbids its Claude models from generating sexually... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-        "date": "2026-08-22"
-    },
-    {
-        "title": "Pocket by Meta",
-        "summary": "Новость: Pocket by Meta. <p>\n            Vibe-code games, then share them like TikToks\n          </p>\n       ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Pocket by Meta. <p>\n            Vibe-code games, then share them like TikToks\n          </p>\n       ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/pocket-by-meta",
         "date": "2026-08-22"
     }
 ]
