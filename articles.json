@@ -1,5 +1,12 @@
 [
     {
+        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+        "summary": "Новость: Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC. The AI ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC. The AI ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+        "date": "2026-08-25"
+    },
+    {
         "title": "Decawork",
         "summary": "Новость: Decawork. <p>\n            Control your company's internal AI agents and tools\n          </p>\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: Decawork. <p>\n            Control your company's internal AI agents and tools\n          </p>\n       ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Pocket by Meta. <p>\n            Vibe-code games, then share them like TikToks\n          </p>\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: Pocket by Meta. <p>\n            Vibe-code games, then share them like TikToks\n          </p>\n       ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/pocket-by-meta",
-        "date": "2026-08-22"
-    },
-    {
-        "title": "Outlook Google Calendar Sync for Mac",
-        "summary": "Новость: Outlook Google Calendar Sync for Mac. <p>\n            Sync Outlook calendars to Google on your Mac\n ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Outlook Google Calendar Sync for Mac. <p>\n            Sync Outlook calendars to Google on your Mac\n ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/outlook-google-calendar-sync-for-mac",
         "date": "2026-08-22"
     }
 ]
