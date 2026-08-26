@@ -1,5 +1,12 @@
 [
     {
+        "title": "EasySwitch",
+        "summary": "Новость: EasySwitch. <p>\n            One mouse, keyboard and second screen for all your computers\n          <... (Установите API ключ в bot.py)...",
+        "content": "Новость: EasySwitch. <p>\n            One mouse, keyboard and second screen for all your computers\n          <... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/easyswitch",
+        "date": "2026-08-26"
+    },
+    {
         "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
         "summary": "Новость: Runable hits $21M to bet AI agents can go from building businesses to growing them. Runable says 60%... (Установите API ключ в bot.py)...",
         "content": "Новость: Runable hits $21M to bet AI agents can go from building businesses to growing them. Runable says 60%... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Linkdaze’s smart calendar is built to run a household, not just track a schedule. Linkdaze's smart d... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
         "date": "2026-08-24"
-    },
-    {
-        "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-        "summary": "Новость: Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash. Flock Safety faces ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash. Flock Safety faces ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-        "date": "2026-08-23"
     }
 ]
