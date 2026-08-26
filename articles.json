@@ -1,5 +1,12 @@
 [
     {
+        "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+        "summary": "Новость: Runable hits $21M to bet AI agents can go from building businesses to growing them. Runable says 60%... (Установите API ключ в bot.py)...",
+        "content": "Новость: Runable hits $21M to bet AI agents can go from building businesses to growing them. Runable says 60%... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+        "date": "2026-08-26"
+    },
+    {
         "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
         "summary": "Новость: India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call. Ringg has raised ... (Установите API ключ в bot.py)...",
         "content": "Новость: India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call. Ringg has raised ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash. Flock Safety faces ... (Установите API ключ в bot.py)...",
         "content": "Новость: Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash. Flock Safety faces ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-        "date": "2026-08-23"
-    },
-    {
-        "title": "Tab Notes",
-        "summary": "Новость: Tab Notes. <p>\n            Turn your browser new tab into a distraction-free notepad\n          </p>\n... (Установите API ключ в bot.py)...",
-        "content": "Новость: Tab Notes. <p>\n            Turn your browser new tab into a distraction-free notepad\n          </p>\n... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/tab-notes",
         "date": "2026-08-23"
     }
 ]
