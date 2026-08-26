@@ -1,5 +1,12 @@
 [
     {
+        "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+        "summary": "Новость: India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call. Ringg has raised ... (Установите API ключ в bot.py)...",
+        "content": "Новость: India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call. Ringg has raised ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+        "date": "2026-08-26"
+    },
+    {
         "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
         "summary": "Новость: Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding. The co... (Установите API ключ в bot.py)...",
         "content": "Новость: Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding. The co... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Tab Notes. <p>\n            Turn your browser new tab into a distraction-free notepad\n          </p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: Tab Notes. <p>\n            Turn your browser new tab into a distraction-free notepad\n          </p>\n... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/tab-notes",
-        "date": "2026-08-23"
-    },
-    {
-        "title": "Zero",
-        "summary": "Новость: Zero. <p>\n            Vercel's programming language built for AI agents\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
-        "content": "Новость: Zero. <p>\n            Vercel's programming language built for AI agents\n          </p>\n          <p>... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/zero-15",
         "date": "2026-08-23"
     }
 ]
