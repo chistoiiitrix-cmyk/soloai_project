@@ -1,5 +1,12 @@
 [
     {
+        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+        "summary": "Новость: Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding. The co... (Установите API ключ в bot.py)...",
+        "content": "Новость: Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding. The co... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+        "date": "2026-08-26"
+    },
+    {
         "title": "ChatGPT Ad Library",
         "summary": "Новость: ChatGPT Ad Library. <p>\n            See every ad running inside ChatGPT\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
         "content": "Новость: ChatGPT Ad Library. <p>\n            See every ad running inside ChatGPT\n          </p>\n          <p>... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Zero. <p>\n            Vercel's programming language built for AI agents\n          </p>\n          <p>... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/zero-15",
         "date": "2026-08-23"
-    },
-    {
-        "title": "Anthropic’s Opus 4.6 is a smut-machine",
-        "summary": "Новость: Anthropic’s Opus 4.6 is a smut-machine. Anthropic forbids its Claude models from generating sexually... (Установите API ключ в bot.py)...",
-        "content": "Новость: Anthropic’s Opus 4.6 is a smut-machine. Anthropic forbids its Claude models from generating sexually... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-        "date": "2026-08-22"
     }
 ]
