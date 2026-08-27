@@ -1,5 +1,12 @@
 [
     {
+        "title": "IQ Routing",
+        "summary": "Новость: IQ Routing. <p>\n            Trajectory-aware LLM routing that cuts agent cost\n          </p>\n       ... (Установите API ключ в bot.py)...",
+        "content": "Новость: IQ Routing. <p>\n            Trajectory-aware LLM routing that cuts agent cost\n          </p>\n       ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/iq-routing",
+        "date": "2026-08-27"
+    },
+    {
         "title": "EasySwitch",
         "summary": "Новость: EasySwitch. <p>\n            One mouse, keyboard and second screen for all your computers\n          <... (Установите API ключ в bot.py)...",
         "content": "Новость: EasySwitch. <p>\n            One mouse, keyboard and second screen for all your computers\n          <... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: PaymentKit. <p>\n            Billing that survives a processor shutdown\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: PaymentKit. <p>\n            Billing that survives a processor shutdown\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/paymentkit",
-        "date": "2026-08-24"
-    },
-    {
-        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-        "summary": "Новость: Linkdaze’s smart calendar is built to run a household, not just track a schedule. Linkdaze's smart d... (Установите API ключ в bot.py)...",
-        "content": "Новость: Linkdaze’s smart calendar is built to run a household, not just track a schedule. Linkdaze's smart d... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
         "date": "2026-08-24"
     }
 ]
