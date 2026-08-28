@@ -1,5 +1,12 @@
 [
     {
+        "title": "Aramb",
+        "summary": "Новость: Aramb. <p>\n            Build, launch and monetize your AI agents in 20 minutes\n          </p>\n      ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Aramb. <p>\n            Build, launch and monetize your AI agents in 20 minutes\n          </p>\n      ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/aramb",
+        "date": "2026-08-28"
+    },
+    {
         "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
         "summary": "Новость: OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI. Some ... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI. Some ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC. The AI ... (Установите API ключ в bot.py)...",
         "content": "Новость: Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC. The AI ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-        "date": "2026-08-25"
-    },
-    {
-        "title": "Decawork",
-        "summary": "Новость: Decawork. <p>\n            Control your company's internal AI agents and tools\n          </p>\n       ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Decawork. <p>\n            Control your company's internal AI agents and tools\n          </p>\n       ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/decawork",
         "date": "2026-08-25"
     }
 ]
