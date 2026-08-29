@@ -1,5 +1,12 @@
 [
     {
+        "title": "Nvidia’s AI advantage is moving beyond the GPU",
+        "summary": "Новость: Nvidia’s AI advantage is moving beyond the GPU. The new generation of data center systems is increas... (Установите API ключ в bot.py)...",
+        "content": "Новость: Nvidia’s AI advantage is moving beyond the GPU. The new generation of data center systems is increas... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "date": "2026-08-29"
+    },
+    {
         "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
         "summary": "Новость: Open-weight AI companies are the Valley’s hottest acquisition targets. There's a lot of capital pour... (Установите API ключ в bot.py)...",
         "content": "Новость: Open-weight AI companies are the Valley’s hottest acquisition targets. There's a lot of capital pour... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call. Ringg has raised ... (Установите API ключ в bot.py)...",
         "content": "Новость: India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call. Ringg has raised ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-        "date": "2026-08-26"
-    },
-    {
-        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-        "summary": "Новость: Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding. The co... (Установите API ключ в bot.py)...",
-        "content": "Новость: Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding. The co... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
         "date": "2026-08-26"
     }
 ]
