@@ -1,5 +1,12 @@
 [
     {
+        "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+        "summary": "Новость: Open-weight AI companies are the Valley’s hottest acquisition targets. There's a lot of capital pour... (Установите API ключ в bot.py)...",
+        "content": "Новость: Open-weight AI companies are the Valley’s hottest acquisition targets. There's a lot of capital pour... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+        "date": "2026-08-29"
+    },
+    {
         "title": "PageIndex",
         "summary": "Новость: PageIndex. <p>\n            Accurate, trustworthy answers across professional documents\n          </p... (Установите API ключ в bot.py)...",
         "content": "Новость: PageIndex. <p>\n            Accurate, trustworthy answers across professional documents\n          </p... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding. The co... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
         "date": "2026-08-26"
-    },
-    {
-        "title": "ChatGPT Ad Library",
-        "summary": "Новость: ChatGPT Ad Library. <p>\n            See every ad running inside ChatGPT\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
-        "content": "Новость: ChatGPT Ad Library. <p>\n            See every ad running inside ChatGPT\n          </p>\n          <p>... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/chatgpt-ad-library",
-        "date": "2026-08-25"
     }
 ]
