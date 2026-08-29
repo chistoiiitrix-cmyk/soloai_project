@@ -1,5 +1,12 @@
 [
     {
+        "title": "PageIndex",
+        "summary": "Новость: PageIndex. <p>\n            Accurate, trustworthy answers across professional documents\n          </p... (Установите API ключ в bot.py)...",
+        "content": "Новость: PageIndex. <p>\n            Accurate, trustworthy answers across professional documents\n          </p... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/pageindexai",
+        "date": "2026-08-29"
+    },
+    {
         "title": "Aramb",
         "summary": "Новость: Aramb. <p>\n            Build, launch and monetize your AI agents in 20 minutes\n          </p>\n      ... (Установите API ключ в bot.py)...",
         "content": "Новость: Aramb. <p>\n            Build, launch and monetize your AI agents in 20 minutes\n          </p>\n      ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: ChatGPT Ad Library. <p>\n            See every ad running inside ChatGPT\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
         "content": "Новость: ChatGPT Ad Library. <p>\n            See every ad running inside ChatGPT\n          </p>\n          <p>... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/chatgpt-ad-library",
-        "date": "2026-08-25"
-    },
-    {
-        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-        "summary": "Новость: Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC. The AI ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC. The AI ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
         "date": "2026-08-25"
     }
 ]
