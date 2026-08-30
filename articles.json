@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+        "summary": "Новость: Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft. This ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft. This ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+        "date": "2026-08-30"
+    },
+    {
         "title": "Nvidia’s AI advantage is moving beyond the GPU",
         "summary": "Новость: Nvidia’s AI advantage is moving beyond the GPU. The new generation of data center systems is increas... (Установите API ключ в bot.py)...",
         "content": "Новость: Nvidia’s AI advantage is moving beyond the GPU. The new generation of data center systems is increas... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Runable hits $21M to bet AI agents can go from building businesses to growing them. Runable says 60%... (Установите API ключ в bot.py)...",
         "content": "Новость: Runable hits $21M to bet AI agents can go from building businesses to growing them. Runable says 60%... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-        "date": "2026-08-26"
-    },
-    {
-        "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-        "summary": "Новость: India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call. Ringg has raised ... (Установите API ключ в bot.py)...",
-        "content": "Новость: India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call. Ringg has raised ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
         "date": "2026-08-26"
     }
 ]
