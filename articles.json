@@ -1,5 +1,12 @@
 [
     {
+        "title": "RIP MY BUILD",
+        "summary": "Новость: RIP MY BUILD. <p>\n            Give your abandoned side project one last launch\n          </p>\n      ... (Установите API ключ в bot.py)...",
+        "content": "Новость: RIP MY BUILD. <p>\n            Give your abandoned side project one last launch\n          </p>\n      ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/rip-my-build",
+        "date": "2026-08-30"
+    },
+    {
         "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
         "summary": "Новость: Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft. This ... (Установите API ключ в bot.py)...",
         "content": "Новость: Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft. This ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: EasySwitch. <p>\n            One mouse, keyboard and second screen for all your computers\n          <... (Установите API ключ в bot.py)...",
         "content": "Новость: EasySwitch. <p>\n            One mouse, keyboard and second screen for all your computers\n          <... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/easyswitch",
-        "date": "2026-08-26"
-    },
-    {
-        "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-        "summary": "Новость: Runable hits $21M to bet AI agents can go from building businesses to growing them. Runable says 60%... (Установите API ключ в bot.py)...",
-        "content": "Новость: Runable hits $21M to bet AI agents can go from building businesses to growing them. Runable says 60%... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
         "date": "2026-08-26"
     }
 ]
