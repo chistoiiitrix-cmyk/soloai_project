@@ -1,5 +1,12 @@
 [
     {
+        "title": "The Pentagon now has its own version of ChatGPT and Grok",
+        "summary": "Новость: The Pentagon now has its own version of ChatGPT and Grok. Versions of OpenAI's ChatGPT and SpaceXAI'... (Установите API ключ в bot.py)...",
+        "content": "Новость: The Pentagon now has its own version of ChatGPT and Grok. Versions of OpenAI's ChatGPT and SpaceXAI'... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+        "date": "2026-08-31"
+    },
+    {
         "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
         "summary": "Новость: The U.S. is building barriers around drones and robots, but China has scale to get around them. The ... (Установите API ключ в bot.py)...",
         "content": "Новость: The U.S. is building barriers around drones and robots, but China has scale to get around them. The ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: PageIndex. <p>\n            Accurate, trustworthy answers across professional documents\n          </p... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/pageindexai",
         "date": "2026-08-29"
-    },
-    {
-        "title": "Aramb",
-        "summary": "Новость: Aramb. <p>\n            Build, launch and monetize your AI agents in 20 minutes\n          </p>\n      ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Aramb. <p>\n            Build, launch and monetize your AI agents in 20 minutes\n          </p>\n      ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/aramb",
-        "date": "2026-08-28"
     }
 ]
