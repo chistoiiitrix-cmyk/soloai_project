@@ -1,5 +1,12 @@
 [
     {
+        "title": "Instagram puts new limits on undisclosed AI profiles",
+        "summary": "Новость: Instagram puts new limits on undisclosed AI profiles. As frustration over AI influencers has been gr... (Установите API ключ в bot.py)...",
+        "content": "Новость: Instagram puts new limits on undisclosed AI profiles. As frustration over AI influencers has been gr... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+        "date": "2026-09-01"
+    },
+    {
         "title": "The Pentagon now has its own version of ChatGPT and Grok",
         "summary": "Новость: The Pentagon now has its own version of ChatGPT and Grok. Versions of OpenAI's ChatGPT and SpaceXAI'... (Установите API ключ в bot.py)...",
         "content": "Новость: The Pentagon now has its own version of ChatGPT and Grok. Versions of OpenAI's ChatGPT and SpaceXAI'... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Open-weight AI companies are the Valley’s hottest acquisition targets. There's a lot of capital pour... (Установите API ключ в bot.py)...",
         "content": "Новость: Open-weight AI companies are the Valley’s hottest acquisition targets. There's a lot of capital pour... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-        "date": "2026-08-29"
-    },
-    {
-        "title": "PageIndex",
-        "summary": "Новость: PageIndex. <p>\n            Accurate, trustworthy answers across professional documents\n          </p... (Установите API ключ в bot.py)...",
-        "content": "Новость: PageIndex. <p>\n            Accurate, trustworthy answers across professional documents\n          </p... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/pageindexai",
         "date": "2026-08-29"
     }
 ]
