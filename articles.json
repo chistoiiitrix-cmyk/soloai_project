@@ -1,5 +1,12 @@
 [
     {
+        "title": "Gauth AI Course",
+        "summary": "Новость: Gauth AI Course. <p>\n            AI courses you can watch, quiz through, and create\n          </p>\n ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Gauth AI Course. <p>\n            AI courses you can watch, quiz through, and create\n          </p>\n ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/gauth-ai-course",
+        "date": "2026-09-01"
+    },
+    {
         "title": "Instagram puts new limits on undisclosed AI profiles",
         "summary": "Новость: Instagram puts new limits on undisclosed AI profiles. As frustration over AI influencers has been gr... (Установите API ключ в bot.py)...",
         "content": "Новость: Instagram puts new limits on undisclosed AI profiles. As frustration over AI influencers has been gr... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Nvidia’s AI advantage is moving beyond the GPU. The new generation of data center systems is increas... (Установите API ключ в bot.py)...",
         "content": "Новость: Nvidia’s AI advantage is moving beyond the GPU. The new generation of data center systems is increas... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-        "date": "2026-08-29"
-    },
-    {
-        "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-        "summary": "Новость: Open-weight AI companies are the Valley’s hottest acquisition targets. There's a lot of capital pour... (Установите API ключ в bot.py)...",
-        "content": "Новость: Open-weight AI companies are the Valley’s hottest acquisition targets. There's a lot of capital pour... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
         "date": "2026-08-29"
     }
 ]
