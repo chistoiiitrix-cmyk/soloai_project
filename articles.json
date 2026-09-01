@@ -1,5 +1,12 @@
 [
     {
+        "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+        "summary": "Новость: AIR raises $50M to help companies vet the skills and add-ons AI agents use. AIR's platform can disco... (Установите API ключ в bot.py)...",
+        "content": "Новость: AIR raises $50M to help companies vet the skills and add-ons AI agents use. AIR's platform can disco... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+        "date": "2026-09-01"
+    },
+    {
         "title": "Gauth AI Course",
         "summary": "Новость: Gauth AI Course. <p>\n            AI courses you can watch, quiz through, and create\n          </p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: Gauth AI Course. <p>\n            AI courses you can watch, quiz through, and create\n          </p>\n ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft. This ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
         "date": "2026-08-30"
-    },
-    {
-        "title": "Nvidia’s AI advantage is moving beyond the GPU",
-        "summary": "Новость: Nvidia’s AI advantage is moving beyond the GPU. The new generation of data center systems is increas... (Установите API ключ в bot.py)...",
-        "content": "Новость: Nvidia’s AI advantage is moving beyond the GPU. The new generation of data center systems is increas... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-        "date": "2026-08-29"
     }
 ]
