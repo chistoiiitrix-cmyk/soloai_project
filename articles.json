@@ -1,5 +1,12 @@
 [
     {
+        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+        "summary": "Новость: Google’s Android update tackles motion sickness, accessibility, and more. While some of the features... (Установите API ключ в bot.py)...",
+        "content": "Новость: Google’s Android update tackles motion sickness, accessibility, and more. While some of the features... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+        "date": "2026-09-02"
+    },
+    {
         "title": "EAS Observe",
         "summary": "Новость: EAS Observe. <p>\n            Performance monitoring built for Expo and React Native\n          </p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: EAS Observe. <p>\n            Performance monitoring built for Expo and React Native\n          </p>\n ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Edge Drop. <p>\n            Clipboard on your screen edge. Hover to open, drag to drop\n          </p>... (Установите API ключ в bot.py)...",
         "content": "Новость: Edge Drop. <p>\n            Clipboard on your screen edge. Hover to open, drag to drop\n          </p>... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/edge-drop",
-        "date": "2026-08-30"
-    },
-    {
-        "title": "RIP MY BUILD",
-        "summary": "Новость: RIP MY BUILD. <p>\n            Give your abandoned side project one last launch\n          </p>\n      ... (Установите API ключ в bot.py)...",
-        "content": "Новость: RIP MY BUILD. <p>\n            Give your abandoned side project one last launch\n          </p>\n      ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/rip-my-build",
         "date": "2026-08-30"
     }
 ]
