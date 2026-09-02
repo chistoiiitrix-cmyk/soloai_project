@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+        "summary": "Новость: OpenAI’s Astra model is on the way — and very good at breaking into computer systems. OpenAI preview... (Установите API ключ в bot.py)...",
+        "content": "Новость: OpenAI’s Astra model is on the way — and very good at breaking into computer systems. OpenAI preview... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+        "date": "2026-09-02"
+    },
+    {
         "title": "Google’s Android update tackles motion sickness, accessibility, and more",
         "summary": "Новость: Google’s Android update tackles motion sickness, accessibility, and more. While some of the features... (Установите API ключ в bot.py)...",
         "content": "Новость: Google’s Android update tackles motion sickness, accessibility, and more. While some of the features... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Caterpillar is bringing to AI deployment what it learned from automating mining. Caterpillar has spe... (Установите API ключ в bot.py)...",
         "content": "Новость: Caterpillar is bringing to AI deployment what it learned from automating mining. Caterpillar has spe... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-        "date": "2026-08-30"
-    },
-    {
-        "title": "Edge Drop",
-        "summary": "Новость: Edge Drop. <p>\n            Clipboard on your screen edge. Hover to open, drag to drop\n          </p>... (Установите API ключ в bot.py)...",
-        "content": "Новость: Edge Drop. <p>\n            Clipboard on your screen edge. Hover to open, drag to drop\n          </p>... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/edge-drop",
         "date": "2026-08-30"
     }
 ]
