@@ -1,5 +1,12 @@
 [
     {
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "summary": "Новость: TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals. On o... (Установите API ключ в bot.py)...",
+        "content": "Новость: TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals. On o... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+        "date": "2026-09-03"
+    },
+    {
         "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
         "summary": "Новость: We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO. The internet has a trust prob... (Установите API ключ в bot.py)...",
         "content": "Новость: We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO. The internet has a trust prob... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: The Pentagon now has its own version of ChatGPT and Grok. Versions of OpenAI's ChatGPT and SpaceXAI'... (Установите API ключ в bot.py)...",
         "content": "Новость: The Pentagon now has its own version of ChatGPT and Grok. Versions of OpenAI's ChatGPT and SpaceXAI'... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-        "date": "2026-08-31"
-    },
-    {
-        "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-        "summary": "Новость: The U.S. is building barriers around drones and robots, but China has scale to get around them. The ... (Установите API ключ в bot.py)...",
-        "content": "Новость: The U.S. is building barriers around drones and robots, but China has scale to get around them. The ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
         "date": "2026-08-31"
     }
 ]
