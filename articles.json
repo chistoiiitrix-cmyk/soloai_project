@@ -1,5 +1,12 @@
 [
     {
+        "title": "Omi",
+        "summary": "Новость: Omi. <p>\n            Ask your computer anything you saw or heard\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Omi. <p>\n            Ask your computer anything you saw or heard\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/open-source-ai-necklace-friend",
+        "date": "2026-09-03"
+    },
+    {
         "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
         "summary": "Новость: The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026. The ... (Установите API ключ в bot.py)...",
         "content": "Новость: The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026. The ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: AIR raises $50M to help companies vet the skills and add-ons AI agents use. AIR's platform can disco... (Установите API ключ в bot.py)...",
         "content": "Новость: AIR raises $50M to help companies vet the skills and add-ons AI agents use. AIR's platform can disco... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-        "date": "2026-09-01"
-    },
-    {
-        "title": "Gauth AI Course",
-        "summary": "Новость: Gauth AI Course. <p>\n            AI courses you can watch, quiz through, and create\n          </p>\n ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Gauth AI Course. <p>\n            AI courses you can watch, quiz through, and create\n          </p>\n ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/gauth-ai-course",
         "date": "2026-09-01"
     }
 ]
