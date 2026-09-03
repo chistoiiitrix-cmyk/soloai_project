@@ -1,5 +1,12 @@
 [
     {
+        "title": "Blume.codes",
+        "summary": "Новость: Blume.codes. <p>\n            Turns coding agent sessions into better rules and skills\n          </p>... (Установите API ключ в bot.py)...",
+        "content": "Новость: Blume.codes. <p>\n            Turns coding agent sessions into better rules and skills\n          </p>... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/blume-codes",
+        "date": "2026-09-03"
+    },
+    {
         "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
         "summary": "Новость: TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals. On o... (Установите API ключ в bot.py)...",
         "content": "Новость: TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals. On o... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Instagram puts new limits on undisclosed AI profiles. As frustration over AI influencers has been gr... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
         "date": "2026-09-01"
-    },
-    {
-        "title": "The Pentagon now has its own version of ChatGPT and Grok",
-        "summary": "Новость: The Pentagon now has its own version of ChatGPT and Grok. Versions of OpenAI's ChatGPT and SpaceXAI'... (Установите API ключ в bot.py)...",
-        "content": "Новость: The Pentagon now has its own version of ChatGPT and Grok. Versions of OpenAI's ChatGPT and SpaceXAI'... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-        "date": "2026-08-31"
     }
 ]
