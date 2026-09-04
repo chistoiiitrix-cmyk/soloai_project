@@ -1,5 +1,12 @@
 [
     {
+        "title": "Nex",
+        "summary": "Новость: Nex. <p>\n            Claude Cowork for high-volume GTM workflows\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Nex. <p>\n            Claude Cowork for high-volume GTM workflows\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/nex-4",
+        "date": "2026-09-04"
+    },
+    {
         "title": "Omi",
         "summary": "Новость: Omi. <p>\n            Ask your computer anything you saw or heard\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)...",
         "content": "Новость: Omi. <p>\n            Ask your computer anything you saw or heard\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: EAS Observe. <p>\n            Performance monitoring built for Expo and React Native\n          </p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: EAS Observe. <p>\n            Performance monitoring built for Expo and React Native\n          </p>\n ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/expo",
-        "date": "2026-09-01"
-    },
-    {
-        "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-        "summary": "Новость: AIR raises $50M to help companies vet the skills and add-ons AI agents use. AIR's platform can disco... (Установите API ключ в bot.py)...",
-        "content": "Новость: AIR raises $50M to help companies vet the skills and add-ons AI agents use. AIR's platform can disco... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
         "date": "2026-09-01"
     }
 ]
