@@ -1,5 +1,12 @@
 [
     {
+        "title": "Compliance by TwelveLabs",
+        "summary": "Новость: Compliance by TwelveLabs. <p>\n            Video compliance review powered by rules you control\n     ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Compliance by TwelveLabs. <p>\n            Video compliance review powered by rules you control\n     ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/twelvelabs",
+        "date": "2026-09-04"
+    },
+    {
         "title": "Nex",
         "summary": "Новость: Nex. <p>\n            Claude Cowork for high-volume GTM workflows\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)...",
         "content": "Новость: Nex. <p>\n            Claude Cowork for high-volume GTM workflows\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Google’s Android update tackles motion sickness, accessibility, and more. While some of the features... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
         "date": "2026-09-02"
-    },
-    {
-        "title": "EAS Observe",
-        "summary": "Новость: EAS Observe. <p>\n            Performance monitoring built for Expo and React Native\n          </p>\n ... (Установите API ключ в bot.py)...",
-        "content": "Новость: EAS Observe. <p>\n            Performance monitoring built for Expo and React Native\n          </p>\n ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/expo",
-        "date": "2026-09-01"
     }
 ]
