@@ -1,5 +1,12 @@
 [
     {
+        "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+        "summary": "Новость: Apple’s Ternus era begins as Nvidia bets on the whole AI stack. It&#8217;s&#160;officially the Ternu... (Установите API ключ в bot.py)...",
+        "content": "Новость: Apple’s Ternus era begins as Nvidia bets on the whole AI stack. It&#8217;s&#160;officially the Ternu... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+        "date": "2026-09-04"
+    },
+    {
         "title": "Google Gemini 3.8 Flash and Cyber",
         "summary": "Новость: Google Gemini 3.8 Flash and Cyber. <p>\n            Next-gen Gemini for agents, reasoning, and cyber ... (Установите API ключ в bot.py)...",
         "content": "Новость: Google Gemini 3.8 Flash and Cyber. <p>\n            Next-gen Gemini for agents, reasoning, and cyber ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Doop. <p>\n            Design with AI agents - live on the same canvas\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: Doop. <p>\n            Design with AI agents - live on the same canvas\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/doop",
-        "date": "2026-09-02"
-    },
-    {
-        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-        "summary": "Новость: OpenAI’s Astra model is on the way — and very good at breaking into computer systems. OpenAI preview... (Установите API ключ в bot.py)...",
-        "content": "Новость: OpenAI’s Astra model is on the way — and very good at breaking into computer systems. OpenAI preview... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
         "date": "2026-09-02"
     }
 ]
