@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+        "summary": "Новость: OpenAI’s rogue agents keep escaping, with no formal process to investigate them. OpenAI’s latest age... (Установите API ключ в bot.py)...",
+        "content": "Новость: OpenAI’s rogue agents keep escaping, with no formal process to investigate them. OpenAI’s latest age... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+        "date": "2026-09-05"
+    },
+    {
         "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
         "summary": "Новость: Apple’s Ternus era begins as Nvidia bets on the whole AI stack. It&#8217;s&#160;officially the Ternu... (Установите API ключ в bot.py)...",
         "content": "Новость: Apple’s Ternus era begins as Nvidia bets on the whole AI stack. It&#8217;s&#160;officially the Ternu... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO. The internet has a trust prob... (Установите API ключ в bot.py)...",
         "content": "Новость: We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO. The internet has a trust prob... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-        "date": "2026-09-02"
-    },
-    {
-        "title": "Doop",
-        "summary": "Новость: Doop. <p>\n            Design with AI agents - live on the same canvas\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Doop. <p>\n            Design with AI agents - live on the same canvas\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/doop",
         "date": "2026-09-02"
     }
 ]
