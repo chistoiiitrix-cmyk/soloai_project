@@ -1,5 +1,12 @@
 [
     {
+        "title": "PostBox",
+        "summary": "Новость: PostBox. <p>\n            Stage and post designs from your mac\n          </p>\n          <p>\n         ... (Установите API ключ в bot.py)...",
+        "content": "Новость: PostBox. <p>\n            Stage and post designs from your mac\n          </p>\n          <p>\n         ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/postbox",
+        "date": "2026-09-05"
+    },
+    {
         "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
         "summary": "Новость: OpenAI’s rogue agents keep escaping, with no formal process to investigate them. OpenAI’s latest age... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI’s rogue agents keep escaping, with no formal process to investigate them. OpenAI’s latest age... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals. On o... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
         "date": "2026-09-03"
-    },
-    {
-        "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-        "summary": "Новость: We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO. The internet has a trust prob... (Установите API ключ в bot.py)...",
-        "content": "Новость: We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO. The internet has a trust prob... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-        "date": "2026-09-02"
     }
 ]
