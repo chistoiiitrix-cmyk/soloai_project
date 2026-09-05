@@ -1,5 +1,12 @@
 [
     {
+        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "summary": "Новость: XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation. The round i... (Установите API ключ в bot.py)...",
+        "content": "Новость: XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation. The round i... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+        "date": "2026-09-05"
+    },
+    {
         "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
         "summary": "Новость: AI compute provider Nscale is looking for $3.5B in pre-IPO financing. Nscale, which recently struck ... (Установите API ключ в bot.py)...",
         "content": "Новость: AI compute provider Nscale is looking for $3.5B in pre-IPO financing. Nscale, which recently struck ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026. The ... (Установите API ключ в bot.py)...",
         "content": "Новость: The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026. The ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-        "date": "2026-09-03"
-    },
-    {
-        "title": "Blume.codes",
-        "summary": "Новость: Blume.codes. <p>\n            Turns coding agent sessions into better rules and skills\n          </p>... (Установите API ключ в bot.py)...",
-        "content": "Новость: Blume.codes. <p>\n            Turns coding agent sessions into better rules and skills\n          </p>... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/blume-codes",
         "date": "2026-09-03"
     }
 ]
