@@ -1,5 +1,12 @@
 [
     {
+        "title": "AI Toolbox 3.0",
+        "summary": "Новость: AI Toolbox 3.0. <p>\n            Search, organize and export every AI chat in one place\n          </p... (Установите API ключ в bot.py)...",
+        "content": "Новость: AI Toolbox 3.0. <p>\n            Search, organize and export every AI chat in one place\n          </p... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/chatgpt-toolbox",
+        "date": "2026-09-06"
+    },
+    {
         "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
         "summary": "Новость: OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure. OpenAI ackn... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure. OpenAI ackn... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Compliance by TwelveLabs. <p>\n            Video compliance review powered by rules you control\n     ... (Установите API ключ в bot.py)...",
         "content": "Новость: Compliance by TwelveLabs. <p>\n            Video compliance review powered by rules you control\n     ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/twelvelabs",
-        "date": "2026-09-04"
-    },
-    {
-        "title": "Nex",
-        "summary": "Новость: Nex. <p>\n            Claude Cowork for high-volume GTM workflows\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Nex. <p>\n            Claude Cowork for high-volume GTM workflows\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/nex-4",
         "date": "2026-09-04"
     }
 ]
