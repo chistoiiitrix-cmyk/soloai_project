@@ -1,5 +1,12 @@
 [
     {
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "summary": "Новость: Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft. Two more news org... (Установите API ключ в bot.py)...",
+        "content": "Новость: Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft. Two more news org... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "date": "2026-09-06"
+    },
+    {
         "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
         "summary": "Новость: XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation. The round i... (Установите API ключ в bot.py)...",
         "content": "Новость: XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation. The round i... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Omi. <p>\n            Ask your computer anything you saw or heard\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)...",
         "content": "Новость: Omi. <p>\n            Ask your computer anything you saw or heard\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/open-source-ai-necklace-friend",
-        "date": "2026-09-03"
-    },
-    {
-        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-        "summary": "Новость: The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026. The ... (Установите API ключ в bot.py)...",
-        "content": "Новость: The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026. The ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
         "date": "2026-09-03"
     }
 ]
