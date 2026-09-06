@@ -1,5 +1,12 @@
 [
     {
+        "title": "Agentic Video Understanding in Gemini",
+        "summary": "Новость: Agentic Video Understanding in Gemini. <p>\n            Agentic video analysis for faster, smarter Ge... (Установите API ключ в bot.py)...",
+        "content": "Новость: Agentic Video Understanding in Gemini. <p>\n            Agentic video analysis for faster, smarter Ge... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/google",
+        "date": "2026-09-06"
+    },
+    {
         "title": "AI Toolbox 3.0",
         "summary": "Новость: AI Toolbox 3.0. <p>\n            Search, organize and export every AI chat in one place\n          </p... (Установите API ключ в bot.py)...",
         "content": "Новость: AI Toolbox 3.0. <p>\n            Search, organize and export every AI chat in one place\n          </p... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Google Gemini 3.8 Flash and Cyber. <p>\n            Next-gen Gemini for agents, reasoning, and cyber ... (Установите API ключ в bot.py)...",
         "content": "Новость: Google Gemini 3.8 Flash and Cyber. <p>\n            Next-gen Gemini for agents, reasoning, and cyber ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/gemini-3-8-flash",
-        "date": "2026-09-04"
-    },
-    {
-        "title": "Compliance by TwelveLabs",
-        "summary": "Новость: Compliance by TwelveLabs. <p>\n            Video compliance review powered by rules you control\n     ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Compliance by TwelveLabs. <p>\n            Video compliance review powered by rules you control\n     ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/twelvelabs",
         "date": "2026-09-04"
     }
 ]
