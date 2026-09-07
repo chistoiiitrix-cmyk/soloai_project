@@ -1,5 +1,12 @@
 [
     {
+        "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+        "summary": "Новость: Travis Kalanick’s Atoms might be getting into the robotaxi business. The Uber founder has said that ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Travis Kalanick’s Atoms might be getting into the robotaxi business. The Uber founder has said that ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+        "date": "2026-09-07"
+    },
+    {
         "title": "Kit by Speakeasy",
         "summary": "Новость: Kit by Speakeasy. <p>\n            Your coding agent runtime. Claude but fast, cheap, concise.\n      ... (Установите API ключ в bot.py)...",
         "content": "Новость: Kit by Speakeasy. <p>\n            Your coding agent runtime. Claude but fast, cheap, concise.\n      ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: OpenAI’s rogue agents keep escaping, with no formal process to investigate them. OpenAI’s latest age... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
         "date": "2026-09-05"
-    },
-    {
-        "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-        "summary": "Новость: Apple’s Ternus era begins as Nvidia bets on the whole AI stack. It&#8217;s&#160;officially the Ternu... (Установите API ключ в bot.py)...",
-        "content": "Новость: Apple’s Ternus era begins as Nvidia bets on the whole AI stack. It&#8217;s&#160;officially the Ternu... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-        "date": "2026-09-04"
     }
 ]
