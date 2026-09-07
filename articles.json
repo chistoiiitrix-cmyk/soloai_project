@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kit by Speakeasy",
+        "summary": "Новость: Kit by Speakeasy. <p>\n            Your coding agent runtime. Claude but fast, cheap, concise.\n      ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Kit by Speakeasy. <p>\n            Your coding agent runtime. Claude but fast, cheap, concise.\n      ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/speakeasydev",
+        "date": "2026-09-07"
+    },
+    {
         "title": "Agentic Video Understanding in Gemini",
         "summary": "Новость: Agentic Video Understanding in Gemini. <p>\n            Agentic video analysis for faster, smarter Ge... (Установите API ключ в bot.py)...",
         "content": "Новость: Agentic Video Understanding in Gemini. <p>\n            Agentic video analysis for faster, smarter Ge... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Apple’s Ternus era begins as Nvidia bets on the whole AI stack. It&#8217;s&#160;officially the Ternu... (Установите API ключ в bot.py)...",
         "content": "Новость: Apple’s Ternus era begins as Nvidia bets on the whole AI stack. It&#8217;s&#160;officially the Ternu... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-        "date": "2026-09-04"
-    },
-    {
-        "title": "Google Gemini 3.8 Flash and Cyber",
-        "summary": "Новость: Google Gemini 3.8 Flash and Cyber. <p>\n            Next-gen Gemini for agents, reasoning, and cyber ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Google Gemini 3.8 Flash and Cyber. <p>\n            Next-gen Gemini for agents, reasoning, and cyber ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/gemini-3-8-flash",
         "date": "2026-09-04"
     }
 ]
