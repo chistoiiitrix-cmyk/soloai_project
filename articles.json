@@ -1,5 +1,12 @@
 [
     {
+        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "summary": "Новость: Authors push back as publishers and agents make claims on Anthropic settlement. Authors say publishe... (Установите API ключ в bot.py)...",
+        "content": "Новость: Authors push back as publishers and agents make claims on Anthropic settlement. Authors say publishe... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+        "date": "2026-09-07"
+    },
+    {
         "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
         "summary": "Новость: Travis Kalanick’s Atoms might be getting into the robotaxi business. The Uber founder has said that ... (Установите API ключ в bot.py)...",
         "content": "Новость: Travis Kalanick’s Atoms might be getting into the robotaxi business. The Uber founder has said that ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: PostBox. <p>\n            Stage and post designs from your mac\n          </p>\n          <p>\n         ... (Установите API ключ в bot.py)...",
         "content": "Новость: PostBox. <p>\n            Stage and post designs from your mac\n          </p>\n          <p>\n         ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/postbox",
-        "date": "2026-09-05"
-    },
-    {
-        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-        "summary": "Новость: OpenAI’s rogue agents keep escaping, with no formal process to investigate them. OpenAI’s latest age... (Установите API ключ в bot.py)...",
-        "content": "Новость: OpenAI’s rogue agents keep escaping, with no formal process to investigate them. OpenAI’s latest age... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
         "date": "2026-09-05"
     }
 ]
