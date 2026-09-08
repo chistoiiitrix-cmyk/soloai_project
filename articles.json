@@ -1,5 +1,12 @@
 [
     {
+        "title": "Relaticle",
+        "summary": "Новость: Relaticle. <p>\n            Open-source CRM with approval-gated AI writes\n          </p>\n          <p... (Установите API ключ в bot.py)...",
+        "content": "Новость: Relaticle. <p>\n            Open-source CRM with approval-gated AI writes\n          </p>\n          <p... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/relaticle",
+        "date": "2026-09-08"
+    },
+    {
         "title": "Routines by Databox",
         "summary": "Новость: Routines by Databox. <p>\n            An AI Analyst that runs analysis and reports on a schedule\n    ... (Установите API ключ в bot.py)...",
         "content": "Новость: Routines by Databox. <p>\n            An AI Analyst that runs analysis and reports on a schedule\n    ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation. The round i... (Установите API ключ в bot.py)...",
         "content": "Новость: XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation. The round i... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-        "date": "2026-09-05"
-    },
-    {
-        "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-        "summary": "Новость: AI compute provider Nscale is looking for $3.5B in pre-IPO financing. Nscale, which recently struck ... (Установите API ключ в bot.py)...",
-        "content": "Новость: AI compute provider Nscale is looking for $3.5B in pre-IPO financing. Nscale, which recently struck ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
         "date": "2026-09-05"
     }
 ]
