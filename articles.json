@@ -1,5 +1,12 @@
 [
     {
+        "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+        "summary": "Новость: Google Cloud races to catch up in the AI deployment wars with Accenture deal. Google Cloud expands i... (Установите API ключ в bot.py)...",
+        "content": "Новость: Google Cloud races to catch up in the AI deployment wars with Accenture deal. Google Cloud expands i... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+        "date": "2026-09-08"
+    },
+    {
         "title": "Relaticle",
         "summary": "Новость: Relaticle. <p>\n            Open-source CRM with approval-gated AI writes\n          </p>\n          <p... (Установите API ключ в bot.py)...",
         "content": "Новость: Relaticle. <p>\n            Open-source CRM with approval-gated AI writes\n          </p>\n          <p... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft. Two more news org... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
         "date": "2026-09-06"
-    },
-    {
-        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-        "summary": "Новость: XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation. The round i... (Установите API ключ в bot.py)...",
-        "content": "Новость: XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation. The round i... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-        "date": "2026-09-05"
     }
 ]
