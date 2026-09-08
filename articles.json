@@ -1,5 +1,12 @@
 [
     {
+        "title": "Routines by Databox",
+        "summary": "Новость: Routines by Databox. <p>\n            An AI Analyst that runs analysis and reports on a schedule\n    ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Routines by Databox. <p>\n            An AI Analyst that runs analysis and reports on a schedule\n    ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/databox",
+        "date": "2026-09-08"
+    },
+    {
         "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
         "summary": "Новость: Authors push back as publishers and agents make claims on Anthropic settlement. Authors say publishe... (Установите API ключ в bot.py)...",
         "content": "Новость: Authors push back as publishers and agents make claims on Anthropic settlement. Authors say publishe... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: AI compute provider Nscale is looking for $3.5B in pre-IPO financing. Nscale, which recently struck ... (Установите API ключ в bot.py)...",
         "content": "Новость: AI compute provider Nscale is looking for $3.5B in pre-IPO financing. Nscale, which recently struck ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-        "date": "2026-09-05"
-    },
-    {
-        "title": "PostBox",
-        "summary": "Новость: PostBox. <p>\n            Stage and post designs from your mac\n          </p>\n          <p>\n         ... (Установите API ключ в bot.py)...",
-        "content": "Новость: PostBox. <p>\n            Stage and post designs from your mac\n          </p>\n          <p>\n         ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/postbox",
         "date": "2026-09-05"
     }
 ]
