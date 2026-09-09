@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+        "summary": "Новость: Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all m... (Установите API ключ в bot.py)...",
+        "content": "Новость: Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all m... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+        "date": "2026-09-09"
+    },
+    {
         "title": "Switch",
         "summary": "Новость: Switch. <p>\n            Bring any AI agent into Slack, Teams & Discord\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: Switch. <p>\n            Bring any AI agent into Slack, Teams & Discord\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: AI Toolbox 3.0. <p>\n            Search, organize and export every AI chat in one place\n          </p... (Установите API ключ в bot.py)...",
         "content": "Новость: AI Toolbox 3.0. <p>\n            Search, organize and export every AI chat in one place\n          </p... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/chatgpt-toolbox",
-        "date": "2026-09-06"
-    },
-    {
-        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-        "summary": "Новость: OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure. OpenAI ackn... (Установите API ключ в bot.py)...",
-        "content": "Новость: OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure. OpenAI ackn... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
         "date": "2026-09-06"
     }
 ]
