@@ -1,5 +1,12 @@
 [
     {
+        "title": "Typewise Nova",
+        "summary": "Новость: Typewise Nova. <p>\n            AI customer experience that builds and improves itself\n          </p>... (Установите API ключ в bot.py)...",
+        "content": "Новость: Typewise Nova. <p>\n            AI customer experience that builds and improves itself\n          </p>... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/typewise",
+        "date": "2026-09-10"
+    },
+    {
         "title": "Athenic AI",
         "summary": "Новость: Athenic AI. <p>\n            Beat the market with 90+ datasets and AI made for analysis\n          </p... (Установите API ключ в bot.py)...",
         "content": "Новость: Athenic AI. <p>\n            Beat the market with 90+ datasets and AI made for analysis\n          </p... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Authors push back as publishers and agents make claims on Anthropic settlement. Authors say publishe... (Установите API ключ в bot.py)...",
         "content": "Новость: Authors push back as publishers and agents make claims on Anthropic settlement. Authors say publishe... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-        "date": "2026-09-07"
-    },
-    {
-        "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-        "summary": "Новость: Travis Kalanick’s Atoms might be getting into the robotaxi business. The Uber founder has said that ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Travis Kalanick’s Atoms might be getting into the robotaxi business. The Uber founder has said that ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
         "date": "2026-09-07"
     }
 ]
