@@ -1,5 +1,12 @@
 [
     {
+        "title": "FreeScan.app",
+        "summary": "Новость: FreeScan.app. <p>\n            Fix what’s hurting your visibility, trust, and conversions\n          <... (Установите API ключ в bot.py)...",
+        "content": "Новость: FreeScan.app. <p>\n            Fix what’s hurting your visibility, trust, and conversions\n          <... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/freescan-app",
+        "date": "2026-09-11"
+    },
+    {
         "title": "AI Observability by OpenObserve",
         "summary": "Новость: AI Observability by OpenObserve. <p>\n            OpenTelemetry-native observability for agents and L... (Установите API ключ в bot.py)...",
         "content": "Новость: AI Observability by OpenObserve. <p>\n            OpenTelemetry-native observability for agents and L... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Relaticle. <p>\n            Open-source CRM with approval-gated AI writes\n          </p>\n          <p... (Установите API ключ в bot.py)...",
         "content": "Новость: Relaticle. <p>\n            Open-source CRM with approval-gated AI writes\n          </p>\n          <p... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/relaticle",
-        "date": "2026-09-08"
-    },
-    {
-        "title": "Routines by Databox",
-        "summary": "Новость: Routines by Databox. <p>\n            An AI Analyst that runs analysis and reports on a schedule\n    ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Routines by Databox. <p>\n            An AI Analyst that runs analysis and reports on a schedule\n    ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/databox",
         "date": "2026-09-08"
     }
 ]
