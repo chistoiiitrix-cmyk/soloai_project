@@ -1,5 +1,12 @@
 [
     {
+        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "summary": "Новость: Jensen Huang explains why Nvidia will grow an astounding 70% next year. Nvidia has its finger in eve... (Установите API ключ в bot.py)...",
+        "content": "Новость: Jensen Huang explains why Nvidia will grow an astounding 70% next year. Nvidia has its finger in eve... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+        "date": "2026-09-11"
+    },
+    {
         "title": "easyspecs.ai",
         "summary": "Новость: easyspecs.ai. <p>\n            The spec review platform\n          </p>\n          <p>\n            <a h... (Установите API ключ в bot.py)...",
         "content": "Новость: easyspecs.ai. <p>\n            The spec review platform\n          </p>\n          <p>\n            <a h... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Switch. <p>\n            Bring any AI agent into Slack, Teams & Discord\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/switch-11",
         "date": "2026-09-09"
-    },
-    {
-        "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-        "summary": "Новость: Google Cloud races to catch up in the AI deployment wars with Accenture deal. Google Cloud expands i... (Установите API ключ в bot.py)...",
-        "content": "Новость: Google Cloud races to catch up in the AI deployment wars with Accenture deal. Google Cloud expands i... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-        "date": "2026-09-08"
     }
 ]
