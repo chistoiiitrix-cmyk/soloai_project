@@ -1,5 +1,12 @@
 [
     {
+        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "summary": "Новость: Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too. Tan wants s... (Установите API ключ в bot.py)...",
+        "content": "Новость: Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too. Tan wants s... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+        "date": "2026-09-12"
+    },
+    {
         "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
         "summary": "Новость: One week left to book your exhibit table at TechCrunch Disrupt 2026. Only one week left to secure yo... (Установите API ключ в bot.py)...",
         "content": "Новость: One week left to book your exhibit table at TechCrunch Disrupt 2026. Only one week left to secure yo... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: DuckFightClub. <p>\n            Train your MicroDuck and win the Golden Beak Belt\n          </p>\n    ... (Установите API ключ в bot.py)...",
         "content": "Новость: DuckFightClub. <p>\n            Train your MicroDuck and win the Golden Beak Belt\n          </p>\n    ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/duckfightclub",
-        "date": "2026-09-09"
-    },
-    {
-        "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-        "summary": "Новость: Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all m... (Установите API ключ в bot.py)...",
-        "content": "Новость: Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all m... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
         "date": "2026-09-09"
     }
 ]
