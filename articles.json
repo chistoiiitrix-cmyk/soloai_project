@@ -1,5 +1,12 @@
 [
     {
+        "title": "Work Life Panda",
+        "summary": "Новость: Work Life Panda. <p>\n            Every task, every calendar, one app. Private on-device AI\n         ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Work Life Panda. <p>\n            Every task, every calendar, one app. Private on-device AI\n         ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/work-life-panda",
+        "date": "2026-09-12"
+    },
+    {
         "title": "DockFix 5.0",
         "summary": "Новость: DockFix 5.0. <p>\n            Replace the macOS Dock with one that is truly yours.\n          </p>\n   ... (Установите API ключ в bot.py)...",
         "content": "Новость: DockFix 5.0. <p>\n            Replace the macOS Dock with one that is truly yours.\n          </p>\n   ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Athenic AI. <p>\n            Beat the market with 90+ datasets and AI made for analysis\n          </p... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/athenic-ai",
         "date": "2026-09-10"
-    },
-    {
-        "title": "Noodle Seed",
-        "summary": "Новость: Noodle Seed. <p>\n            Your product in AI and AI in your product\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
-        "content": "Новость: Noodle Seed. <p>\n            Your product in AI and AI in your product\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/noodle-seed",
-        "date": "2026-09-09"
     }
 ]
