@@ -1,5 +1,12 @@
 [
     {
+        "title": "DockFix 5.0",
+        "summary": "Новость: DockFix 5.0. <p>\n            Replace the macOS Dock with one that is truly yours.\n          </p>\n   ... (Установите API ключ в bot.py)...",
+        "content": "Новость: DockFix 5.0. <p>\n            Replace the macOS Dock with one that is truly yours.\n          </p>\n   ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/dockfix",
+        "date": "2026-09-12"
+    },
+    {
         "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
         "summary": "Новость: Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too. Tan wants s... (Установите API ключ в bot.py)...",
         "content": "Новость: Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too. Tan wants s... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Noodle Seed. <p>\n            Your product in AI and AI in your product\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: Noodle Seed. <p>\n            Your product in AI and AI in your product\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/noodle-seed",
-        "date": "2026-09-09"
-    },
-    {
-        "title": "DuckFightClub",
-        "summary": "Новость: DuckFightClub. <p>\n            Train your MicroDuck and win the Golden Beak Belt\n          </p>\n    ... (Установите API ключ в bot.py)...",
-        "content": "Новость: DuckFightClub. <p>\n            Train your MicroDuck and win the Golden Beak Belt\n          </p>\n    ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/duckfightclub",
         "date": "2026-09-09"
     }
 ]
