@@ -1,5 +1,12 @@
 [
     {
+        "title": "What’s behind the AI industry’s latest warnings of doom?",
+        "summary": "Новость: What’s behind the AI industry’s latest warnings of doom?. On Equity, we discussed the AI industry's ... (Установите API ключ в bot.py)...",
+        "content": "Новость: What’s behind the AI industry’s latest warnings of doom?. On Equity, we discussed the AI industry's ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+        "date": "2026-09-13"
+    },
+    {
         "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
         "summary": "Новость: Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data. The round for ... (Установите API ключ в bot.py)...",
         "content": "Новость: Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data. The round for ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: easyspecs.ai. <p>\n            The spec review platform\n          </p>\n          <p>\n            <a h... (Установите API ключ в bot.py)...",
         "content": "Новость: easyspecs.ai. <p>\n            The spec review platform\n          </p>\n          <p>\n            <a h... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/easyspecs-ai",
-        "date": "2026-09-11"
-    },
-    {
-        "title": "FreeScan.app",
-        "summary": "Новость: FreeScan.app. <p>\n            Fix what’s hurting your visibility, trust, and conversions\n          <... (Установите API ключ в bot.py)...",
-        "content": "Новость: FreeScan.app. <p>\n            Fix what’s hurting your visibility, trust, and conversions\n          <... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/freescan-app",
         "date": "2026-09-11"
     }
 ]
