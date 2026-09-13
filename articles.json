@@ -1,5 +1,12 @@
 [
     {
+        "title": "Resurf",
+        "summary": "Новость: Resurf. <p>\n            A Personal Context App\n          </p>\n          <p>\n            <a href=\"htt... (Установите API ключ в bot.py)...",
+        "content": "Новость: Resurf. <p>\n            A Personal Context App\n          </p>\n          <p>\n            <a href=\"htt... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/resurf-2",
+        "date": "2026-09-13"
+    },
+    {
         "title": "Calerto for Mac",
         "summary": "Новость: Calerto for Mac. <p>\n            Full-screen meeting alerts for your Mac\n          </p>\n          <p... (Установите API ключ в bot.py)...",
         "content": "Новость: Calerto for Mac. <p>\n            Full-screen meeting alerts for your Mac\n          </p>\n          <p... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: AI Observability by OpenObserve. <p>\n            OpenTelemetry-native observability for agents and L... (Установите API ключ в bot.py)...",
         "content": "Новость: AI Observability by OpenObserve. <p>\n            OpenTelemetry-native observability for agents and L... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/openobserve",
-        "date": "2026-09-10"
-    },
-    {
-        "title": "Typewise Nova",
-        "summary": "Новость: Typewise Nova. <p>\n            AI customer experience that builds and improves itself\n          </p>... (Установите API ключ в bot.py)...",
-        "content": "Новость: Typewise Nova. <p>\n            AI customer experience that builds and improves itself\n          </p>... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/typewise",
         "date": "2026-09-10"
     }
 ]
