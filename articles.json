@@ -1,5 +1,12 @@
 [
     {
+        "title": "Calerto for Mac",
+        "summary": "Новость: Calerto for Mac. <p>\n            Full-screen meeting alerts for your Mac\n          </p>\n          <p... (Установите API ключ в bot.py)...",
+        "content": "Новость: Calerto for Mac. <p>\n            Full-screen meeting alerts for your Mac\n          </p>\n          <p... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/calerto-meeting-alarms",
+        "date": "2026-09-13"
+    },
+    {
         "title": "Work Life Panda",
         "summary": "Новость: Work Life Panda. <p>\n            Every task, every calendar, one app. Private on-device AI\n         ... (Установите API ключ в bot.py)...",
         "content": "Новость: Work Life Panda. <p>\n            Every task, every calendar, one app. Private on-device AI\n         ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Typewise Nova. <p>\n            AI customer experience that builds and improves itself\n          </p>... (Установите API ключ в bot.py)...",
         "content": "Новость: Typewise Nova. <p>\n            AI customer experience that builds and improves itself\n          </p>... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/typewise",
-        "date": "2026-09-10"
-    },
-    {
-        "title": "Athenic AI",
-        "summary": "Новость: Athenic AI. <p>\n            Beat the market with 90+ datasets and AI made for analysis\n          </p... (Установите API ключ в bot.py)...",
-        "content": "Новость: Athenic AI. <p>\n            Beat the market with 90+ datasets and AI made for analysis\n          </p... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/athenic-ai",
         "date": "2026-09-10"
     }
 ]
