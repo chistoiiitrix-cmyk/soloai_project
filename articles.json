@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "summary": "Новость: OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says. Glass Imaging was f... (Установите API ключ в bot.py)...",
+        "content": "Новость: OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says. Glass Imaging was f... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+        "date": "2026-09-14"
+    },
+    {
         "title": "Hello Inbox",
         "summary": "Новость: Hello Inbox. <p>\n            Get more marketing emails into the inbox\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: Hello Inbox. <p>\n            Get more marketing emails into the inbox\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too. Tan wants s... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
         "date": "2026-09-12"
-    },
-    {
-        "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-        "summary": "Новость: One week left to book your exhibit table at TechCrunch Disrupt 2026. Only one week left to secure yo... (Установите API ключ в bot.py)...",
-        "content": "Новость: One week left to book your exhibit table at TechCrunch Disrupt 2026. Only one week left to secure yo... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-        "date": "2026-09-11"
     }
 ]
