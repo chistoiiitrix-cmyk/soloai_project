@@ -1,5 +1,12 @@
 [
     {
+        "title": "Hello Inbox",
+        "summary": "Новость: Hello Inbox. <p>\n            Get more marketing emails into the inbox\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Hello Inbox. <p>\n            Get more marketing emails into the inbox\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/helloinbox",
+        "date": "2026-09-14"
+    },
+    {
         "title": "DemoTV",
         "summary": "Новость: DemoTV. <p>\n            The audience-ranked TV channel for product demos\n          </p>\n          <p... (Установите API ключ в bot.py)...",
         "content": "Новость: DemoTV. <p>\n            The audience-ranked TV channel for product demos\n          </p>\n          <p... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: One week left to book your exhibit table at TechCrunch Disrupt 2026. Only one week left to secure yo... (Установите API ключ в bot.py)...",
         "content": "Новость: One week left to book your exhibit table at TechCrunch Disrupt 2026. Only one week left to secure yo... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-        "date": "2026-09-11"
-    },
-    {
-        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-        "summary": "Новость: Jensen Huang explains why Nvidia will grow an astounding 70% next year. Nvidia has its finger in eve... (Установите API ключ в bot.py)...",
-        "content": "Новость: Jensen Huang explains why Nvidia will grow an astounding 70% next year. Nvidia has its finger in eve... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
         "date": "2026-09-11"
     }
 ]
