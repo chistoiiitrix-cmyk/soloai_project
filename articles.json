@@ -1,5 +1,12 @@
 [
     {
+        "title": "DemoTV",
+        "summary": "Новость: DemoTV. <p>\n            The audience-ranked TV channel for product demos\n          </p>\n          <p... (Установите API ключ в bot.py)...",
+        "content": "Новость: DemoTV. <p>\n            The audience-ranked TV channel for product demos\n          </p>\n          <p... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/demotv",
+        "date": "2026-09-14"
+    },
+    {
         "title": "What’s behind the AI industry’s latest warnings of doom?",
         "summary": "Новость: What’s behind the AI industry’s latest warnings of doom?. On Equity, we discussed the AI industry's ... (Установите API ключ в bot.py)...",
         "content": "Новость: What’s behind the AI industry’s latest warnings of doom?. On Equity, we discussed the AI industry's ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Jensen Huang explains why Nvidia will grow an astounding 70% next year. Nvidia has its finger in eve... (Установите API ключ в bot.py)...",
         "content": "Новость: Jensen Huang explains why Nvidia will grow an astounding 70% next year. Nvidia has its finger in eve... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-        "date": "2026-09-11"
-    },
-    {
-        "title": "easyspecs.ai",
-        "summary": "Новость: easyspecs.ai. <p>\n            The spec review platform\n          </p>\n          <p>\n            <a h... (Установите API ключ в bot.py)...",
-        "content": "Новость: easyspecs.ai. <p>\n            The spec review platform\n          </p>\n          <p>\n            <a h... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/easyspecs-ai",
         "date": "2026-09-11"
     }
 ]
