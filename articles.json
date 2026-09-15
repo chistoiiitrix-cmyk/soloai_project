@@ -1,5 +1,12 @@
 [
     {
+        "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+        "summary": "Новость: Jensen Huang took a call from Trump, and showed off something else, too. When Jensen Huang took a li... (Установите API ключ в bot.py)...",
+        "content": "Новость: Jensen Huang took a call from Trump, and showed off something else, too. When Jensen Huang took a li... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+        "date": "2026-09-15"
+    },
+    {
         "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
         "summary": "Новость: OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says. Glass Imaging was f... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says. Glass Imaging was f... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: DockFix 5.0. <p>\n            Replace the macOS Dock with one that is truly yours.\n          </p>\n   ... (Установите API ключ в bot.py)...",
         "content": "Новость: DockFix 5.0. <p>\n            Replace the macOS Dock with one that is truly yours.\n          </p>\n   ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/dockfix",
-        "date": "2026-09-12"
-    },
-    {
-        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-        "summary": "Новость: Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too. Tan wants s... (Установите API ключ в bot.py)...",
-        "content": "Новость: Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too. Tan wants s... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
         "date": "2026-09-12"
     }
 ]
