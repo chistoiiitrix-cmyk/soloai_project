@@ -1,5 +1,12 @@
 [
     {
+        "title": "siift",
+        "summary": "Новость: siift. <p>\n            Turn AI noise into better business decisions\n          </p>\n          <p>\n   ... (Установите API ключ в bot.py)...",
+        "content": "Новость: siift. <p>\n            Turn AI noise into better business decisions\n          </p>\n          <p>\n   ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/siift",
+        "date": "2026-09-15"
+    },
+    {
         "title": "Jensen Huang took a call from Trump, and showed off something else, too",
         "summary": "Новость: Jensen Huang took a call from Trump, and showed off something else, too. When Jensen Huang took a li... (Установите API ключ в bot.py)...",
         "content": "Новость: Jensen Huang took a call from Trump, and showed off something else, too. When Jensen Huang took a li... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Work Life Panda. <p>\n            Every task, every calendar, one app. Private on-device AI\n         ... (Установите API ключ в bot.py)...",
         "content": "Новость: Work Life Panda. <p>\n            Every task, every calendar, one app. Private on-device AI\n         ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/work-life-panda",
-        "date": "2026-09-12"
-    },
-    {
-        "title": "DockFix 5.0",
-        "summary": "Новость: DockFix 5.0. <p>\n            Replace the macOS Dock with one that is truly yours.\n          </p>\n   ... (Установите API ключ в bot.py)...",
-        "content": "Новость: DockFix 5.0. <p>\n            Replace the macOS Dock with one that is truly yours.\n          </p>\n   ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/dockfix",
         "date": "2026-09-12"
     }
 ]
