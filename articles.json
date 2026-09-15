@@ -1,5 +1,12 @@
 [
     {
+        "title": "Anthropologic",
+        "summary": "Новость: Anthropologic. <p>\n            The zero distance consumer research platform.\n          </p>\n        ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Anthropologic. <p>\n            The zero distance consumer research platform.\n          </p>\n        ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/anthropologic",
+        "date": "2026-09-15"
+    },
+    {
         "title": "siift",
         "summary": "Новость: siift. <p>\n            Turn AI noise into better business decisions\n          </p>\n          <p>\n   ... (Установите API ключ в bot.py)...",
         "content": "Новость: siift. <p>\n            Turn AI noise into better business decisions\n          </p>\n          <p>\n   ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Calerto for Mac. <p>\n            Full-screen meeting alerts for your Mac\n          </p>\n          <p... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/calerto-meeting-alarms",
         "date": "2026-09-13"
-    },
-    {
-        "title": "Work Life Panda",
-        "summary": "Новость: Work Life Panda. <p>\n            Every task, every calendar, one app. Private on-device AI\n         ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Work Life Panda. <p>\n            Every task, every calendar, one app. Private on-device AI\n         ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/work-life-panda",
-        "date": "2026-09-12"
     }
 ]
