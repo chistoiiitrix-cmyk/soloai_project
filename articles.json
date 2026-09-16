@@ -1,5 +1,12 @@
 [
     {
+        "title": "Amazon launches Alexa+ in India with Hindi support",
+        "summary": "Новость: Amazon launches Alexa+ in India with Hindi support. Amazon is letting all customers use Alexa+ assis... (Установите API ключ в bot.py)...",
+        "content": "Новость: Amazon launches Alexa+ in India with Hindi support. Amazon is letting all customers use Alexa+ assis... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+        "date": "2026-09-16"
+    },
+    {
         "title": "Voiskey",
         "summary": "Новость: Voiskey. <p>\n            AI voice typing that sounds right in every app\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
         "content": "Новость: Voiskey. <p>\n            AI voice typing that sounds right in every app\n          </p>\n          <p>... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data. The round for ... (Установите API ключ в bot.py)...",
         "content": "Новость: Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data. The round for ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-        "date": "2026-09-13"
-    },
-    {
-        "title": "Resurf",
-        "summary": "Новость: Resurf. <p>\n            A Personal Context App\n          </p>\n          <p>\n            <a href=\"htt... (Установите API ключ в bot.py)...",
-        "content": "Новость: Resurf. <p>\n            A Personal Context App\n          </p>\n          <p>\n            <a href=\"htt... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/resurf-2",
         "date": "2026-09-13"
     }
 ]
