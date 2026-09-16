@@ -1,5 +1,12 @@
 [
     {
+        "title": "ZeroClick",
+        "summary": "Новость: ZeroClick. <p>\n            Sell your product to AI agents\n          </p>\n          <p>\n            <... (Установите API ключ в bot.py)...",
+        "content": "Новость: ZeroClick. <p>\n            Sell your product to AI agents\n          </p>\n          <p>\n            <... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/zeroclick",
+        "date": "2026-09-16"
+    },
+    {
         "title": "Threads’ new features let podcasters promote shows and reach listeners",
         "summary": "Новость: Threads’ new features let podcasters promote shows and reach listeners. Threads is rolling out new t... (Установите API ключ в bot.py)...",
         "content": "Новость: Threads’ new features let podcasters promote shows and reach listeners. Threads is rolling out new t... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: DemoTV. <p>\n            The audience-ranked TV channel for product demos\n          </p>\n          <p... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/demotv",
         "date": "2026-09-14"
-    },
-    {
-        "title": "What’s behind the AI industry’s latest warnings of doom?",
-        "summary": "Новость: What’s behind the AI industry’s latest warnings of doom?. On Equity, we discussed the AI industry's ... (Установите API ключ в bot.py)...",
-        "content": "Новость: What’s behind the AI industry’s latest warnings of doom?. On Equity, we discussed the AI industry's ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-        "date": "2026-09-13"
     }
 ]
