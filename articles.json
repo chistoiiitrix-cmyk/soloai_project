@@ -1,5 +1,12 @@
 [
     {
+        "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+        "summary": "Новость: Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia. Huawei is accelerating the launch ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia. Huawei is accelerating the launch ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+        "date": "2026-09-17"
+    },
+    {
         "title": "Modaal for Android",
         "summary": "Новость: Modaal for Android. <p>\n            Ship on both stores from one project using Swift + Kotlin\n      ... (Установите API ключ в bot.py)...",
         "content": "Новость: Modaal for Android. <p>\n            Ship on both stores from one project using Swift + Kotlin\n      ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Jensen Huang took a call from Trump, and showed off something else, too. When Jensen Huang took a li... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
         "date": "2026-09-15"
-    },
-    {
-        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-        "summary": "Новость: OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says. Glass Imaging was f... (Установите API ключ в bot.py)...",
-        "content": "Новость: OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says. Glass Imaging was f... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-        "date": "2026-09-14"
     }
 ]
