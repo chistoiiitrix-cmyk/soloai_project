@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+        "summary": "Новость: OpenAI caught its models leaving notes to successors to hide bad behavior. OpenAI disclosed instance... (Установите API ключ в bot.py)...",
+        "content": "Новость: OpenAI caught its models leaving notes to successors to hide bad behavior. OpenAI disclosed instance... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+        "date": "2026-09-17"
+    },
+    {
         "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
         "summary": "Новость: Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia. Huawei is accelerating the launch ... (Установите API ключ в bot.py)...",
         "content": "Новость: Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia. Huawei is accelerating the launch ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: siift. <p>\n            Turn AI noise into better business decisions\n          </p>\n          <p>\n   ... (Установите API ключ в bot.py)...",
         "content": "Новость: siift. <p>\n            Turn AI noise into better business decisions\n          </p>\n          <p>\n   ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/siift",
-        "date": "2026-09-15"
-    },
-    {
-        "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-        "summary": "Новость: Jensen Huang took a call from Trump, and showed off something else, too. When Jensen Huang took a li... (Установите API ключ в bot.py)...",
-        "content": "Новость: Jensen Huang took a call from Trump, and showed off something else, too. When Jensen Huang took a li... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
         "date": "2026-09-15"
     }
 ]
