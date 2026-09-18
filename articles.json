@@ -1,5 +1,12 @@
 [
     {
+        "title": "Higgsfield API",
+        "summary": "Новость: Higgsfield API. <p>\n            One async API for 50+ generative media models\n          </p>\n       ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Higgsfield API. <p>\n            One async API for 50+ generative media models\n          </p>\n       ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/higgsfield",
+        "date": "2026-09-18"
+    },
+    {
         "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
         "summary": "Новость: OpenAI caught its models leaving notes to successors to hide bad behavior. OpenAI disclosed instance... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI caught its models leaving notes to successors to hide bad behavior. OpenAI disclosed instance... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Anthropologic. <p>\n            The zero distance consumer research platform.\n          </p>\n        ... (Установите API ключ в bot.py)...",
         "content": "Новость: Anthropologic. <p>\n            The zero distance consumer research platform.\n          </p>\n        ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/anthropologic",
-        "date": "2026-09-15"
-    },
-    {
-        "title": "siift",
-        "summary": "Новость: siift. <p>\n            Turn AI noise into better business decisions\n          </p>\n          <p>\n   ... (Установите API ключ в bot.py)...",
-        "content": "Новость: siift. <p>\n            Turn AI noise into better business decisions\n          </p>\n          <p>\n   ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/siift",
         "date": "2026-09-15"
     }
 ]
