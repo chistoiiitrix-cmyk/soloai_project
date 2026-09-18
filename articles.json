@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sider Omni Sidebar",
+        "summary": "Новость: Sider Omni Sidebar. <p>\n            Give every Mac app an Agent Sidebar\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
+        "content": "Новость: Sider Omni Sidebar. <p>\n            Give every Mac app an Agent Sidebar\n          </p>\n          <p>... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/sider-omni",
+        "date": "2026-09-18"
+    },
+    {
         "title": "Kanverse GPU Borrow",
         "summary": "Новость: Kanverse GPU Borrow. <p>\n            Borrow GPU compute from another device, with permission\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: Kanverse GPU Borrow. <p>\n            Borrow GPU compute from another device, with permission\n       ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Amazon launches Alexa+ in India with Hindi support. Amazon is letting all customers use Alexa+ assis... (Установите API ключ в bot.py)...",
         "content": "Новость: Amazon launches Alexa+ in India with Hindi support. Amazon is letting all customers use Alexa+ assis... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-        "date": "2026-09-16"
-    },
-    {
-        "title": "Voiskey",
-        "summary": "Новость: Voiskey. <p>\n            AI voice typing that sounds right in every app\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
-        "content": "Новость: Voiskey. <p>\n            AI voice typing that sounds right in every app\n          </p>\n          <p>... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/voiskey",
         "date": "2026-09-16"
     }
 ]
