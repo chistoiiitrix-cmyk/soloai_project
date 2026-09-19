@@ -1,5 +1,12 @@
 [
     {
+        "title": "Doneit 3.2",
+        "summary": "Новость: Doneit 3.2. <p>\n            Reimagined Doneit Assist, support for Siri AI, and more\n          </p>\n ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Doneit 3.2. <p>\n            Reimagined Doneit Assist, support for Siri AI, and more\n          </p>\n ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/doneit",
+        "date": "2026-09-19"
+    },
+    {
         "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
         "summary": "Новость: Tilly Norwood’s press tour is going about as well as you’d expect for an AI. In one particularly odd... (Установите API ключ в bot.py)...",
         "content": "Новость: Tilly Norwood’s press tour is going about as well as you’d expect for an AI. In one particularly odd... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Convo. <p>\n            The AI copilot for people who sell\n          </p>\n          <p>\n            <... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/convo-7",
         "date": "2026-09-17"
-    },
-    {
-        "title": "ZeroClick",
-        "summary": "Новость: ZeroClick. <p>\n            Sell your product to AI agents\n          </p>\n          <p>\n            <... (Установите API ключ в bot.py)...",
-        "content": "Новость: ZeroClick. <p>\n            Sell your product to AI agents\n          </p>\n          <p>\n            <... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/zeroclick",
-        "date": "2026-09-16"
     }
 ]
