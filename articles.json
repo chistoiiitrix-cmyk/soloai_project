@@ -1,5 +1,12 @@
 [
     {
+        "title": "Morsa Signals",
+        "summary": "Новость: Morsa Signals. <p>\n            GTM and AI visibility workflows for developer tools\n          </p>\n  ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Morsa Signals. <p>\n            GTM and AI visibility workflows for developer tools\n          </p>\n  ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/morsa-signals",
+        "date": "2026-09-20"
+    },
+    {
         "title": "Flock reportedly tries to shrink workforce with employee buyouts",
         "summary": "Новость: Flock reportedly tries to shrink workforce with employee buyouts. Without buyouts, Flock would \"almo... (Установите API ключ в bot.py)...",
         "content": "Новость: Flock reportedly tries to shrink workforce with employee buyouts. Without buyouts, Flock would \"almo... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Sider Omni Sidebar. <p>\n            Give every Mac app an Agent Sidebar\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
         "content": "Новость: Sider Omni Sidebar. <p>\n            Give every Mac app an Agent Sidebar\n          </p>\n          <p>... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/sider-omni",
-        "date": "2026-09-18"
-    },
-    {
-        "title": "Kanverse GPU Borrow",
-        "summary": "Новость: Kanverse GPU Borrow. <p>\n            Borrow GPU compute from another device, with permission\n       ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Kanverse GPU Borrow. <p>\n            Borrow GPU compute from another device, with permission\n       ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/kanverse-gpu-borrow",
         "date": "2026-09-18"
     }
 ]
