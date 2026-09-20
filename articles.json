@@ -1,5 +1,12 @@
 [
     {
+        "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+        "summary": "Новость: Flock reportedly tries to shrink workforce with employee buyouts. Without buyouts, Flock would \"almo... (Установите API ключ в bot.py)...",
+        "content": "Новость: Flock reportedly tries to shrink workforce with employee buyouts. Without buyouts, Flock would \"almo... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+        "date": "2026-09-20"
+    },
+    {
         "title": "Epismo OS",
         "summary": "Новость: Epismo OS. <p>\n            Keep your work when you switch AI tools\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)...",
         "content": "Новость: Epismo OS. <p>\n            Keep your work when you switch AI tools\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Kanverse GPU Borrow. <p>\n            Borrow GPU compute from another device, with permission\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: Kanverse GPU Borrow. <p>\n            Borrow GPU compute from another device, with permission\n       ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/kanverse-gpu-borrow",
-        "date": "2026-09-18"
-    },
-    {
-        "title": "Higgsfield API",
-        "summary": "Новость: Higgsfield API. <p>\n            One async API for 50+ generative media models\n          </p>\n       ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Higgsfield API. <p>\n            One async API for 50+ generative media models\n          </p>\n       ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/higgsfield",
         "date": "2026-09-18"
     }
 ]
