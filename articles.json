@@ -1,5 +1,12 @@
 [
     {
+        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+        "summary": "Новость: 6 days left to save up to $200 to TechCrunch Disrupt 2026. Current ticket pricing ends in 6 days on ... (Установите API ключ в bot.py)...",
+        "content": "Новость: 6 days left to save up to $200 to TechCrunch Disrupt 2026. Current ticket pricing ends in 6 days on ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+        "date": "2026-09-21"
+    },
+    {
         "title": "Morsa Signals",
         "summary": "Новость: Morsa Signals. <p>\n            GTM and AI visibility workflows for developer tools\n          </p>\n  ... (Установите API ключ в bot.py)...",
         "content": "Новость: Morsa Signals. <p>\n            GTM and AI visibility workflows for developer tools\n          </p>\n  ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: World model companies are keeping a lot of secrets. Everyone in the world-models space is sitting on... (Установите API ключ в bot.py)...",
         "content": "Новость: World model companies are keeping a lot of secrets. Everyone in the world-models space is sitting on... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-        "date": "2026-09-18"
-    },
-    {
-        "title": "Sider Omni Sidebar",
-        "summary": "Новость: Sider Omni Sidebar. <p>\n            Give every Mac app an Agent Sidebar\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
-        "content": "Новость: Sider Omni Sidebar. <p>\n            Give every Mac app an Agent Sidebar\n          </p>\n          <p>... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/sider-omni",
         "date": "2026-09-18"
     }
 ]
