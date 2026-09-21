@@ -1,5 +1,12 @@
 [
     {
+        "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+        "summary": "Новость: Meta’s Muse is outpacing ChatGPT’s early mobile launch. Meta’s new AI agent Muse has racked up more ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Meta’s Muse is outpacing ChatGPT’s early mobile launch. Meta’s new AI agent Muse has racked up more ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+        "date": "2026-09-21"
+    },
+    {
         "title": "Plume",
         "summary": "Новость: Plume. <p>\n            Import your old CV, get a polished ATS-ready one in minutes\n          </p>\n  ... (Установите API ключ в bot.py)...",
         "content": "Новость: Plume. <p>\n            Import your old CV, get a polished ATS-ready one in minutes\n          </p>\n  ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Doneit 3.2. <p>\n            Reimagined Doneit Assist, support for Siri AI, and more\n          </p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: Doneit 3.2. <p>\n            Reimagined Doneit Assist, support for Siri AI, and more\n          </p>\n ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/doneit",
-        "date": "2026-09-19"
-    },
-    {
-        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-        "summary": "Новость: Tilly Norwood’s press tour is going about as well as you’d expect for an AI. In one particularly odd... (Установите API ключ в bot.py)...",
-        "content": "Новость: Tilly Norwood’s press tour is going about as well as you’d expect for an AI. In one particularly odd... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
         "date": "2026-09-19"
     }
 ]
