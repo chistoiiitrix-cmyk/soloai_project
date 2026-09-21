@@ -1,5 +1,12 @@
 [
     {
+        "title": "Plume",
+        "summary": "Новость: Plume. <p>\n            Import your old CV, get a polished ATS-ready one in minutes\n          </p>\n  ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Plume. <p>\n            Import your old CV, get a polished ATS-ready one in minutes\n          </p>\n  ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/plume-11",
+        "date": "2026-09-21"
+    },
+    {
         "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
         "summary": "Новость: 6 days left to save up to $200 to TechCrunch Disrupt 2026. Current ticket pricing ends in 6 days on ... (Установите API ключ в bot.py)...",
         "content": "Новость: 6 days left to save up to $200 to TechCrunch Disrupt 2026. Current ticket pricing ends in 6 days on ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Tilly Norwood’s press tour is going about as well as you’d expect for an AI. In one particularly odd... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
         "date": "2026-09-19"
-    },
-    {
-        "title": "World model companies are keeping a lot of secrets",
-        "summary": "Новость: World model companies are keeping a lot of secrets. Everyone in the world-models space is sitting on... (Установите API ключ в bot.py)...",
-        "content": "Новость: World model companies are keeping a lot of secrets. Everyone in the world-models space is sitting on... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-        "date": "2026-09-18"
     }
 ]
