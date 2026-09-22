@@ -1,5 +1,12 @@
 [
     {
+        "title": "Contextberg",
+        "summary": "Новость: Contextberg. <p>\n            Local AI agent memory served via MCP\n          </p>\n          <p>\n     ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Contextberg. <p>\n            Local AI agent memory served via MCP\n          </p>\n          <p>\n     ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/contextberg",
+        "date": "2026-09-22"
+    },
+    {
         "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
         "summary": "Новость: The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping. Apple Store archit... (Установите API ключ в bot.py)...",
         "content": "Новость: The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping. Apple Store archit... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Mise. <p>\n            The meal planner that gets all your dishes ready at once\n          </p>\n      ... (Установите API ключ в bot.py)...",
         "content": "Новость: Mise. <p>\n            The meal planner that gets all your dishes ready at once\n          </p>\n      ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/robot-recipes",
-        "date": "2026-09-19"
-    },
-    {
-        "title": "AI safety conversations have gotten unbelievable",
-        "summary": "Новость: AI safety conversations have gotten unbelievable. This week two conversations about AI safety went v... (Установите API ключ в bot.py)...",
-        "content": "Новость: AI safety conversations have gotten unbelievable. This week two conversations about AI safety went v... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
         "date": "2026-09-19"
     }
 ]
