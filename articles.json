@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+        "summary": "Новость: OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes. OpenAI is launching two ... (Установите API ключ в bot.py)...",
+        "content": "Новость: OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes. OpenAI is launching two ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+        "date": "2026-09-22"
+    },
+    {
         "title": "Contextberg",
         "summary": "Новость: Contextberg. <p>\n            Local AI agent memory served via MCP\n          </p>\n          <p>\n     ... (Установите API ключ в bot.py)...",
         "content": "Новость: Contextberg. <p>\n            Local AI agent memory served via MCP\n          </p>\n          <p>\n     ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Google’s Gemini is the latest AI model to hack other companies. Google said Gemini had \"acted approp... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
         "date": "2026-09-20"
-    },
-    {
-        "title": "Mise",
-        "summary": "Новость: Mise. <p>\n            The meal planner that gets all your dishes ready at once\n          </p>\n      ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Mise. <p>\n            The meal planner that gets all your dishes ready at once\n          </p>\n      ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/robot-recipes",
-        "date": "2026-09-19"
     }
 ]
