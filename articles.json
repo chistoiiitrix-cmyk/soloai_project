@@ -1,5 +1,12 @@
 [
     {
+        "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+        "summary": "Новость: The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping. Apple Store archit... (Установите API ключ в bot.py)...",
+        "content": "Новость: The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping. Apple Store archit... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+        "date": "2026-09-22"
+    },
+    {
         "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
         "summary": "Новость: Meta’s Muse is outpacing ChatGPT’s early mobile launch. Meta’s new AI agent Muse has racked up more ... (Установите API ключ в bot.py)...",
         "content": "Новость: Meta’s Muse is outpacing ChatGPT’s early mobile launch. Meta’s new AI agent Muse has racked up more ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: AI safety conversations have gotten unbelievable. This week two conversations about AI safety went v... (Установите API ключ в bot.py)...",
         "content": "Новость: AI safety conversations have gotten unbelievable. This week two conversations about AI safety went v... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-        "date": "2026-09-19"
-    },
-    {
-        "title": "Doneit 3.2",
-        "summary": "Новость: Doneit 3.2. <p>\n            Reimagined Doneit Assist, support for Siri AI, and more\n          </p>\n ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Doneit 3.2. <p>\n            Reimagined Doneit Assist, support for Siri AI, and more\n          </p>\n ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/doneit",
         "date": "2026-09-19"
     }
 ]
