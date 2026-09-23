@@ -1,5 +1,12 @@
 [
     {
+        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+        "summary": "Новость: TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston o... (Установите API ключ в bot.py)...",
+        "content": "Новость: TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston o... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+        "date": "2026-09-23"
+    },
+    {
         "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
         "summary": "Новость: OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes. OpenAI is launching two ... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes. OpenAI is launching two ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Epismo OS. <p>\n            Keep your work when you switch AI tools\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)...",
         "content": "Новость: Epismo OS. <p>\n            Keep your work when you switch AI tools\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/epismo",
-        "date": "2026-09-20"
-    },
-    {
-        "title": "Google’s Gemini is the latest AI model to hack other companies",
-        "summary": "Новость: Google’s Gemini is the latest AI model to hack other companies. Google said Gemini had \"acted approp... (Установите API ключ в bot.py)...",
-        "content": "Новость: Google’s Gemini is the latest AI model to hack other companies. Google said Gemini had \"acted approp... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
         "date": "2026-09-20"
     }
 ]
