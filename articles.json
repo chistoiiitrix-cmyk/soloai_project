@@ -1,5 +1,12 @@
 [
     {
+        "title": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion",
+        "summary": "Новость: Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion. ElevenLabs powers t... (Установите API ключ в bot.py)...",
+        "content": "Новость: Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion. ElevenLabs powers t... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+        "date": "2026-09-24"
+    },
+    {
         "title": "LockLines",
         "summary": "Новость: LockLines. <p>\n            Design Mac lock screen messages that fit\n          </p>\n          <p>\n   ... (Установите API ключ в bot.py)...",
         "content": "Новость: LockLines. <p>\n            Design Mac lock screen messages that fit\n          </p>\n          <p>\n   ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping. Apple Store archit... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
         "date": "2026-09-22"
-    },
-    {
-        "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-        "summary": "Новость: Meta’s Muse is outpacing ChatGPT’s early mobile launch. Meta’s new AI agent Muse has racked up more ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Meta’s Muse is outpacing ChatGPT’s early mobile launch. Meta’s new AI agent Muse has racked up more ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-        "date": "2026-09-21"
     }
 ]
