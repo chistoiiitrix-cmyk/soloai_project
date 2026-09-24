@@ -1,5 +1,12 @@
 [
     {
+        "title": "Naise AI",
+        "summary": "Новость: Naise AI. <p>\n            Autonomous marketing agents that actually execute\n          </p>\n         ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Naise AI. <p>\n            Autonomous marketing agents that actually execute\n          </p>\n         ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/naise-ai",
+        "date": "2026-09-24"
+    },
+    {
         "title": "Even Americans who use AI every day are worried about it",
         "summary": "Новость: Even Americans who use AI every day are worried about it. The report suggests that greater exposure ... (Установите API ключ в bot.py)...",
         "content": "Новость: Even Americans who use AI every day are worried about it. The report suggests that greater exposure ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Plume. <p>\n            Import your old CV, get a polished ATS-ready one in minutes\n          </p>\n  ... (Установите API ключ в bot.py)...",
         "content": "Новость: Plume. <p>\n            Import your old CV, get a polished ATS-ready one in minutes\n          </p>\n  ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/plume-11",
-        "date": "2026-09-21"
-    },
-    {
-        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-        "summary": "Новость: 6 days left to save up to $200 to TechCrunch Disrupt 2026. Current ticket pricing ends in 6 days on ... (Установите API ключ в bot.py)...",
-        "content": "Новость: 6 days left to save up to $200 to TechCrunch Disrupt 2026. Current ticket pricing ends in 6 days on ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
         "date": "2026-09-21"
     }
 ]
