@@ -1,5 +1,12 @@
 [
     {
+        "title": "COOLDOWN",
+        "summary": "Новость: COOLDOWN. <p>\n            A little pause before your next impulse purchase\n          </p>\n          ... (Установите API ключ в bot.py)...",
+        "content": "Новость: COOLDOWN. <p>\n            A little pause before your next impulse purchase\n          </p>\n          ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/cooldown-5",
+        "date": "2026-09-25"
+    },
+    {
         "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
         "summary": "Новость: Oracle sends force majeure notice on its New Mexico Stargate data center. The notice would allow Ora... (Установите API ключ в bot.py)...",
         "content": "Новость: Oracle sends force majeure notice on its New Mexico Stargate data center. The notice would allow Ora... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes. OpenAI is launching two ... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes. OpenAI is launching two ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-        "date": "2026-09-22"
-    },
-    {
-        "title": "Contextberg",
-        "summary": "Новость: Contextberg. <p>\n            Local AI agent memory served via MCP\n          </p>\n          <p>\n     ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Contextberg. <p>\n            Local AI agent memory served via MCP\n          </p>\n          <p>\n     ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/contextberg",
         "date": "2026-09-22"
     }
 ]
