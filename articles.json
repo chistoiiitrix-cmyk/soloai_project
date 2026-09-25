@@ -1,5 +1,12 @@
 [
     {
+        "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+        "summary": "Новость: Oracle sends force majeure notice on its New Mexico Stargate data center. The notice would allow Ora... (Установите API ключ в bot.py)...",
+        "content": "Новость: Oracle sends force majeure notice on its New Mexico Stargate data center. The notice would allow Ora... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+        "date": "2026-09-25"
+    },
+    {
         "title": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion",
         "summary": "Новость: Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion. ElevenLabs powers t... (Установите API ключ в bot.py)...",
         "content": "Новость: Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion. ElevenLabs powers t... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Contextberg. <p>\n            Local AI agent memory served via MCP\n          </p>\n          <p>\n     ... (Установите API ключ в bot.py)...",
         "content": "Новость: Contextberg. <p>\n            Local AI agent memory served via MCP\n          </p>\n          <p>\n     ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/contextberg",
-        "date": "2026-09-22"
-    },
-    {
-        "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-        "summary": "Новость: The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping. Apple Store archit... (Установите API ключ в bot.py)...",
-        "content": "Новость: The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping. Apple Store archit... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
         "date": "2026-09-22"
     }
 ]
