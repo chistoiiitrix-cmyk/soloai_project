@@ -1,5 +1,12 @@
 [
     {
+        "title": "OmniNotch",
+        "summary": "Новость: OmniNotch. <p>\n            The notch that does it all!\n          </p>\n          <p>\n            <a h... (Установите API ключ в bot.py)...",
+        "content": "Новость: OmniNotch. <p>\n            The notch that does it all!\n          </p>\n          <p>\n            <a h... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/omninotch",
+        "date": "2026-09-25"
+    },
+    {
         "title": "COOLDOWN",
         "summary": "Новость: COOLDOWN. <p>\n            A little pause before your next impulse purchase\n          </p>\n          ... (Установите API ключ в bot.py)...",
         "content": "Новость: COOLDOWN. <p>\n            A little pause before your next impulse purchase\n          </p>\n          ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston o... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
         "date": "2026-09-23"
-    },
-    {
-        "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-        "summary": "Новость: OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes. OpenAI is launching two ... (Установите API ключ в bot.py)...",
-        "content": "Новость: OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes. OpenAI is launching two ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-        "date": "2026-09-22"
     }
 ]
