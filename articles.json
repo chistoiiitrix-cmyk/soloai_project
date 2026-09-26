@@ -1,5 +1,12 @@
 [
     {
+        "title": "At Meta Connect, the company’s smart glasses were everywhere",
+        "summary": "Новость: At Meta Connect, the company’s smart glasses were everywhere. The company behind Facebook and Instag... (Установите API ключ в bot.py)...",
+        "content": "Новость: At Meta Connect, the company’s smart glasses were everywhere. The company behind Facebook and Instag... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+        "date": "2026-09-26"
+    },
+    {
         "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
         "summary": "Новость: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers. Boom Supersonic CEO Blake Schol... (Установите API ключ в bot.py)...",
         "content": "Новость: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers. Boom Supersonic CEO Blake Schol... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: LockLines. <p>\n            Design Mac lock screen messages that fit\n          </p>\n          <p>\n   ... (Установите API ключ в bot.py)...",
         "content": "Новость: LockLines. <p>\n            Design Mac lock screen messages that fit\n          </p>\n          <p>\n   ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/locklines",
-        "date": "2026-09-24"
-    },
-    {
-        "title": "Naise AI",
-        "summary": "Новость: Naise AI. <p>\n            Autonomous marketing agents that actually execute\n          </p>\n         ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Naise AI. <p>\n            Autonomous marketing agents that actually execute\n          </p>\n         ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/naise-ai",
         "date": "2026-09-24"
     }
 ]
