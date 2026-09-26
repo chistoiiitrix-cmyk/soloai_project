@@ -1,5 +1,12 @@
 [
     {
+        "title": "PixVerse R2",
+        "summary": "Новость: PixVerse R2. <p>\n            A real-time world model you can explore and change\n          </p>\n     ... (Установите API ключ в bot.py)...",
+        "content": "Новость: PixVerse R2. <p>\n            A real-time world model you can explore and change\n          </p>\n     ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/pixverse-r2",
+        "date": "2026-09-26"
+    },
+    {
         "title": "Bleetz Network",
         "summary": "Новость: Bleetz Network. <p>\n            AI agent-to-agent VC fundraising & scouting network\n          </p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: Bleetz Network. <p>\n            AI agent-to-agent VC fundraising & scouting network\n          </p>\n ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: YouTube will let you build your own algorithm with AI. YouTube’s new custom feeds let users describe... (Установите API ключ в bot.py)...",
         "content": "Новость: YouTube will let you build your own algorithm with AI. YouTube’s new custom feeds let users describe... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-        "date": "2026-09-23"
-    },
-    {
-        "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-        "summary": "Новость: Snorkel AI triples valuation to $3.5B as demand for AI training data booms. The seven-year-old start... (Установите API ключ в bot.py)...",
-        "content": "Новость: Snorkel AI triples valuation to $3.5B as demand for AI training data booms. The seven-year-old start... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
         "date": "2026-09-23"
     }
 ]
