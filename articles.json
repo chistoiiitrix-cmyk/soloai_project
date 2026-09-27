@@ -1,5 +1,12 @@
 [
     {
+        "title": "Clicks Communicator",
+        "summary": "Новость: Clicks Communicator. <p>\n            A new kind of mobile communicator designed for doing\n          ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Clicks Communicator. <p>\n            A new kind of mobile communicator designed for doing\n          ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/clicks",
+        "date": "2026-09-27"
+    },
+    {
         "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
         "summary": "Новость: Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India. The limited tes... (Установите API ключ в bot.py)...",
         "content": "Новость: Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India. The limited tes... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: COOLDOWN. <p>\n            A little pause before your next impulse purchase\n          </p>\n          ... (Установите API ключ в bot.py)...",
         "content": "Новость: COOLDOWN. <p>\n            A little pause before your next impulse purchase\n          </p>\n          ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/cooldown-5",
-        "date": "2026-09-25"
-    },
-    {
-        "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-        "summary": "Новость: Oracle sends force majeure notice on its New Mexico Stargate data center. The notice would allow Ora... (Установите API ключ в bot.py)...",
-        "content": "Новость: Oracle sends force majeure notice on its New Mexico Stargate data center. The notice would allow Ora... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
         "date": "2026-09-25"
     }
 ]
