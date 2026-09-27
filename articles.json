@@ -1,5 +1,12 @@
 [
     {
+        "title": "Anthropic’s CEO is about to have dinner with President Trump",
+        "summary": "Новость: Anthropic’s CEO is about to have dinner with President Trump. This will be the first one-on-one meet... (Установите API ключ в bot.py)...",
+        "content": "Новость: Anthropic’s CEO is about to have dinner with President Trump. This will be the first one-on-one meet... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+        "date": "2026-09-27"
+    },
+    {
         "title": "Clicks Communicator",
         "summary": "Новость: Clicks Communicator. <p>\n            A new kind of mobile communicator designed for doing\n          ... (Установите API ключ в bot.py)...",
         "content": "Новость: Clicks Communicator. <p>\n            A new kind of mobile communicator designed for doing\n          ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: OmniNotch. <p>\n            The notch that does it all!\n          </p>\n          <p>\n            <a h... (Установите API ключ в bot.py)...",
         "content": "Новость: OmniNotch. <p>\n            The notch that does it all!\n          </p>\n          <p>\n            <a h... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/omninotch",
-        "date": "2026-09-25"
-    },
-    {
-        "title": "COOLDOWN",
-        "summary": "Новость: COOLDOWN. <p>\n            A little pause before your next impulse purchase\n          </p>\n          ... (Установите API ключ в bot.py)...",
-        "content": "Новость: COOLDOWN. <p>\n            A little pause before your next impulse purchase\n          </p>\n          ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/cooldown-5",
         "date": "2026-09-25"
     }
 ]
