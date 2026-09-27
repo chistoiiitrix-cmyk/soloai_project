@@ -1,5 +1,12 @@
 [
     {
+        "title": "Kleanly",
+        "summary": "Новость: Kleanly. <p>\n            One tap in the notch locks your keyboard and trackpad\n          </p>\n      ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Kleanly. <p>\n            One tap in the notch locks your keyboard and trackpad\n          </p>\n      ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/kleanly",
+        "date": "2026-09-27"
+    },
+    {
         "title": "At Meta Connect, the company’s smart glasses were everywhere",
         "summary": "Новость: At Meta Connect, the company’s smart glasses were everywhere. The company behind Facebook and Instag... (Установите API ключ в bot.py)...",
         "content": "Новость: At Meta Connect, the company’s smart glasses were everywhere. The company behind Facebook and Instag... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion. ElevenLabs powers t... (Установите API ключ в bot.py)...",
         "content": "Новость: Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion. ElevenLabs powers t... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-        "date": "2026-09-24"
-    },
-    {
-        "title": "LockLines",
-        "summary": "Новость: LockLines. <p>\n            Design Mac lock screen messages that fit\n          </p>\n          <p>\n   ... (Установите API ключ в bot.py)...",
-        "content": "Новость: LockLines. <p>\n            Design Mac lock screen messages that fit\n          </p>\n          <p>\n   ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/locklines",
         "date": "2026-09-24"
     }
 ]
