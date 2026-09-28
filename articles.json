@@ -1,5 +1,12 @@
 [
     {
+        "title": "vantage.ai",
+        "summary": "Новость: vantage.ai. <p>\n            See and control what your coding agent does.\n          </p>\n          <p... (Установите API ключ в bot.py)...",
+        "content": "Новость: vantage.ai. <p>\n            See and control what your coding agent does.\n          </p>\n          <p... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/vantage-ai-2",
+        "date": "2026-09-28"
+    },
+    {
         "title": "GenCode",
         "summary": "Новость: GenCode. <p>\n            A coding agent inside the Genspark Super App\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: GenCode. <p>\n            A coding agent inside the Genspark Super App\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: PixVerse R2. <p>\n            A real-time world model you can explore and change\n          </p>\n     ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/pixverse-r2",
         "date": "2026-09-26"
-    },
-    {
-        "title": "Bleetz Network",
-        "summary": "Новость: Bleetz Network. <p>\n            AI agent-to-agent VC fundraising & scouting network\n          </p>\n ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Bleetz Network. <p>\n            AI agent-to-agent VC fundraising & scouting network\n          </p>\n ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/bleetz-network",
-        "date": "2026-09-25"
     }
 ]
