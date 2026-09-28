@@ -1,5 +1,12 @@
 [
     {
+        "title": "GenCode",
+        "summary": "Новость: GenCode. <p>\n            A coding agent inside the Genspark Super App\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
+        "content": "Новость: GenCode. <p>\n            A coding agent inside the Genspark Super App\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/genspark",
+        "date": "2026-09-28"
+    },
+    {
         "title": "Anthropic’s CEO is about to have dinner with President Trump",
         "summary": "Новость: Anthropic’s CEO is about to have dinner with President Trump. This will be the first one-on-one meet... (Установите API ключ в bot.py)...",
         "content": "Новость: Anthropic’s CEO is about to have dinner with President Trump. This will be the first one-on-one meet... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Bleetz Network. <p>\n            AI agent-to-agent VC fundraising & scouting network\n          </p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: Bleetz Network. <p>\n            AI agent-to-agent VC fundraising & scouting network\n          </p>\n ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/bleetz-network",
-        "date": "2026-09-25"
-    },
-    {
-        "title": "OmniNotch",
-        "summary": "Новость: OmniNotch. <p>\n            The notch that does it all!\n          </p>\n          <p>\n            <a h... (Установите API ключ в bot.py)...",
-        "content": "Новость: OmniNotch. <p>\n            The notch that does it all!\n          </p>\n          <p>\n            <a h... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/omninotch",
         "date": "2026-09-25"
     }
 ]
