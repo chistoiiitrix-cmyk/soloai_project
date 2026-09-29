@@ -1,5 +1,12 @@
 [
     {
+        "title": "Gladys Assistant 5",
+        "summary": "Новость: Gladys Assistant 5. <p>\n            Private, self-hosted smart home, no YAML required\n          </p>... (Установите API ключ в bot.py)...",
+        "content": "Новость: Gladys Assistant 5. <p>\n            Private, self-hosted smart home, no YAML required\n          </p>... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/gladys-assistant",
+        "date": "2026-09-29"
+    },
+    {
         "title": "Stash",
         "summary": "Новость: Stash. <p>\n            Hidden controls for your Mac.\n          </p>\n          <p>\n            <a hre... (Установите API ключ в bot.py)...",
         "content": "Новость: Stash. <p>\n            Hidden controls for your Mac.\n          </p>\n          <p>\n            <a hre... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers. Boom Supersonic CEO Blake Schol... (Установите API ключ в bot.py)...",
         "content": "Новость: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers. Boom Supersonic CEO Blake Schol... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-        "date": "2026-09-26"
-    },
-    {
-        "title": "GoodSocials",
-        "summary": "Новость: GoodSocials. <p>\n            AI social media manager for LinkedIn. Only authentic content\n          ... (Установите API ключ в bot.py)...",
-        "content": "Новость: GoodSocials. <p>\n            AI social media manager for LinkedIn. Only authentic content\n          ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/goodsocials",
         "date": "2026-09-26"
     }
 ]
