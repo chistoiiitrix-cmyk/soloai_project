@@ -1,5 +1,12 @@
 [
     {
+        "title": "Stash",
+        "summary": "Новость: Stash. <p>\n            Hidden controls for your Mac.\n          </p>\n          <p>\n            <a hre... (Установите API ключ в bot.py)...",
+        "content": "Новость: Stash. <p>\n            Hidden controls for your Mac.\n          </p>\n          <p>\n            <a hre... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/stash-24",
+        "date": "2026-09-29"
+    },
+    {
         "title": "vantage.ai",
         "summary": "Новость: vantage.ai. <p>\n            See and control what your coding agent does.\n          </p>\n          <p... (Установите API ключ в bot.py)...",
         "content": "Новость: vantage.ai. <p>\n            See and control what your coding agent does.\n          </p>\n          <p... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: GoodSocials. <p>\n            AI social media manager for LinkedIn. Only authentic content\n          ... (Установите API ключ в bot.py)...",
         "content": "Новость: GoodSocials. <p>\n            AI social media manager for LinkedIn. Only authentic content\n          ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/goodsocials",
-        "date": "2026-09-26"
-    },
-    {
-        "title": "PixVerse R2",
-        "summary": "Новость: PixVerse R2. <p>\n            A real-time world model you can explore and change\n          </p>\n     ... (Установите API ключ в bot.py)...",
-        "content": "Новость: PixVerse R2. <p>\n            A real-time world model you can explore and change\n          </p>\n     ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/pixverse-r2",
         "date": "2026-09-26"
     }
 ]
