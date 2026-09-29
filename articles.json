@@ -1,5 +1,12 @@
 [
     {
+        "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+        "summary": "Новость: Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents. OpenAI isn't ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents. OpenAI isn't ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+        "date": "2026-09-29"
+    },
+    {
         "title": "Gladys Assistant 5",
         "summary": "Новость: Gladys Assistant 5. <p>\n            Private, self-hosted smart home, no YAML required\n          </p>... (Установите API ключ в bot.py)...",
         "content": "Новость: Gladys Assistant 5. <p>\n            Private, self-hosted smart home, no YAML required\n          </p>... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: At Meta Connect, the company’s smart glasses were everywhere. The company behind Facebook and Instag... (Установите API ключ в bot.py)...",
         "content": "Новость: At Meta Connect, the company’s smart glasses were everywhere. The company behind Facebook and Instag... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-        "date": "2026-09-26"
-    },
-    {
-        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-        "summary": "Новость: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers. Boom Supersonic CEO Blake Schol... (Установите API ключ в bot.py)...",
-        "content": "Новость: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers. Boom Supersonic CEO Blake Schol... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
         "date": "2026-09-26"
     }
 ]
