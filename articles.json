@@ -1,5 +1,12 @@
 [
     {
+        "title": "Yedric.ai",
+        "summary": "Новость: Yedric.ai. <p>\n            Let users control your SaaS with natural language\n          </p>\n        ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Yedric.ai. <p>\n            Let users control your SaaS with natural language\n          </p>\n        ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/yedric-ai",
+        "date": "2026-10-01"
+    },
+    {
         "title": "Dots by OpenAI",
         "summary": "Новость: Dots by OpenAI. <p>\n            Always on agents built to handle everything\n          </p>\n         ... (Установите API ключ в bot.py)...",
         "content": "Новость: Dots by OpenAI. <p>\n            Always on agents built to handle everything\n          </p>\n         ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: GenCode. <p>\n            A coding agent inside the Genspark Super App\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/genspark",
         "date": "2026-09-28"
-    },
-    {
-        "title": "Anthropic’s CEO is about to have dinner with President Trump",
-        "summary": "Новость: Anthropic’s CEO is about to have dinner with President Trump. This will be the first one-on-one meet... (Установите API ключ в bot.py)...",
-        "content": "Новость: Anthropic’s CEO is about to have dinner with President Trump. This will be the first one-on-one meet... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-        "date": "2026-09-27"
     }
 ]
