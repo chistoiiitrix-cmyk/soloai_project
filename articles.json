@@ -1,5 +1,12 @@
 [
     {
+        "title": "Autonomyware",
+        "summary": "Новость: Autonomyware. <p>\n            Idea to physical product, engineer anything you can imagine\n          ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Autonomyware. <p>\n            Idea to physical product, engineer anything you can imagine\n          ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/autonomyware",
+        "date": "2026-10-01"
+    },
+    {
         "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
         "summary": "Новость: OpenAI’s Jev clone could help the frontier lab stop its swarming agents. OpenAI's \"Decisions API\" is... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI’s Jev clone could help the frontier lab stop its swarming agents. OpenAI's \"Decisions API\" is... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Clicks Communicator. <p>\n            A new kind of mobile communicator designed for doing\n          ... (Установите API ключ в bot.py)...",
         "content": "Новость: Clicks Communicator. <p>\n            A new kind of mobile communicator designed for doing\n          ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/clicks",
-        "date": "2026-09-27"
-    },
-    {
-        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-        "summary": "Новость: Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India. The limited tes... (Установите API ключ в bot.py)...",
-        "content": "Новость: Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India. The limited tes... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
         "date": "2026-09-27"
     }
 ]
