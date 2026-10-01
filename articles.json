@@ -1,5 +1,12 @@
 [
     {
+        "title": "Dots by OpenAI",
+        "summary": "Новость: Dots by OpenAI. <p>\n            Always on agents built to handle everything\n          </p>\n         ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Dots by OpenAI. <p>\n            Always on agents built to handle everything\n          </p>\n         ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/dots-by-openai",
+        "date": "2026-10-01"
+    },
+    {
         "title": "Autonomyware",
         "summary": "Новость: Autonomyware. <p>\n            Idea to physical product, engineer anything you can imagine\n          ... (Установите API ключ в bot.py)...",
         "content": "Новость: Autonomyware. <p>\n            Idea to physical product, engineer anything you can imagine\n          ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Anthropic’s CEO is about to have dinner with President Trump. This will be the first one-on-one meet... (Установите API ключ в bot.py)...",
         "content": "Новость: Anthropic’s CEO is about to have dinner with President Trump. This will be the first one-on-one meet... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-        "date": "2026-09-27"
-    },
-    {
-        "title": "Clicks Communicator",
-        "summary": "Новость: Clicks Communicator. <p>\n            A new kind of mobile communicator designed for doing\n          ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Clicks Communicator. <p>\n            A new kind of mobile communicator designed for doing\n          ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/clicks",
         "date": "2026-09-27"
     }
 ]
