@@ -1,5 +1,12 @@
 [
     {
+        "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+        "summary": "Новость: Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the grou... (Установите API ключ в bot.py)...",
+        "content": "Новость: Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the grou... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+        "date": "2026-10-02"
+    },
+    {
         "title": "Yedric.ai",
         "summary": "Новость: Yedric.ai. <p>\n            Let users control your SaaS with natural language\n          </p>\n        ... (Установите API ключ в bot.py)...",
         "content": "Новость: Yedric.ai. <p>\n            Let users control your SaaS with natural language\n          </p>\n        ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: vantage.ai. <p>\n            See and control what your coding agent does.\n          </p>\n          <p... (Установите API ключ в bot.py)...",
         "content": "Новость: vantage.ai. <p>\n            See and control what your coding agent does.\n          </p>\n          <p... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/vantage-ai-2",
-        "date": "2026-09-28"
-    },
-    {
-        "title": "GenCode",
-        "summary": "Новость: GenCode. <p>\n            A coding agent inside the Genspark Super App\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
-        "content": "Новость: GenCode. <p>\n            A coding agent inside the Genspark Super App\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/genspark",
         "date": "2026-09-28"
     }
 ]
