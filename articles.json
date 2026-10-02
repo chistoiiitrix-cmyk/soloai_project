@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sean Parker is rebuilding Stability AI around music",
+        "summary": "Новость: Sean Parker is rebuilding Stability AI around music. Sean Parker, who once taught the music industry... (Установите API ключ в bot.py)...",
+        "content": "Новость: Sean Parker is rebuilding Stability AI around music. Sean Parker, who once taught the music industry... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+        "date": "2026-10-02"
+    },
+    {
         "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
         "summary": "Новость: Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the grou... (Установите API ключ в bot.py)...",
         "content": "Новость: Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the grou... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Stash. <p>\n            Hidden controls for your Mac.\n          </p>\n          <p>\n            <a hre... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/stash-24",
         "date": "2026-09-29"
-    },
-    {
-        "title": "vantage.ai",
-        "summary": "Новость: vantage.ai. <p>\n            See and control what your coding agent does.\n          </p>\n          <p... (Установите API ключ в bot.py)...",
-        "content": "Новость: vantage.ai. <p>\n            See and control what your coding agent does.\n          </p>\n          <p... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/vantage-ai-2",
-        "date": "2026-09-28"
     }
 ]
