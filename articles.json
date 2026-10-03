@@ -1,5 +1,12 @@
 [
     {
+        "title": "Meta wants your next gadget to be Muse-infused",
+        "summary": "Новость: Meta wants your next gadget to be Muse-infused. Meta wants Muse in your TV and your toaster, so it's... (Установите API ключ в bot.py)...",
+        "content": "Новость: Meta wants your next gadget to be Muse-infused. Meta wants Muse in your TV and your toaster, so it's... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+        "date": "2026-10-03"
+    },
+    {
         "title": "Sean Parker is rebuilding Stability AI around music",
         "summary": "Новость: Sean Parker is rebuilding Stability AI around music. Sean Parker, who once taught the music industry... (Установите API ключ в bot.py)...",
         "content": "Новость: Sean Parker is rebuilding Stability AI around music. Sean Parker, who once taught the music industry... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Gladys Assistant 5. <p>\n            Private, self-hosted smart home, no YAML required\n          </p>... (Установите API ключ в bot.py)...",
         "content": "Новость: Gladys Assistant 5. <p>\n            Private, self-hosted smart home, no YAML required\n          </p>... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/gladys-assistant",
-        "date": "2026-09-29"
-    },
-    {
-        "title": "Stash",
-        "summary": "Новость: Stash. <p>\n            Hidden controls for your Mac.\n          </p>\n          <p>\n            <a hre... (Установите API ключ в bot.py)...",
-        "content": "Новость: Stash. <p>\n            Hidden controls for your Mac.\n          </p>\n          <p>\n            <a hre... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/stash-24",
         "date": "2026-09-29"
     }
 ]
