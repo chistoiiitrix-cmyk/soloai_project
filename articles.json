@@ -1,5 +1,12 @@
 [
     {
+        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "summary": "Новость: Amazon responds to data center backlash, says it no longer uses NDAs. The CEO of Amazon Web Services... (Установите API ключ в bot.py)...",
+        "content": "Новость: Amazon responds to data center backlash, says it no longer uses NDAs. The CEO of Amazon Web Services... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+        "date": "2026-10-03"
+    },
+    {
         "title": "WattMate",
         "summary": "Новость: WattMate. <p>\n            Which app is draining your Mac, in watts and minutes saved\n          </p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: WattMate. <p>\n            Which app is draining your Mac, in watts and minutes saved\n          </p>\n... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: OpenAI’s Jev clone could help the frontier lab stop its swarming agents. OpenAI's \"Decisions API\" is... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI’s Jev clone could help the frontier lab stop its swarming agents. OpenAI's \"Decisions API\" is... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-        "date": "2026-09-30"
-    },
-    {
-        "title": "Flocker Agent Profiles",
-        "summary": "Новость: Flocker Agent Profiles. <p>\n            Profile Pages for Agents: your live AI collaboration network... (Установите API ключ в bot.py)...",
-        "content": "Новость: Flocker Agent Profiles. <p>\n            Profile Pages for Agents: your live AI collaboration network... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/flocker-agent-profiles",
         "date": "2026-09-30"
     }
 ]
