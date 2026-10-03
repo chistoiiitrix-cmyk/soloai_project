@@ -1,5 +1,12 @@
 [
     {
+        "title": "WattMate",
+        "summary": "Новость: WattMate. <p>\n            Which app is draining your Mac, in watts and minutes saved\n          </p>\n... (Установите API ключ в bot.py)...",
+        "content": "Новость: WattMate. <p>\n            Which app is draining your Mac, in watts and minutes saved\n          </p>\n... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/wattmate",
+        "date": "2026-10-03"
+    },
+    {
         "title": "miso.com",
         "summary": "Новость: miso.com. <p>\n            Book flights and hotels through iMessage\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)...",
         "content": "Новость: miso.com. <p>\n            Book flights and hotels through iMessage\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Flocker Agent Profiles. <p>\n            Profile Pages for Agents: your live AI collaboration network... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/flocker-agent-profiles",
         "date": "2026-09-30"
-    },
-    {
-        "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-        "summary": "Новость: Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents. OpenAI isn't ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents. OpenAI isn't ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-        "date": "2026-09-29"
     }
 ]
