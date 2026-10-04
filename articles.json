@@ -1,5 +1,12 @@
 [
     {
+        "title": "Prefer",
+        "summary": "Новость: Prefer. <p>\n            The execution layer for AEO\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)...",
+        "content": "Новость: Prefer. <p>\n            The execution layer for AEO\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/prefer-2",
+        "date": "2026-10-04"
+    },
+    {
         "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
         "summary": "Новость: Amazon responds to data center backlash, says it no longer uses NDAs. The CEO of Amazon Web Services... (Установите API ключ в bot.py)...",
         "content": "Новость: Amazon responds to data center backlash, says it no longer uses NDAs. The CEO of Amazon Web Services... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Autonomyware. <p>\n            Idea to physical product, engineer anything you can imagine\n          ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/autonomyware",
         "date": "2026-10-01"
-    },
-    {
-        "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-        "summary": "Новость: OpenAI’s Jev clone could help the frontier lab stop its swarming agents. OpenAI's \"Decisions API\" is... (Установите API ключ в bot.py)...",
-        "content": "Новость: OpenAI’s Jev clone could help the frontier lab stop its swarming agents. OpenAI's \"Decisions API\" is... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-        "date": "2026-09-30"
     }
 ]
