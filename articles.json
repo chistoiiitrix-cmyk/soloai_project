@@ -1,5 +1,12 @@
 [
     {
+        "title": "qarunbook",
+        "summary": "Новость: qarunbook. <p>\n            A test plan your team and your AI can work through\n          </p>\n       ... (Установите API ключ в bot.py)...",
+        "content": "Новость: qarunbook. <p>\n            A test plan your team and your AI can work through\n          </p>\n       ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/qarunbook",
+        "date": "2026-10-04"
+    },
+    {
         "title": "Prefer",
         "summary": "Новость: Prefer. <p>\n            The execution layer for AEO\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)...",
         "content": "Новость: Prefer. <p>\n            The execution layer for AEO\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Dots by OpenAI. <p>\n            Always on agents built to handle everything\n          </p>\n         ... (Установите API ключ в bot.py)...",
         "content": "Новость: Dots by OpenAI. <p>\n            Always on agents built to handle everything\n          </p>\n         ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/dots-by-openai",
-        "date": "2026-10-01"
-    },
-    {
-        "title": "Autonomyware",
-        "summary": "Новость: Autonomyware. <p>\n            Idea to physical product, engineer anything you can imagine\n          ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Autonomyware. <p>\n            Idea to physical product, engineer anything you can imagine\n          ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/autonomyware",
         "date": "2026-10-01"
     }
 ]
