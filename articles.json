@@ -1,5 +1,12 @@
 [
     {
+        "title": "Trump unveils his new Super Intelligence Force",
+        "summary": "Новость: Trump unveils his new Super Intelligence Force. This new task force is Trump's latest response to th... (Установите API ключ в bot.py)...",
+        "content": "Новость: Trump unveils his new Super Intelligence Force. This new task force is Trump's latest response to th... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+        "date": "2026-10-04"
+    },
+    {
         "title": "qarunbook",
         "summary": "Новость: qarunbook. <p>\n            A test plan your team and your AI can work through\n          </p>\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: qarunbook. <p>\n            A test plan your team and your AI can work through\n          </p>\n       ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Yedric.ai. <p>\n            Let users control your SaaS with natural language\n          </p>\n        ... (Установите API ключ в bot.py)...",
         "content": "Новость: Yedric.ai. <p>\n            Let users control your SaaS with natural language\n          </p>\n        ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/yedric-ai",
-        "date": "2026-10-01"
-    },
-    {
-        "title": "Dots by OpenAI",
-        "summary": "Новость: Dots by OpenAI. <p>\n            Always on agents built to handle everything\n          </p>\n         ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Dots by OpenAI. <p>\n            Always on agents built to handle everything\n          </p>\n         ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/dots-by-openai",
         "date": "2026-10-01"
     }
 ]
