@@ -1,5 +1,12 @@
 [
     {
+        "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+        "summary": "Новость: Instinct brings its AI agent to group chats, even for friends without an account. Instinct is launch... (Установите API ключ в bot.py)...",
+        "content": "Новость: Instinct brings its AI agent to group chats, even for friends without an account. Instinct is launch... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+        "date": "2026-10-05"
+    },
+    {
         "title": "Invofox Self Serve",
         "summary": "Новость: Invofox Self Serve. <p>\n            99% accurate document extraction, SLA guaranteed\n          </p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: Invofox Self Serve. <p>\n            99% accurate document extraction, SLA guaranteed\n          </p>\n... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Meta wants your next gadget to be Muse-infused. Meta wants Muse in your TV and your toaster, so it's... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
         "date": "2026-10-03"
-    },
-    {
-        "title": "Sean Parker is rebuilding Stability AI around music",
-        "summary": "Новость: Sean Parker is rebuilding Stability AI around music. Sean Parker, who once taught the music industry... (Установите API ключ в bot.py)...",
-        "content": "Новость: Sean Parker is rebuilding Stability AI around music. Sean Parker, who once taught the music industry... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-        "date": "2026-10-02"
     }
 ]
