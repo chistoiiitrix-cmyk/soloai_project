@@ -1,5 +1,12 @@
 [
     {
+        "title": "Invofox Self Serve",
+        "summary": "Новость: Invofox Self Serve. <p>\n            99% accurate document extraction, SLA guaranteed\n          </p>\n... (Установите API ключ в bot.py)...",
+        "content": "Новость: Invofox Self Serve. <p>\n            99% accurate document extraction, SLA guaranteed\n          </p>\n... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/invofox",
+        "date": "2026-10-05"
+    },
+    {
         "title": "opensend.cc",
         "summary": "Новость: opensend.cc. <p>\n            The open source email platform that runs on your server\n          </p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: opensend.cc. <p>\n            The open source email platform that runs on your server\n          </p>\n... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Sean Parker is rebuilding Stability AI around music. Sean Parker, who once taught the music industry... (Установите API ключ в bot.py)...",
         "content": "Новость: Sean Parker is rebuilding Stability AI around music. Sean Parker, who once taught the music industry... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-        "date": "2026-10-02"
-    },
-    {
-        "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-        "summary": "Новость: Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the grou... (Установите API ключ в bot.py)...",
-        "content": "Новость: Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the grou... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
         "date": "2026-10-02"
     }
 ]
