@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+        "summary": "Новость: OpenAI will start watermarking ChatGPT’s text in the EU. OpenAI will watermark ChatGPT and Codex tex... (Установите API ключ в bot.py)...",
+        "content": "Новость: OpenAI will start watermarking ChatGPT’s text in the EU. OpenAI will watermark ChatGPT and Codex tex... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+        "date": "2026-10-06"
+    },
+    {
         "title": "Instinct brings its AI agent to group chats, even for friends without an account",
         "summary": "Новость: Instinct brings its AI agent to group chats, even for friends without an account. Instinct is launch... (Установите API ключ в bot.py)...",
         "content": "Новость: Instinct brings its AI agent to group chats, even for friends without an account. Instinct is launch... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: miso.com. <p>\n            Book flights and hotels through iMessage\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)...",
         "content": "Новость: miso.com. <p>\n            Book flights and hotels through iMessage\n          </p>\n          <p>\n    ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/miso-com",
-        "date": "2026-10-03"
-    },
-    {
-        "title": "Meta wants your next gadget to be Muse-infused",
-        "summary": "Новость: Meta wants your next gadget to be Muse-infused. Meta wants Muse in your TV and your toaster, so it's... (Установите API ключ в bot.py)...",
-        "content": "Новость: Meta wants your next gadget to be Muse-infused. Meta wants Muse in your TV and your toaster, so it's... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
         "date": "2026-10-03"
     }
 ]
