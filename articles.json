@@ -1,5 +1,12 @@
 [
     {
+        "title": "IrisGo for Solopreneurs",
+        "summary": "Новость: IrisGo for Solopreneurs. <p>\n            AI workflow automation: show it once, let it run\n          ... (Установите API ключ в bot.py)...",
+        "content": "Новость: IrisGo for Solopreneurs. <p>\n            AI workflow automation: show it once, let it run\n          ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/irisgo-public-beta",
+        "date": "2026-10-07"
+    },
+    {
         "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
         "summary": "Новость: Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product. Instead of hel... (Установите API ключ в bot.py)...",
         "content": "Новость: Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product. Instead of hel... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Prefer. <p>\n            The execution layer for AEO\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/prefer-2",
         "date": "2026-10-04"
-    },
-    {
-        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-        "summary": "Новость: Amazon responds to data center backlash, says it no longer uses NDAs. The CEO of Amazon Web Services... (Установите API ключ в bot.py)...",
-        "content": "Новость: Amazon responds to data center backlash, says it no longer uses NDAs. The CEO of Amazon Web Services... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-        "date": "2026-10-03"
     }
 ]
