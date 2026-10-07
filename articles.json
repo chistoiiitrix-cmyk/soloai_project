@@ -1,5 +1,12 @@
 [
     {
+        "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+        "summary": "Новость: Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product. Instead of hel... (Установите API ключ в bot.py)...",
+        "content": "Новость: Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product. Instead of hel... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+        "date": "2026-10-07"
+    },
+    {
         "title": "How AI decision models could change content moderation",
         "summary": "Новость: How AI decision models could change content moderation. On Tuesday, Musubi announced a lightweight d... (Установите API ключ в bot.py)...",
         "content": "Новость: How AI decision models could change content moderation. On Tuesday, Musubi announced a lightweight d... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Amazon responds to data center backlash, says it no longer uses NDAs. The CEO of Amazon Web Services... (Установите API ключ в bot.py)...",
         "content": "Новость: Amazon responds to data center backlash, says it no longer uses NDAs. The CEO of Amazon Web Services... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-        "date": "2026-10-03"
-    },
-    {
-        "title": "WattMate",
-        "summary": "Новость: WattMate. <p>\n            Which app is draining your Mac, in watts and minutes saved\n          </p>\n... (Установите API ключ в bot.py)...",
-        "content": "Новость: WattMate. <p>\n            Which app is draining your Mac, in watts and minutes saved\n          </p>\n... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/wattmate",
         "date": "2026-10-03"
     }
 ]
