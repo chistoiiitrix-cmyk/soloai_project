@@ -1,5 +1,12 @@
 [
     {
+        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+        "summary": "Новость: Ben Affleck is an AI nerd, and the internet is impressed. Ben Affleck is going viral for his deep kn... (Установите API ключ в bot.py)...",
+        "content": "Новость: Ben Affleck is an AI nerd, and the internet is impressed. Ben Affleck is going viral for his deep kn... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+        "date": "2026-10-09"
+    },
+    {
         "title": "Claude for Google Workspace",
         "summary": "Новость: Claude for Google Workspace. <p>\n            Bring Claude directly into Google Docs, Sheets & Slides... (Установите API ключ в bot.py)...",
         "content": "Новость: Claude for Google Workspace. <p>\n            Bring Claude directly into Google Docs, Sheets & Slides... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Invofox Self Serve. <p>\n            99% accurate document extraction, SLA guaranteed\n          </p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: Invofox Self Serve. <p>\n            99% accurate document extraction, SLA guaranteed\n          </p>\n... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/invofox",
-        "date": "2026-10-05"
-    },
-    {
-        "title": "opensend.cc",
-        "summary": "Новость: opensend.cc. <p>\n            The open source email platform that runs on your server\n          </p>\n... (Установите API ключ в bot.py)...",
-        "content": "Новость: opensend.cc. <p>\n            The open source email platform that runs on your server\n          </p>\n... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/opensend-cc",
         "date": "2026-10-05"
     }
 ]
