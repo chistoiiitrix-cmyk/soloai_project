@@ -1,5 +1,12 @@
 [
     {
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "summary": "Новость: An Anthropic AI model sent a false homicide tip to Philadelphia police. Anthropic did not discover t... (Установите API ключ в bot.py)...",
+        "content": "Новость: An Anthropic AI model sent a false homicide tip to Philadelphia police. Anthropic did not discover t... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+        "date": "2026-10-09"
+    },
+    {
         "title": "Ben Affleck is an AI nerd, and the internet is impressed",
         "summary": "Новость: Ben Affleck is an AI nerd, and the internet is impressed. Ben Affleck is going viral for his deep kn... (Установите API ключ в bot.py)...",
         "content": "Новость: Ben Affleck is an AI nerd, and the internet is impressed. Ben Affleck is going viral for his deep kn... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Instinct brings its AI agent to group chats, even for friends without an account. Instinct is launch... (Установите API ключ в bot.py)...",
         "content": "Новость: Instinct brings its AI agent to group chats, even for friends without an account. Instinct is launch... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-        "date": "2026-10-05"
-    },
-    {
-        "title": "Invofox Self Serve",
-        "summary": "Новость: Invofox Self Serve. <p>\n            99% accurate document extraction, SLA guaranteed\n          </p>\n... (Установите API ключ в bot.py)...",
-        "content": "Новость: Invofox Self Serve. <p>\n            99% accurate document extraction, SLA guaranteed\n          </p>\n... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/invofox",
         "date": "2026-10-05"
     }
 ]
