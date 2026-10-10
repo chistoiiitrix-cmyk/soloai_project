@@ -1,5 +1,12 @@
 [
     {
+        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "summary": "Новость: The maker of non-text AI model Jev valued at $7.5B just weeks after launch. What has users and large... (Установите API ключ в bot.py)...",
+        "content": "Новость: The maker of non-text AI model Jev valued at $7.5B just weeks after launch. What has users and large... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+        "date": "2026-10-10"
+    },
+    {
         "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
         "summary": "Новость: An Anthropic AI model sent a false homicide tip to Philadelphia police. Anthropic did not discover t... (Установите API ключ в bot.py)...",
         "content": "Новость: An Anthropic AI model sent a false homicide tip to Philadelphia police. Anthropic did not discover t... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: OpenAI will start watermarking ChatGPT’s text in the EU. OpenAI will watermark ChatGPT and Codex tex... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
         "date": "2026-10-06"
-    },
-    {
-        "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-        "summary": "Новость: Instinct brings its AI agent to group chats, even for friends without an account. Instinct is launch... (Установите API ключ в bot.py)...",
-        "content": "Новость: Instinct brings its AI agent to group chats, even for friends without an account. Instinct is launch... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-        "date": "2026-10-05"
     }
 ]
