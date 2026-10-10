@@ -1,5 +1,12 @@
 [
     {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "summary": "Новость: Here are the top AI agents that can live in your text messages. We created a list of the most notabl... (Установите API ключ в bot.py)...",
+        "content": "Новость: Here are the top AI agents that can live in your text messages. We created a list of the most notabl... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "date": "2026-10-10"
+    },
+    {
         "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
         "summary": "Новость: The maker of non-text AI model Jev valued at $7.5B just weeks after launch. What has users and large... (Установите API ключ в bot.py)...",
         "content": "Новость: The maker of non-text AI model Jev valued at $7.5B just weeks after launch. What has users and large... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: How AI decision models could change content moderation. On Tuesday, Musubi announced a lightweight d... (Установите API ключ в bot.py)...",
         "content": "Новость: How AI decision models could change content moderation. On Tuesday, Musubi announced a lightweight d... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-        "date": "2026-10-06"
-    },
-    {
-        "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-        "summary": "Новость: OpenAI will start watermarking ChatGPT’s text in the EU. OpenAI will watermark ChatGPT and Codex tex... (Установите API ключ в bot.py)...",
-        "content": "Новость: OpenAI will start watermarking ChatGPT’s text in the EU. OpenAI will watermark ChatGPT and Codex tex... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
         "date": "2026-10-06"
     }
 ]
