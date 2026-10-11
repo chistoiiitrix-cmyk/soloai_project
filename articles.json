@@ -1,5 +1,12 @@
 [
     {
+        "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+        "summary": "Новость: Can the AI industry persuade data center opponents by getting rid of NDAs?. On Equity, we debate the... (Установите API ключ в bot.py)...",
+        "content": "Новость: Can the AI industry persuade data center opponents by getting rid of NDAs?. On Equity, we debate the... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+        "date": "2026-10-11"
+    },
+    {
         "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
         "summary": "Новость: 3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream. TechCrunch Disrupt ... (Установите API ключ в bot.py)...",
         "content": "Новость: 3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream. TechCrunch Disrupt ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: ImageFlow. <p>\n            Free Photoshop-grade image editor with AI features\n          </p>\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: ImageFlow. <p>\n            Free Photoshop-grade image editor with AI features\n          </p>\n       ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/imageflow-6",
-        "date": "2026-10-07"
-    },
-    {
-        "title": "IrisGo for Solopreneurs",
-        "summary": "Новость: IrisGo for Solopreneurs. <p>\n            AI workflow automation: show it once, let it run\n          ... (Установите API ключ в bot.py)...",
-        "content": "Новость: IrisGo for Solopreneurs. <p>\n            AI workflow automation: show it once, let it run\n          ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/irisgo-public-beta",
         "date": "2026-10-07"
     }
 ]
