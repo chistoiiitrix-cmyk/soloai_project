@@ -1,5 +1,12 @@
 [
     {
+        "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+        "summary": "Новость: Microsoft’s Satya Nadella says AI models need an ‘emergency brake’. In a Saturday morning post, Micr... (Установите API ключ в bot.py)...",
+        "content": "Новость: Microsoft’s Satya Nadella says AI models need an ‘emergency brake’. In a Saturday morning post, Micr... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+        "date": "2026-10-11"
+    },
+    {
         "title": "Here are the top AI agents that can live in your text messages",
         "summary": "Новость: Here are the top AI agents that can live in your text messages. We created a list of the most notabl... (Установите API ключ в bot.py)...",
         "content": "Новость: Here are the top AI agents that can live in your text messages. We created a list of the most notabl... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product. Instead of hel... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
         "date": "2026-10-07"
-    },
-    {
-        "title": "How AI decision models could change content moderation",
-        "summary": "Новость: How AI decision models could change content moderation. On Tuesday, Musubi announced a lightweight d... (Установите API ключ в bot.py)...",
-        "content": "Новость: How AI decision models could change content moderation. On Tuesday, Musubi announced a lightweight d... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-        "date": "2026-10-06"
     }
 ]
