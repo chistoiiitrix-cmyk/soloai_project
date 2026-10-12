@@ -1,5 +1,12 @@
 [
     {
+        "title": "Will the HomeView be Apple’s first smart home success?",
+        "summary": "Новость: Will the HomeView be Apple’s first smart home success?. Over the past couple of years, we’ve seen mu... (Установите API ключ в bot.py)...",
+        "content": "Новость: Will the HomeView be Apple’s first smart home success?. Over the past couple of years, we’ve seen mu... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+        "date": "2026-10-12"
+    },
+    {
         "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
         "summary": "Новость: Can the AI industry persuade data center opponents by getting rid of NDAs?. On Equity, we debate the... (Установите API ключ в bot.py)...",
         "content": "Новость: Can the AI industry persuade data center opponents by getting rid of NDAs?. On Equity, we debate the... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11. Microsoft revealed the specs and... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
         "date": "2026-10-08"
-    },
-    {
-        "title": "ImageFlow",
-        "summary": "Новость: ImageFlow. <p>\n            Free Photoshop-grade image editor with AI features\n          </p>\n       ... (Установите API ключ в bot.py)...",
-        "content": "Новость: ImageFlow. <p>\n            Free Photoshop-grade image editor with AI features\n          </p>\n       ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/imageflow-6",
-        "date": "2026-10-07"
     }
 ]
