@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenWhispr for iOS",
+        "summary": "Новость: OpenWhispr for iOS. <p>\n            100% open source, free & on device transcription\n          </p>\n... (Установите API ключ в bot.py)...",
+        "content": "Новость: OpenWhispr for iOS. <p>\n            100% open source, free & on device transcription\n          </p>\n... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/openwispr-open-source-ai-speech-to-text",
+        "date": "2026-10-13"
+    },
+    {
         "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
         "summary": "Новость: The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechC... (Установите API ключ в bot.py)...",
         "content": "Новость: The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechC... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: An Anthropic AI model sent a false homicide tip to Philadelphia police. Anthropic did not discover t... (Установите API ключ в bot.py)...",
         "content": "Новость: An Anthropic AI model sent a false homicide tip to Philadelphia police. Anthropic did not discover t... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-        "date": "2026-10-09"
-    },
-    {
-        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-        "summary": "Новость: Ben Affleck is an AI nerd, and the internet is impressed. Ben Affleck is going viral for his deep kn... (Установите API ключ в bot.py)...",
-        "content": "Новость: Ben Affleck is an AI nerd, and the internet is impressed. Ben Affleck is going viral for his deep kn... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
         "date": "2026-10-09"
     }
 ]
