@@ -1,5 +1,12 @@
 [
     {
+        "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+        "summary": "Новость: The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechC... (Установите API ключ в bot.py)...",
+        "content": "Новость: The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechC... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+        "date": "2026-10-13"
+    },
+    {
         "title": "Knocket",
         "summary": "Новость: Knocket. <p>\n            Chat with visitors from your website or link\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: Knocket. <p>\n            Chat with visitors from your website or link\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Ben Affleck is an AI nerd, and the internet is impressed. Ben Affleck is going viral for his deep kn... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
         "date": "2026-10-09"
-    },
-    {
-        "title": "Claude for Google Workspace",
-        "summary": "Новость: Claude for Google Workspace. <p>\n            Bring Claude directly into Google Docs, Sheets & Slides... (Установите API ключ в bot.py)...",
-        "content": "Новость: Claude for Google Workspace. <p>\n            Bring Claude directly into Google Docs, Sheets & Slides... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/claude-for-google-workspace",
-        "date": "2026-10-08"
     }
 ]
