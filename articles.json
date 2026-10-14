@@ -1,5 +1,12 @@
 [
     {
+        "title": "Vincentt",
+        "summary": "Новость: Vincentt. <p>\n            Bring your ideas to life through the camera.\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
+        "content": "Новость: Vincentt. <p>\n            Bring your ideas to life through the camera.\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/vincentt",
+        "date": "2026-10-14"
+    },
+    {
         "title": "OpenWhispr for iOS",
         "summary": "Новость: OpenWhispr for iOS. <p>\n            100% open source, free & on device transcription\n          </p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenWhispr for iOS. <p>\n            100% open source, free & on device transcription\n          </p>\n... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: The maker of non-text AI model Jev valued at $7.5B just weeks after launch. What has users and large... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
         "date": "2026-10-10"
-    },
-    {
-        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-        "summary": "Новость: An Anthropic AI model sent a false homicide tip to Philadelphia police. Anthropic did not discover t... (Установите API ключ в bot.py)...",
-        "content": "Новость: An Anthropic AI model sent a false homicide tip to Philadelphia police. Anthropic did not discover t... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-        "date": "2026-10-09"
     }
 ]
