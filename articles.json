@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pancake",
+        "summary": "Новость: Pancake. <p>\n            The Vercel for GTM\n          </p>\n          <p>\n            <a href=\"https:... (Установите API ключ в bot.py)...",
+        "content": "Новость: Pancake. <p>\n            The Vercel for GTM\n          </p>\n          <p>\n            <a href=\"https:... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/pancake-6",
+        "date": "2026-10-14"
+    },
+    {
         "title": "Vincentt",
         "summary": "Новость: Vincentt. <p>\n            Bring your ideas to life through the camera.\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: Vincentt. <p>\n            Bring your ideas to life through the camera.\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Here are the top AI agents that can live in your text messages. We created a list of the most notabl... (Установите API ключ в bot.py)...",
         "content": "Новость: Here are the top AI agents that can live in your text messages. We created a list of the most notabl... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "date": "2026-10-10"
-    },
-    {
-        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-        "summary": "Новость: The maker of non-text AI model Jev valued at $7.5B just weeks after launch. What has users and large... (Установите API ключ в bot.py)...",
-        "content": "Новость: The maker of non-text AI model Jev valued at $7.5B just weeks after launch. What has users and large... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
         "date": "2026-10-10"
     }
 ]
