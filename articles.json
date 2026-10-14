@@ -1,5 +1,12 @@
 [
     {
+        "title": "AURORA Lifeline",
+        "summary": "Новость: AURORA Lifeline. <p>\n            Know who a cyclone will cut off, before the roads close\n          <... (Установите API ключ в bot.py)...",
+        "content": "Новость: AURORA Lifeline. <p>\n            Know who a cyclone will cut off, before the roads close\n          <... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/aurora-lifeline",
+        "date": "2026-10-14"
+    },
+    {
         "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
         "summary": "Новость: Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace. Zenzap is use... (Установите API ключ в bot.py)...",
         "content": "Новость: Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace. Zenzap is use... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: 3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream. TechCrunch Disrupt ... (Установите API ключ в bot.py)...",
         "content": "Новость: 3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream. TechCrunch Disrupt ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-        "date": "2026-10-11"
-    },
-    {
-        "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-        "summary": "Новость: Microsoft’s Satya Nadella says AI models need an ‘emergency brake’. In a Saturday morning post, Micr... (Установите API ключ в bot.py)...",
-        "content": "Новость: Microsoft’s Satya Nadella says AI models need an ‘emergency brake’. In a Saturday morning post, Micr... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
         "date": "2026-10-11"
     }
 ]
