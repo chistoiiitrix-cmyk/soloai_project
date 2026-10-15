@@ -1,5 +1,12 @@
 [
     {
+        "title": "AI Sandboxes by Buddy",
+        "summary": "Новость: AI Sandboxes by Buddy. <p>\n            Isolated cloud machines for your AI coding agents\n          <... (Установите API ключ в bot.py)...",
+        "content": "Новость: AI Sandboxes by Buddy. <p>\n            Isolated cloud machines for your AI coding agents\n          <... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/buddy",
+        "date": "2026-10-15"
+    },
+    {
         "title": "Reelbird",
         "summary": "Новость: Reelbird. <p>\n            Open Source Loom + Screen Studio alternative for Mac\n          </p>\n      ... (Установите API ключ в bot.py)...",
         "content": "Новость: Reelbird. <p>\n            Open Source Loom + Screen Studio alternative for Mac\n          </p>\n      ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Knocket. <p>\n            Chat with visitors from your website or link\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/knocket-2",
         "date": "2026-10-13"
-    },
-    {
-        "title": "Will the HomeView be Apple’s first smart home success?",
-        "summary": "Новость: Will the HomeView be Apple’s first smart home success?. Over the past couple of years, we’ve seen mu... (Установите API ключ в bot.py)...",
-        "content": "Новость: Will the HomeView be Apple’s first smart home success?. Over the past couple of years, we’ve seen mu... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-        "date": "2026-10-12"
     }
 ]
