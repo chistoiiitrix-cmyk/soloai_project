@@ -1,5 +1,12 @@
 [
     {
+        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+        "summary": "Новость: Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps. Speaki... (Установите API ключ в bot.py)...",
+        "content": "Новость: Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps. Speaki... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+        "date": "2026-10-15"
+    },
+    {
         "title": "AI Sandboxes by Buddy",
         "summary": "Новость: AI Sandboxes by Buddy. <p>\n            Isolated cloud machines for your AI coding agents\n          <... (Установите API ключ в bot.py)...",
         "content": "Новость: AI Sandboxes by Buddy. <p>\n            Isolated cloud machines for your AI coding agents\n          <... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechC... (Установите API ключ в bot.py)...",
         "content": "Новость: The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechC... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-        "date": "2026-10-13"
-    },
-    {
-        "title": "Knocket",
-        "summary": "Новость: Knocket. <p>\n            Chat with visitors from your website or link\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Knocket. <p>\n            Chat with visitors from your website or link\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/knocket-2",
         "date": "2026-10-13"
     }
 ]
