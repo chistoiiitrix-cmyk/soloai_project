@@ -1,5 +1,12 @@
 [
     {
+        "title": "Reelbird",
+        "summary": "Новость: Reelbird. <p>\n            Open Source Loom + Screen Studio alternative for Mac\n          </p>\n      ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Reelbird. <p>\n            Open Source Loom + Screen Studio alternative for Mac\n          </p>\n      ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/reelbird",
+        "date": "2026-10-15"
+    },
+    {
         "title": "Make0 Brain",
         "summary": "Новость: Make0 Brain. <p>\n            A memory store that works across all of your AI agents.\n          </p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: Make0 Brain. <p>\n            A memory store that works across all of your AI agents.\n          </p>\n... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Will the HomeView be Apple’s first smart home success?. Over the past couple of years, we’ve seen mu... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
         "date": "2026-10-12"
-    },
-    {
-        "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-        "summary": "Новость: Can the AI industry persuade data center opponents by getting rid of NDAs?. On Equity, we debate the... (Установите API ключ в bot.py)...",
-        "content": "Новость: Can the AI industry persuade data center opponents by getting rid of NDAs?. On Equity, we debate the... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-        "date": "2026-10-11"
     }
 ]
