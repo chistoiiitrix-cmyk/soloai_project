@@ -1,5 +1,12 @@
 [
     {
+        "title": "Make0 Brain",
+        "summary": "Новость: Make0 Brain. <p>\n            A memory store that works across all of your AI agents.\n          </p>\n... (Установите API ключ в bot.py)...",
+        "content": "Новость: Make0 Brain. <p>\n            A memory store that works across all of your AI agents.\n          </p>\n... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/make0-brain",
+        "date": "2026-10-15"
+    },
+    {
         "title": "AURORA Lifeline",
         "summary": "Новость: AURORA Lifeline. <p>\n            Know who a cyclone will cut off, before the roads close\n          <... (Установите API ключ в bot.py)...",
         "content": "Новость: AURORA Lifeline. <p>\n            Know who a cyclone will cut off, before the roads close\n          <... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Can the AI industry persuade data center opponents by getting rid of NDAs?. On Equity, we debate the... (Установите API ключ в bot.py)...",
         "content": "Новость: Can the AI industry persuade data center opponents by getting rid of NDAs?. On Equity, we debate the... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-        "date": "2026-10-11"
-    },
-    {
-        "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-        "summary": "Новость: 3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream. TechCrunch Disrupt ... (Установите API ключ в bot.py)...",
-        "content": "Новость: 3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream. TechCrunch Disrupt ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
         "date": "2026-10-11"
     }
 ]
