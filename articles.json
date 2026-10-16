@@ -1,5 +1,12 @@
 [
     {
+        "title": "Harness by Autonomous",
+        "summary": "Новость: Harness by Autonomous. <p>\n            Every coding agent, every machine, one command center.\n      ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Harness by Autonomous. <p>\n            Every coding agent, every machine, one command center.\n      ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/harness-by-autonomous",
+        "date": "2026-10-16"
+    },
+    {
         "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
         "summary": "Новость: Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps. Speaki... (Установите API ключ в bot.py)...",
         "content": "Новость: Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps. Speaki... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: OpenWhispr for iOS. <p>\n            100% open source, free & on device transcription\n          </p>\n... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenWhispr for iOS. <p>\n            100% open source, free & on device transcription\n          </p>\n... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/openwispr-open-source-ai-speech-to-text",
-        "date": "2026-10-13"
-    },
-    {
-        "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-        "summary": "Новость: The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechC... (Установите API ключ в bot.py)...",
-        "content": "Новость: The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechC... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
         "date": "2026-10-13"
     }
 ]
