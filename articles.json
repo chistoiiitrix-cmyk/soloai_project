@@ -1,5 +1,12 @@
 [
     {
+        "title": "Toad",
+        "summary": "Новость: Toad. <p>\n            Point your agent at any machine you own.\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Toad. <p>\n            Point your agent at any machine you own.\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/toad-4",
+        "date": "2026-10-16"
+    },
+    {
         "title": "Harness by Autonomous",
         "summary": "Новость: Harness by Autonomous. <p>\n            Every coding agent, every machine, one command center.\n      ... (Установите API ключ в bot.py)...",
         "content": "Новость: Harness by Autonomous. <p>\n            Every coding agent, every machine, one command center.\n      ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Vincentt. <p>\n            Bring your ideas to life through the camera.\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/vincentt",
         "date": "2026-10-14"
-    },
-    {
-        "title": "OpenWhispr for iOS",
-        "summary": "Новость: OpenWhispr for iOS. <p>\n            100% open source, free & on device transcription\n          </p>\n... (Установите API ключ в bot.py)...",
-        "content": "Новость: OpenWhispr for iOS. <p>\n            100% open source, free & on device transcription\n          </p>\n... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/openwispr-open-source-ai-speech-to-text",
-        "date": "2026-10-13"
     }
 ]
