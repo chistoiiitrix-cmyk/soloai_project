@@ -1,5 +1,12 @@
 [
     {
+        "title": "Jockey by TwelveLabs",
+        "summary": "Новость: Jockey by TwelveLabs. <p>\n            Your entire video library: organized, searchable, understood\n ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Jockey by TwelveLabs. <p>\n            Your entire video library: organized, searchable, understood\n ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/twelvelabs",
+        "date": "2026-10-16"
+    },
+    {
         "title": "Toad",
         "summary": "Новость: Toad. <p>\n            Point your agent at any machine you own.\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)...",
         "content": "Новость: Toad. <p>\n            Point your agent at any machine you own.\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Pancake. <p>\n            The Vercel for GTM\n          </p>\n          <p>\n            <a href=\"https:... (Установите API ключ в bot.py)...",
         "content": "Новость: Pancake. <p>\n            The Vercel for GTM\n          </p>\n          <p>\n            <a href=\"https:... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/pancake-6",
-        "date": "2026-10-14"
-    },
-    {
-        "title": "Vincentt",
-        "summary": "Новость: Vincentt. <p>\n            Bring your ideas to life through the camera.\n          </p>\n          <p>\n... (Установите API ключ в bot.py)...",
-        "content": "Новость: Vincentt. <p>\n            Bring your ideas to life through the camera.\n          </p>\n          <p>\n... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/vincentt",
         "date": "2026-10-14"
     }
 ]
