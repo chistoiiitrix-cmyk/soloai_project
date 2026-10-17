@@ -1,5 +1,12 @@
 [
     {
+        "title": "India becomes the latest country to report rogue AI agent activity",
+        "summary": "Новость: India becomes the latest country to report rogue AI agent activity. The agents got in through creden... (Установите API ключ в bot.py)...",
+        "content": "Новость: India becomes the latest country to report rogue AI agent activity. The agents got in through creden... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+        "date": "2026-10-17"
+    },
+    {
         "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
         "summary": "Новость: An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet. Amulya Vishwanath, w... (Установите API ключ в bot.py)...",
         "content": "Новость: An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet. Amulya Vishwanath, w... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Make0 Brain. <p>\n            A memory store that works across all of your AI agents.\n          </p>\n... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/make0-brain",
         "date": "2026-10-15"
-    },
-    {
-        "title": "AURORA Lifeline",
-        "summary": "Новость: AURORA Lifeline. <p>\n            Know who a cyclone will cut off, before the roads close\n          <... (Установите API ключ в bot.py)...",
-        "content": "Новость: AURORA Lifeline. <p>\n            Know who a cyclone will cut off, before the roads close\n          <... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/aurora-lifeline",
-        "date": "2026-10-14"
     }
 ]
