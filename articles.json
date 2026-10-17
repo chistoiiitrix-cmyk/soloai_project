@@ -1,5 +1,12 @@
 [
     {
+        "title": "Lovable Growth Tools",
+        "summary": "Новость: Lovable Growth Tools. <p>\n            From building your app to growing it, in one chat\n          </... (Установите API ключ в bot.py)...",
+        "content": "Новость: Lovable Growth Tools. <p>\n            From building your app to growing it, in one chat\n          </... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/lovable",
+        "date": "2026-10-17"
+    },
+    {
         "title": "Jockey by TwelveLabs",
         "summary": "Новость: Jockey by TwelveLabs. <p>\n            Your entire video library: organized, searchable, understood\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: Jockey by TwelveLabs. <p>\n            Your entire video library: organized, searchable, understood\n ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace. Zenzap is use... (Установите API ключ в bot.py)...",
         "content": "Новость: Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace. Zenzap is use... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-        "date": "2026-10-14"
-    },
-    {
-        "title": "Pancake",
-        "summary": "Новость: Pancake. <p>\n            The Vercel for GTM\n          </p>\n          <p>\n            <a href=\"https:... (Установите API ключ в bot.py)...",
-        "content": "Новость: Pancake. <p>\n            The Vercel for GTM\n          </p>\n          <p>\n            <a href=\"https:... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/pancake-6",
         "date": "2026-10-14"
     }
 ]
