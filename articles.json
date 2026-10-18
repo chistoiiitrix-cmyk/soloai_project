@@ -1,5 +1,12 @@
 [
     {
+        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+        "summary": "Новость: Disney agrees to hire the majority of Character.AI’s workforce. The filing also says that the “vast ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Disney agrees to hire the majority of Character.AI’s workforce. The filing also says that the “vast ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+        "date": "2026-10-18"
+    },
+    {
         "title": "Meta removes language that raised scraping and AI training concerns",
         "summary": "Новость: Meta removes language that raised scraping and AI training concerns. A Meta spokesperson insisted th... (Установите API ключ в bot.py)...",
         "content": "Новость: Meta removes language that raised scraping and AI training concerns. A Meta spokesperson insisted th... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Toad. <p>\n            Point your agent at any machine you own.\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)...",
         "content": "Новость: Toad. <p>\n            Point your agent at any machine you own.\n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/toad-4",
-        "date": "2026-10-16"
-    },
-    {
-        "title": "Harness by Autonomous",
-        "summary": "Новость: Harness by Autonomous. <p>\n            Every coding agent, every machine, one command center.\n      ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Harness by Autonomous. <p>\n            Every coding agent, every machine, one command center.\n      ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/harness-by-autonomous",
         "date": "2026-10-16"
     }
 ]
