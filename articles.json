@@ -1,5 +1,12 @@
 [
     {
+        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "summary": "Новость: Anthropic says its workforce has become less junior and is spending more time in meetings. The compo... (Установите API ключ в bot.py)...",
+        "content": "Новость: Anthropic says its workforce has become less junior and is spending more time in meetings. The compo... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+        "date": "2026-10-18"
+    },
+    {
         "title": "Salience",
         "summary": "Новость: Salience. <p>\n            See every request to your website and how it responds.\n          </p>\n    ... (Установите API ключ в bot.py)...",
         "content": "Новость: Salience. <p>\n            See every request to your website and how it responds.\n          </p>\n    ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: AI Sandboxes by Buddy. <p>\n            Isolated cloud machines for your AI coding agents\n          <... (Установите API ключ в bot.py)...",
         "content": "Новость: AI Sandboxes by Buddy. <p>\n            Isolated cloud machines for your AI coding agents\n          <... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/buddy",
-        "date": "2026-10-15"
-    },
-    {
-        "title": "Reelbird",
-        "summary": "Новость: Reelbird. <p>\n            Open Source Loom + Screen Studio alternative for Mac\n          </p>\n      ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Reelbird. <p>\n            Open Source Loom + Screen Studio alternative for Mac\n          </p>\n      ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/reelbird",
         "date": "2026-10-15"
     }
 ]
