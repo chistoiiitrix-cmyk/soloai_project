@@ -1,5 +1,12 @@
 [
     {
+        "title": "Meta removes language that raised scraping and AI training concerns",
+        "summary": "Новость: Meta removes language that raised scraping and AI training concerns. A Meta spokesperson insisted th... (Установите API ключ в bot.py)...",
+        "content": "Новость: Meta removes language that raised scraping and AI training concerns. A Meta spokesperson insisted th... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+        "date": "2026-10-18"
+    },
+    {
         "title": "Krea 3",
         "summary": "Новость: Krea 3. <p>\n            Krea's AI image model: 2K edits in under 8 seconds\n          </p>\n          ... (Установите API ключ в bot.py)...",
         "content": "Новость: Krea 3. <p>\n            Krea's AI image model: 2K edits in under 8 seconds\n          </p>\n          ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Harness by Autonomous. <p>\n            Every coding agent, every machine, one command center.\n      ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/harness-by-autonomous",
         "date": "2026-10-16"
-    },
-    {
-        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-        "summary": "Новость: Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps. Speaki... (Установите API ключ в bot.py)...",
-        "content": "Новость: Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps. Speaki... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-        "date": "2026-10-15"
     }
 ]
