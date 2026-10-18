@@ -1,5 +1,12 @@
 [
     {
+        "title": "Krea 3",
+        "summary": "Новость: Krea 3. <p>\n            Krea's AI image model: 2K edits in under 8 seconds\n          </p>\n          ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Krea 3. <p>\n            Krea's AI image model: 2K edits in under 8 seconds\n          </p>\n          ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/krea",
+        "date": "2026-10-18"
+    },
+    {
         "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
         "summary": "Новость: Anthropic says its workforce has become less junior and is spending more time in meetings. The compo... (Установите API ключ в bot.py)...",
         "content": "Новость: Anthropic says its workforce has become less junior and is spending more time in meetings. The compo... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps. Speaki... (Установите API ключ в bot.py)...",
         "content": "Новость: Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps. Speaki... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-        "date": "2026-10-15"
-    },
-    {
-        "title": "AI Sandboxes by Buddy",
-        "summary": "Новость: AI Sandboxes by Buddy. <p>\n            Isolated cloud machines for your AI coding agents\n          <... (Установите API ключ в bot.py)...",
-        "content": "Новость: AI Sandboxes by Buddy. <p>\n            Isolated cloud machines for your AI coding agents\n          <... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/buddy",
         "date": "2026-10-15"
     }
 ]
