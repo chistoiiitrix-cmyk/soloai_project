@@ -1,5 +1,12 @@
 [
     {
+        "title": "Lookout (for Slack)",
+        "summary": "Новость: Lookout (for Slack). <p>\n            Urgent Slack messages, handled instantly. Powered by Jev.\n     ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Lookout (for Slack). <p>\n            Urgent Slack messages, handled instantly. Powered by Jev.\n     ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/lookout-for-slack",
+        "date": "2026-10-20"
+    },
+    {
         "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
         "summary": "Новость: Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts. OpenCode is an open-s... (Установите API ключ в bot.py)...",
         "content": "Новость: Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts. OpenCode is an open-s... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Lovable Growth Tools. <p>\n            From building your app to growing it, in one chat\n          </... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/lovable",
         "date": "2026-10-17"
-    },
-    {
-        "title": "Jockey by TwelveLabs",
-        "summary": "Новость: Jockey by TwelveLabs. <p>\n            Your entire video library: organized, searchable, understood\n ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Jockey by TwelveLabs. <p>\n            Your entire video library: organized, searchable, understood\n ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/twelvelabs",
-        "date": "2026-10-16"
     }
 ]
