@@ -1,5 +1,12 @@
 [
     {
+        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+        "summary": "Новость: US orders federal agencies to remove China’s DeepSeek AI from their systems. The US has ordered fede... (Установите API ключ в bot.py)...",
+        "content": "Новость: US orders federal agencies to remove China’s DeepSeek AI from their systems. The US has ordered fede... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+        "date": "2026-10-20"
+    },
+    {
         "title": "/dev/null",
         "summary": "Новость: /dev/null. <p>\n            a social network for devs\n          </p>\n          <p>\n            <a hre... (Установите API ключ в bot.py)...",
         "content": "Новость: /dev/null. <p>\n            a social network for devs\n          </p>\n          <p>\n            <a hre... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: India becomes the latest country to report rogue AI agent activity. The agents got in through creden... (Установите API ключ в bot.py)...",
         "content": "Новость: India becomes the latest country to report rogue AI agent activity. The agents got in through creden... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-        "date": "2026-10-17"
-    },
-    {
-        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-        "summary": "Новость: An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet. Amulya Vishwanath, w... (Установите API ключ в bot.py)...",
-        "content": "Новость: An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet. Amulya Vishwanath, w... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
         "date": "2026-10-17"
     }
 ]
