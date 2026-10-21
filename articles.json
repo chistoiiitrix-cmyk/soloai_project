@@ -1,5 +1,12 @@
 [
     {
+        "title": "Burrow MacOS",
+        "summary": "Новость: Burrow MacOS. <p>\n            Start Windows & Linux on your Mac for free\n          </p>\n          <p... (Установите API ключ в bot.py)...",
+        "content": "Новость: Burrow MacOS. <p>\n            Start Windows & Linux on your Mac for free\n          </p>\n          <p... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/burrow-macos",
+        "date": "2026-10-21"
+    },
+    {
         "title": "Exa 3.0",
         "summary": "Новость: Exa 3.0. <p>\n            Smarter search that gives AI agent richer data at lower cost\n          </p>... (Установите API ключ в bot.py)...",
         "content": "Новость: Exa 3.0. <p>\n            Smarter search that gives AI agent richer data at lower cost\n          </p>... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Krea 3. <p>\n            Krea's AI image model: 2K edits in under 8 seconds\n          </p>\n          ... (Установите API ключ в bot.py)...",
         "content": "Новость: Krea 3. <p>\n            Krea's AI image model: 2K edits in under 8 seconds\n          </p>\n          ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/krea",
-        "date": "2026-10-18"
-    },
-    {
-        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-        "summary": "Новость: Anthropic says its workforce has become less junior and is spending more time in meetings. The compo... (Установите API ключ в bot.py)...",
-        "content": "Новость: Anthropic says its workforce has become less junior and is spending more time in meetings. The compo... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
         "date": "2026-10-18"
     }
 ]
