@@ -1,5 +1,12 @@
 [
     {
+        "title": "Meta says Muse has over 10M users, with shopping a top activity",
+        "summary": "Новость: Meta says Muse has over 10M users, with shopping a top activity. Meta Muse users are adopting the ap... (Установите API ключ в bot.py)...",
+        "content": "Новость: Meta says Muse has over 10M users, with shopping a top activity. Meta Muse users are adopting the ap... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+        "date": "2026-10-21"
+    },
+    {
         "title": "Burrow MacOS",
         "summary": "Новость: Burrow MacOS. <p>\n            Start Windows & Linux on your Mac for free\n          </p>\n          <p... (Установите API ключ в bot.py)...",
         "content": "Новость: Burrow MacOS. <p>\n            Start Windows & Linux on your Mac for free\n          </p>\n          <p... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Meta removes language that raised scraping and AI training concerns. A Meta spokesperson insisted th... (Установите API ключ в bot.py)...",
         "content": "Новость: Meta removes language that raised scraping and AI training concerns. A Meta spokesperson insisted th... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-        "date": "2026-10-18"
-    },
-    {
-        "title": "Krea 3",
-        "summary": "Новость: Krea 3. <p>\n            Krea's AI image model: 2K edits in under 8 seconds\n          </p>\n          ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Krea 3. <p>\n            Krea's AI image model: 2K edits in under 8 seconds\n          </p>\n          ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/krea",
         "date": "2026-10-18"
     }
 ]
