@@ -1,5 +1,12 @@
 [
     {
+        "title": "Needle",
+        "summary": "Новость: Needle. <p>\n            The agent-native outbound engine\n          </p>\n          <p>\n            <a... (Установите API ключ в bot.py)...",
+        "content": "Новость: Needle. <p>\n            The agent-native outbound engine\n          </p>\n          <p>\n            <a... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/needle-3",
+        "date": "2026-10-22"
+    },
+    {
         "title": "Meta says Muse has over 10M users, with shopping a top activity",
         "summary": "Новость: Meta says Muse has over 10M users, with shopping a top activity. Meta Muse users are adopting the ap... (Установите API ключ в bot.py)...",
         "content": "Новость: Meta says Muse has over 10M users, with shopping a top activity. Meta Muse users are adopting the ap... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Disney agrees to hire the majority of Character.AI’s workforce. The filing also says that the “vast ... (Установите API ключ в bot.py)...",
         "content": "Новость: Disney agrees to hire the majority of Character.AI’s workforce. The filing also says that the “vast ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-        "date": "2026-10-18"
-    },
-    {
-        "title": "Meta removes language that raised scraping and AI training concerns",
-        "summary": "Новость: Meta removes language that raised scraping and AI training concerns. A Meta spokesperson insisted th... (Установите API ключ в bot.py)...",
-        "content": "Новость: Meta removes language that raised scraping and AI training concerns. A Meta spokesperson insisted th... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
         "date": "2026-10-18"
     }
 ]
