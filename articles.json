@@ -1,5 +1,12 @@
 [
     {
+        "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+        "summary": "Новость: Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown. Blackstone’s AI head on why ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown. Blackstone’s AI head on why ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+        "date": "2026-10-22"
+    },
+    {
         "title": "Needle",
         "summary": "Новость: Needle. <p>\n            The agent-native outbound engine\n          </p>\n          <p>\n            <a... (Установите API ключ в bot.py)...",
         "content": "Новость: Needle. <p>\n            The agent-native outbound engine\n          </p>\n          <p>\n            <a... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts. OpenCode is an open-s... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
         "date": "2026-10-19"
-    },
-    {
-        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-        "summary": "Новость: Disney agrees to hire the majority of Character.AI’s workforce. The filing also says that the “vast ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Disney agrees to hire the majority of Character.AI’s workforce. The filing also says that the “vast ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-        "date": "2026-10-18"
     }
 ]
