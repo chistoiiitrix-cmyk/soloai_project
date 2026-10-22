@@ -1,5 +1,12 @@
 [
     {
+        "title": "Playad",
+        "summary": "Новость: Playad. <p>\n            Hire your AI Marketing Team\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)...",
+        "content": "Новость: Playad. <p>\n            Hire your AI Marketing Team\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/playad",
+        "date": "2026-10-22"
+    },
+    {
         "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
         "summary": "Новость: Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown. Blackstone’s AI head on why ... (Установите API ключ в bot.py)...",
         "content": "Новость: Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown. Blackstone’s AI head on why ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Lookout (for Slack). <p>\n            Urgent Slack messages, handled instantly. Powered by Jev.\n     ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/lookout-for-slack",
         "date": "2026-10-20"
-    },
-    {
-        "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-        "summary": "Новость: Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts. OpenCode is an open-s... (Установите API ключ в bot.py)...",
-        "content": "Новость: Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts. OpenCode is an open-s... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-        "date": "2026-10-19"
     }
 ]
