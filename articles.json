@@ -1,5 +1,12 @@
 [
     {
+        "title": "heal.dev",
+        "summary": "Новость: heal.dev. <p>\n            Find bugs and vulnerabilities code review misses\n          </p>\n          ... (Установите API ключ в bot.py)...",
+        "content": "Новость: heal.dev. <p>\n            Find bugs and vulnerabilities code review misses\n          </p>\n          ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/heal-dev",
+        "date": "2026-10-22"
+    },
+    {
         "title": "Playad",
         "summary": "Новость: Playad. <p>\n            Hire your AI Marketing Team\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)...",
         "content": "Новость: Playad. <p>\n            Hire your AI Marketing Team\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: /dev/null. <p>\n            a social network for devs\n          </p>\n          <p>\n            <a hre... (Установите API ключ в bot.py)...",
         "content": "Новость: /dev/null. <p>\n            a social network for devs\n          </p>\n          <p>\n            <a hre... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/dev-null",
-        "date": "2026-10-20"
-    },
-    {
-        "title": "Lookout (for Slack)",
-        "summary": "Новость: Lookout (for Slack). <p>\n            Urgent Slack messages, handled instantly. Powered by Jev.\n     ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Lookout (for Slack). <p>\n            Urgent Slack messages, handled instantly. Powered by Jev.\n     ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/lookout-for-slack",
         "date": "2026-10-20"
     }
 ]
