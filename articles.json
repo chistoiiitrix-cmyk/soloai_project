@@ -1,5 +1,12 @@
 [
     {
+        "title": "Product Hunt Visual Launch Editor",
+        "summary": "Новость: Product Hunt Visual Launch Editor. <p>\n            See your launch as you build it\n          </p>\n  ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Product Hunt Visual Launch Editor. <p>\n            See your launch as you build it\n          </p>\n  ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/producthunt",
+        "date": "2026-10-23"
+    },
+    {
         "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
         "summary": "Новость: 1Password launches a way for AI agents to log in on your behalf without seeing your password. The ne... (Установите API ключ в bot.py)...",
         "content": "Новость: 1Password launches a way for AI agents to log in on your behalf without seeing your password. The ne... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Composio Instant. <p>\n            The easiest way for AI agents to pay for their own tools\n         ... (Установите API ключ в bot.py)...",
         "content": "Новость: Composio Instant. <p>\n            The easiest way for AI agents to pay for their own tools\n         ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/composio",
-        "date": "2026-10-20"
-    },
-    {
-        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-        "summary": "Новость: US orders federal agencies to remove China’s DeepSeek AI from their systems. The US has ordered fede... (Установите API ключ в bot.py)...",
-        "content": "Новость: US orders federal agencies to remove China’s DeepSeek AI from their systems. The US has ordered fede... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
         "date": "2026-10-20"
     }
 ]
