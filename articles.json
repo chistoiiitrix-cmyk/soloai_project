@@ -1,5 +1,12 @@
 [
     {
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "summary": "Новость: 1Password launches a way for AI agents to log in on your behalf without seeing your password. The ne... (Установите API ключ в bot.py)...",
+        "content": "Новость: 1Password launches a way for AI agents to log in on your behalf without seeing your password. The ne... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+        "date": "2026-10-23"
+    },
+    {
         "title": "heal.dev",
         "summary": "Новость: heal.dev. <p>\n            Find bugs and vulnerabilities code review misses\n          </p>\n          ... (Установите API ключ в bot.py)...",
         "content": "Новость: heal.dev. <p>\n            Find bugs and vulnerabilities code review misses\n          </p>\n          ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: US orders federal agencies to remove China’s DeepSeek AI from their systems. The US has ordered fede... (Установите API ключ в bot.py)...",
         "content": "Новость: US orders federal agencies to remove China’s DeepSeek AI from their systems. The US has ordered fede... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-        "date": "2026-10-20"
-    },
-    {
-        "title": "/dev/null",
-        "summary": "Новость: /dev/null. <p>\n            a social network for devs\n          </p>\n          <p>\n            <a hre... (Установите API ключ в bot.py)...",
-        "content": "Новость: /dev/null. <p>\n            a social network for devs\n          </p>\n          <p>\n            <a hre... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/dev-null",
         "date": "2026-10-20"
     }
 ]
