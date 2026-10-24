@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "summary": "Новость: OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”. ... (Установите API ключ в bot.py)...",
+        "content": "Новость: OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”. ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+        "date": "2026-10-24"
+    },
+    {
         "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
         "summary": "Новость: Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell. The robots,... (Установите API ключ в bot.py)...",
         "content": "Новость: Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell. The robots,... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Meta says Muse has over 10M users, with shopping a top activity. Meta Muse users are adopting the ap... (Установите API ключ в bot.py)...",
         "content": "Новость: Meta says Muse has over 10M users, with shopping a top activity. Meta Muse users are adopting the ap... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-        "date": "2026-10-21"
-    },
-    {
-        "title": "Burrow MacOS",
-        "summary": "Новость: Burrow MacOS. <p>\n            Start Windows & Linux on your Mac for free\n          </p>\n          <p... (Установите API ключ в bot.py)...",
-        "content": "Новость: Burrow MacOS. <p>\n            Start Windows & Linux on your Mac for free\n          </p>\n          <p... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/burrow-macos",
         "date": "2026-10-21"
     }
 ]
