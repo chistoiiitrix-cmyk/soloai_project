@@ -1,5 +1,12 @@
 [
     {
+        "title": "Penta",
+        "summary": "Новость: Penta. <p>\n            A ’90s 5-disc CD changer on iPhone Duo \n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Penta. <p>\n            A ’90s 5-disc CD changer on iPhone Duo \n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/penta-cd-player-changer",
+        "date": "2026-10-24"
+    },
+    {
         "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
         "summary": "Новость: OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”. ... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”. ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Needle. <p>\n            The agent-native outbound engine\n          </p>\n          <p>\n            <a... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/needle-3",
         "date": "2026-10-22"
-    },
-    {
-        "title": "Meta says Muse has over 10M users, with shopping a top activity",
-        "summary": "Новость: Meta says Muse has over 10M users, with shopping a top activity. Meta Muse users are adopting the ap... (Установите API ключ в bot.py)...",
-        "content": "Новость: Meta says Muse has over 10M users, with shopping a top activity. Meta Muse users are adopting the ap... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-        "date": "2026-10-21"
     }
 ]
