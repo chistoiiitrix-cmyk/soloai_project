@@ -1,5 +1,12 @@
 [
     {
+        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+        "summary": "Новость: Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell. The robots,... (Установите API ключ в bot.py)...",
+        "content": "Новость: Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell. The robots,... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+        "date": "2026-10-24"
+    },
+    {
         "title": "Left alone with nothing to do, AI agents started playing",
         "summary": "Новость: Left alone with nothing to do, AI agents started playing. MIT researchers marooned 13 AIs on a virtu... (Установите API ключ в bot.py)...",
         "content": "Новость: Left alone with nothing to do, AI agents started playing. MIT researchers marooned 13 AIs on a virtu... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Burrow MacOS. <p>\n            Start Windows & Linux on your Mac for free\n          </p>\n          <p... (Установите API ключ в bot.py)...",
         "content": "Новость: Burrow MacOS. <p>\n            Start Windows & Linux on your Mac for free\n          </p>\n          <p... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/burrow-macos",
-        "date": "2026-10-21"
-    },
-    {
-        "title": "Exa 3.0",
-        "summary": "Новость: Exa 3.0. <p>\n            Smarter search that gives AI agent richer data at lower cost\n          </p>... (Установите API ключ в bot.py)...",
-        "content": "Новость: Exa 3.0. <p>\n            Smarter search that gives AI agent richer data at lower cost\n          </p>... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/exa-ai",
         "date": "2026-10-21"
     }
 ]
