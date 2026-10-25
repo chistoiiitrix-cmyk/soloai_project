@@ -1,5 +1,12 @@
 [
     {
+        "title": "Block’s new voice model sounds eerily human",
+        "summary": "Новость: Block’s new voice model sounds eerily human. Block said that the voice model can run locally on a Ma... (Установите API ключ в bot.py)...",
+        "content": "Новость: Block’s new voice model sounds eerily human. Block said that the voice model can run locally on a Ma... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+        "date": "2026-10-25"
+    },
+    {
         "title": "Penta",
         "summary": "Новость: Penta. <p>\n            A ’90s 5-disc CD changer on iPhone Duo \n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)...",
         "content": "Новость: Penta. <p>\n            A ’90s 5-disc CD changer on iPhone Duo \n          </p>\n          <p>\n        ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown. Blackstone’s AI head on why ... (Установите API ключ в bot.py)...",
         "content": "Новость: Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown. Blackstone’s AI head on why ... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-        "date": "2026-10-22"
-    },
-    {
-        "title": "Needle",
-        "summary": "Новость: Needle. <p>\n            The agent-native outbound engine\n          </p>\n          <p>\n            <a... (Установите API ключ в bot.py)...",
-        "content": "Новость: Needle. <p>\n            The agent-native outbound engine\n          </p>\n          <p>\n            <a... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/needle-3",
         "date": "2026-10-22"
     }
 ]
