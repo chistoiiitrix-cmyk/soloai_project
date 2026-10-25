@@ -1,5 +1,12 @@
 [
     {
+        "title": "Yourcast 2.0",
+        "summary": "Новость: Yourcast 2.0. <p>\n            AI summaries with tap-to-jump timestamps, right in Telegram\n          ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Yourcast 2.0. <p>\n            AI summaries with tap-to-jump timestamps, right in Telegram\n          ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/yourcast",
+        "date": "2026-10-25"
+    },
+    {
         "title": "Llama Windows",
         "summary": "Новость: Llama Windows. <p>\n            One local AI server for all your Windows apps\n          </p>\n        ... (Установите API ключ в bot.py)...",
         "content": "Новость: Llama Windows. <p>\n            One local AI server for all your Windows apps\n          </p>\n        ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: heal.dev. <p>\n            Find bugs and vulnerabilities code review misses\n          </p>\n          ... (Установите API ключ в bot.py)...",
         "content": "Новость: heal.dev. <p>\n            Find bugs and vulnerabilities code review misses\n          </p>\n          ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/heal-dev",
-        "date": "2026-10-22"
-    },
-    {
-        "title": "Playad",
-        "summary": "Новость: Playad. <p>\n            Hire your AI Marketing Team\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)...",
-        "content": "Новость: Playad. <p>\n            Hire your AI Marketing Team\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/playad",
         "date": "2026-10-22"
     }
 ]
