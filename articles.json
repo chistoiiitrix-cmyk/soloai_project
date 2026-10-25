@@ -1,5 +1,12 @@
 [
     {
+        "title": "Llama Windows",
+        "summary": "Новость: Llama Windows. <p>\n            One local AI server for all your Windows apps\n          </p>\n        ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Llama Windows. <p>\n            One local AI server for all your Windows apps\n          </p>\n        ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/llama-windows",
+        "date": "2026-10-25"
+    },
+    {
         "title": "Block’s new voice model sounds eerily human",
         "summary": "Новость: Block’s new voice model sounds eerily human. Block said that the voice model can run locally on a Ma... (Установите API ключ в bot.py)...",
         "content": "Новость: Block’s new voice model sounds eerily human. Block said that the voice model can run locally on a Ma... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Playad. <p>\n            Hire your AI Marketing Team\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)...",
         "content": "Новость: Playad. <p>\n            Hire your AI Marketing Team\n          </p>\n          <p>\n            <a href... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/playad",
-        "date": "2026-10-22"
-    },
-    {
-        "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-        "summary": "Новость: Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown. Blackstone’s AI head on why ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown. Blackstone’s AI head on why ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
         "date": "2026-10-22"
     }
 ]
