@@ -1,5 +1,12 @@
 [
     {
+        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "summary": "Новость: AI delivers ‘zero financial payoff’ to most companies, Apollo economist says. \"Despite massive inves... (Установите API ключ в bot.py)...",
+        "content": "Новость: AI delivers ‘zero financial payoff’ to most companies, Apollo economist says. \"Despite massive inves... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "date": "2026-10-26"
+    },
+    {
         "title": "pawl",
         "summary": "Новость: pawl. <p>\n            a tiny mac focus timer you start by pulling a paw\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
         "content": "Новость: pawl. <p>\n            a tiny mac focus timer you start by pulling a paw\n          </p>\n          <p>... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Product Hunt Visual Launch Editor. <p>\n            See your launch as you build it\n          </p>\n  ... (Установите API ключ в bot.py)...",
         "content": "Новость: Product Hunt Visual Launch Editor. <p>\n            See your launch as you build it\n          </p>\n  ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/producthunt",
-        "date": "2026-10-23"
-    },
-    {
-        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-        "summary": "Новость: 1Password launches a way for AI agents to log in on your behalf without seeing your password. The ne... (Установите API ключ в bot.py)...",
-        "content": "Новость: 1Password launches a way for AI agents to log in on your behalf without seeing your password. The ne... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
         "date": "2026-10-23"
     }
 ]
