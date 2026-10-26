@@ -1,5 +1,12 @@
 [
     {
+        "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+        "summary": "Новость: Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked. Anthropic’s S-1... (Установите API ключ в bot.py)...",
+        "content": "Новость: Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked. Anthropic’s S-1... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+        "date": "2026-10-26"
+    },
+    {
         "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
         "summary": "Новость: AI delivers ‘zero financial payoff’ to most companies, Apollo economist says. \"Despite massive inves... (Установите API ключ в bot.py)...",
         "content": "Новость: AI delivers ‘zero financial payoff’ to most companies, Apollo economist says. \"Despite massive inves... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Left alone with nothing to do, AI agents started playing. MIT researchers marooned 13 AIs on a virtu... (Установите API ключ в bot.py)...",
         "content": "Новость: Left alone with nothing to do, AI agents started playing. MIT researchers marooned 13 AIs on a virtu... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-        "date": "2026-10-23"
-    },
-    {
-        "title": "Product Hunt Visual Launch Editor",
-        "summary": "Новость: Product Hunt Visual Launch Editor. <p>\n            See your launch as you build it\n          </p>\n  ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Product Hunt Visual Launch Editor. <p>\n            See your launch as you build it\n          </p>\n  ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/producthunt",
         "date": "2026-10-23"
     }
 ]
