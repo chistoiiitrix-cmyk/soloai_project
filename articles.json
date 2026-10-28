@@ -1,5 +1,12 @@
 [
     {
+        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+        "summary": "Новость: Microsoft recorded $10 billion in revenue from OpenAI. Microsoft said it made $10 billion in revenue... (Установите API ключ в bot.py)...",
+        "content": "Новость: Microsoft recorded $10 billion in revenue from OpenAI. Microsoft said it made $10 billion in revenue... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+        "date": "2026-10-28"
+    },
+    {
         "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
         "summary": "Новость: VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more. Massive note ... (Установите API ключ в bot.py)...",
         "content": "Новость: VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more. Massive note ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Yourcast 2.0. <p>\n            AI summaries with tap-to-jump timestamps, right in Telegram\n          ... (Установите API ключ в bot.py)...",
         "content": "Новость: Yourcast 2.0. <p>\n            AI summaries with tap-to-jump timestamps, right in Telegram\n          ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/yourcast",
-        "date": "2026-10-25"
-    },
-    {
-        "title": "Llama Windows",
-        "summary": "Новость: Llama Windows. <p>\n            One local AI server for all your Windows apps\n          </p>\n        ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Llama Windows. <p>\n            One local AI server for all your Windows apps\n          </p>\n        ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/llama-windows",
         "date": "2026-10-25"
     }
 ]
