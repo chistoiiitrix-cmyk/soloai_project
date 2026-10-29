@@ -1,5 +1,12 @@
 [
     {
+        "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "summary": "Новость: As search traffic dries up, Reddit announces it’s shifting to a logged-in experience. As AI transfor... (Установите API ключ в bot.py)...",
+        "content": "Новость: As search traffic dries up, Reddit announces it’s shifting to a logged-in experience. As AI transfor... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+        "date": "2026-10-29"
+    },
+    {
         "title": "Gologin Cloud Browser",
         "summary": "Новость: Gologin Cloud Browser. <p>\n            Cloud browser for AI agents and tough sites \n          </p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: Gologin Cloud Browser. <p>\n            Cloud browser for AI agents and tough sites \n          </p>\n ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked. Anthropic’s S-1... (Установите API ключ в bot.py)...",
         "content": "Новость: Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked. Anthropic’s S-1... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-        "date": "2026-10-26"
-    },
-    {
-        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-        "summary": "Новость: AI delivers ‘zero financial payoff’ to most companies, Apollo economist says. \"Despite massive inves... (Установите API ключ в bot.py)...",
-        "content": "Новость: AI delivers ‘zero financial payoff’ to most companies, Apollo economist says. \"Despite massive inves... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
         "date": "2026-10-26"
     }
 ]
