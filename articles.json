@@ -1,5 +1,12 @@
 [
     {
+        "title": "Gologin Cloud Browser",
+        "summary": "Новость: Gologin Cloud Browser. <p>\n            Cloud browser for AI agents and tough sites \n          </p>\n ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Gologin Cloud Browser. <p>\n            Cloud browser for AI agents and tough sites \n          </p>\n ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/gologin",
+        "date": "2026-10-29"
+    },
+    {
         "title": "Dedica",
         "summary": "Новость: Dedica. <p>\n            Check if AI agents can use your website\n          </p>\n          <p>\n       ... (Установите API ключ в bot.py)...",
         "content": "Новость: Dedica. <p>\n            Check if AI agents can use your website\n          </p>\n          <p>\n       ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: AI delivers ‘zero financial payoff’ to most companies, Apollo economist says. \"Despite massive inves... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
         "date": "2026-10-26"
-    },
-    {
-        "title": "pawl",
-        "summary": "Новость: pawl. <p>\n            a tiny mac focus timer you start by pulling a paw\n          </p>\n          <p>... (Установите API ключ в bot.py)...",
-        "content": "Новость: pawl. <p>\n            a tiny mac focus timer you start by pulling a paw\n          </p>\n          <p>... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/pawl",
-        "date": "2026-10-25"
     }
 ]
