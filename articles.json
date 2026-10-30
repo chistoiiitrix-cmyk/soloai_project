@@ -1,5 +1,12 @@
 [
     {
+        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+        "summary": "Новость: Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says. Th... (Установите API ключ в bot.py)...",
+        "content": "Новость: Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says. Th... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+        "date": "2026-10-30"
+    },
+    {
         "title": "Cluinn",
         "summary": "Новость: Cluinn. <p>\n            Answers your questions during the call, not after. For Mac.\n          </p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: Cluinn. <p>\n            Answers your questions during the call, not after. For Mac.\n          </p>\n ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?. Tec... (Установите API ключ в bot.py)...",
         "content": "Новость: Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?. Tec... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-        "date": "2026-10-27"
-    },
-    {
-        "title": "ContextGem 1.0",
-        "summary": "Новость: ContextGem 1.0. <p>\n            Decision models join LLMs to extract data from documents\n          <... (Установите API ключ в bot.py)...",
-        "content": "Новость: ContextGem 1.0. <p>\n            Decision models join LLMs to extract data from documents\n          <... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/contextgem",
         "date": "2026-10-27"
     }
 ]
