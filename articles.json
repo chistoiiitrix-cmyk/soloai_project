@@ -1,5 +1,12 @@
 [
     {
+        "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "summary": "Новость: AWS will be a $1T business, Jassy says. But first, it will spend big.. Amazon wants to be the king o... (Установите API ключ в bot.py)...",
+        "content": "Новость: AWS will be a $1T business, Jassy says. But first, it will spend big.. Amazon wants to be the king o... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+        "date": "2026-10-30"
+    },
+    {
         "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
         "summary": "Новость: As search traffic dries up, Reddit announces it’s shifting to a logged-in experience. As AI transfor... (Установите API ключ в bot.py)...",
         "content": "Новость: As search traffic dries up, Reddit announces it’s shifting to a logged-in experience. As AI transfor... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: VibeiDE. <p>\n            Queue agent tasks in parallel and review each result\n          </p>\n       ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/vibeide",
         "date": "2026-10-27"
-    },
-    {
-        "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-        "summary": "Новость: Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked. Anthropic’s S-1... (Установите API ключ в bot.py)...",
-        "content": "Новость: Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked. Anthropic’s S-1... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-        "date": "2026-10-26"
     }
 ]
