@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cluinn",
+        "summary": "Новость: Cluinn. <p>\n            Answers your questions during the call, not after. For Mac.\n          </p>\n ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Cluinn. <p>\n            Answers your questions during the call, not after. For Mac.\n          </p>\n ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/cluinn",
+        "date": "2026-10-30"
+    },
+    {
         "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
         "summary": "Новость: AWS will be a $1T business, Jassy says. But first, it will spend big.. Amazon wants to be the king o... (Установите API ключ в bot.py)...",
         "content": "Новость: AWS will be a $1T business, Jassy says. But first, it will spend big.. Amazon wants to be the king o... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: ContextGem 1.0. <p>\n            Decision models join LLMs to extract data from documents\n          <... (Установите API ключ в bot.py)...",
         "content": "Новость: ContextGem 1.0. <p>\n            Decision models join LLMs to extract data from documents\n          <... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/contextgem",
-        "date": "2026-10-27"
-    },
-    {
-        "title": "VibeiDE",
-        "summary": "Новость: VibeiDE. <p>\n            Queue agent tasks in parallel and review each result\n          </p>\n       ... (Установите API ключ в bot.py)...",
-        "content": "Новость: VibeiDE. <p>\n            Queue agent tasks in parallel and review each result\n          </p>\n       ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/vibeide",
         "date": "2026-10-27"
     }
 ]
