@@ -1,5 +1,12 @@
 [
     {
+        "title": "Nocto",
+        "summary": "Новость: Nocto. <p>\n            Your MacBook notch, finally useful\n          </p>\n          <p>\n            <... (Установите API ключ в bot.py)...",
+        "content": "Новость: Nocto. <p>\n            Your MacBook notch, finally useful\n          </p>\n          <p>\n            <... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/nocto",
+        "date": "2026-10-31"
+    },
+    {
         "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
         "summary": "Новость: Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says. Th... (Установите API ключ в bot.py)...",
         "content": "Новость: Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says. Th... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Disruptive raises $10B fund to make big bets on at least 10 companies. Disruptive has made headlines... (Установите API ключ в bot.py)...",
         "content": "Новость: Disruptive raises $10B fund to make big bets on at least 10 companies. Disruptive has made headlines... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-        "date": "2026-10-27"
-    },
-    {
-        "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-        "summary": "Новость: Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?. Tec... (Установите API ключ в bot.py)...",
-        "content": "Новость: Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?. Tec... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
         "date": "2026-10-27"
     }
 ]
