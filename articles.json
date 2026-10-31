@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI reportedly lowers funding target for new round",
+        "summary": "Новость: OpenAI reportedly lowers funding target for new round. OpenAI’s latest funding round doesn't seem to... (Установите API ключ в bot.py)...",
+        "content": "Новость: OpenAI reportedly lowers funding target for new round. OpenAI’s latest funding round doesn't seem to... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+        "date": "2026-10-31"
+    },
+    {
         "title": "Backenly",
         "summary": "Новость: Backenly. <p>\n            The autonomous backend for AI coding agents\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: Backenly. <p>\n            The autonomous backend for AI coding agents\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Dedica. <p>\n            Check if AI agents can use your website\n          </p>\n          <p>\n       ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/dedica",
         "date": "2026-10-29"
-    },
-    {
-        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-        "summary": "Новость: Microsoft recorded $10 billion in revenue from OpenAI. Microsoft said it made $10 billion in revenue... (Установите API ключ в bot.py)...",
-        "content": "Новость: Microsoft recorded $10 billion in revenue from OpenAI. Microsoft said it made $10 billion in revenue... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-        "date": "2026-10-28"
     }
 ]
