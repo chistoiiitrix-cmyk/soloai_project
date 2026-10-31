@@ -1,5 +1,12 @@
 [
     {
+        "title": "Backenly",
+        "summary": "Новость: Backenly. <p>\n            The autonomous backend for AI coding agents\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Backenly. <p>\n            The autonomous backend for AI coding agents\n          </p>\n          <p>\n ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/backenly-2",
+        "date": "2026-10-31"
+    },
+    {
         "title": "GitHub Copilot Fusion",
         "summary": "Новость: GitHub Copilot Fusion. <p>\n            GitHub's AI coding agent that picks and combines models\n     ... (Установите API ключ в bot.py)...",
         "content": "Новость: GitHub Copilot Fusion. <p>\n            GitHub's AI coding agent that picks and combines models\n     ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Microsoft recorded $10 billion in revenue from OpenAI. Microsoft said it made $10 billion in revenue... (Установите API ключ в bot.py)...",
         "content": "Новость: Microsoft recorded $10 billion in revenue from OpenAI. Microsoft said it made $10 billion in revenue... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-        "date": "2026-10-28"
-    },
-    {
-        "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-        "summary": "Новость: VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more. Massive note ... (Установите API ключ в bot.py)...",
-        "content": "Новость: VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more. Massive note ... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
         "date": "2026-10-28"
     }
 ]
