@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+        "summary": "Новость: OpenAI is finally merging ChatGPT’s chat and Work tabs. OpenAI said that ChatGPT and Codex will draw... (Установите API ключ в bot.py)...",
+        "content": "Новость: OpenAI is finally merging ChatGPT’s chat and Work tabs. OpenAI said that ChatGPT and Codex will draw... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+        "date": "2026-11-02"
+    },
+    {
         "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
         "summary": "Новость: Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’. Apple's new CEO defended the com... (Установите API ключ в bot.py)...",
         "content": "Новость: Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’. Apple's new CEO defended the com... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Cluinn. <p>\n            Answers your questions during the call, not after. For Mac.\n          </p>\n ... (Установите API ключ в bot.py)...",
         "content": "Новость: Cluinn. <p>\n            Answers your questions during the call, not after. For Mac.\n          </p>\n ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/cluinn",
-        "date": "2026-10-30"
-    },
-    {
-        "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-        "summary": "Новость: AWS will be a $1T business, Jassy says. But first, it will spend big.. Amazon wants to be the king o... (Установите API ключ в bot.py)...",
-        "content": "Новость: AWS will be a $1T business, Jassy says. But first, it will spend big.. Amazon wants to be the king o... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
         "date": "2026-10-30"
     }
 ]
