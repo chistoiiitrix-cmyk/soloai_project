@@ -1,5 +1,12 @@
 [
     {
+        "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+        "summary": "Новость: Apple may try to increase revenue by doing…something with third-party AI apps. Apple hinted at ways ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Apple may try to increase revenue by doing…something with third-party AI apps. Apple hinted at ways ... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+        "date": "2026-11-03"
+    },
+    {
         "title": "Cedric AI for Meetings",
         "summary": "Новость: Cedric AI for Meetings. <p>\n            The first AI agent to present your slides and attend for you... (Установите API ключ в bot.py)...",
         "content": "Новость: Cedric AI for Meetings. <p>\n            The first AI agent to present your slides and attend for you... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: Nocto. <p>\n            Your MacBook notch, finally useful\n          </p>\n          <p>\n            <... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/nocto",
         "date": "2026-10-31"
-    },
-    {
-        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-        "summary": "Новость: Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says. Th... (Установите API ключ в bot.py)...",
-        "content": "Новость: Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says. Th... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-        "date": "2026-10-30"
     }
 ]
