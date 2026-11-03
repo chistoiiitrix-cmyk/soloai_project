@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cedric AI for Meetings",
+        "summary": "Новость: Cedric AI for Meetings. <p>\n            The first AI agent to present your slides and attend for you... (Установите API ключ в bot.py)...",
+        "content": "Новость: Cedric AI for Meetings. <p>\n            The first AI agent to present your slides and attend for you... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/cedric",
+        "date": "2026-11-03"
+    },
+    {
         "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
         "summary": "Новость: OpenAI is finally merging ChatGPT’s chat and Work tabs. OpenAI said that ChatGPT and Codex will draw... (Установите API ключ в bot.py)...",
         "content": "Новость: OpenAI is finally merging ChatGPT’s chat and Work tabs. OpenAI said that ChatGPT and Codex will draw... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says. Th... (Установите API ключ в bot.py)...",
         "content": "Новость: Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says. Th... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-        "date": "2026-10-30"
-    },
-    {
-        "title": "Cluinn",
-        "summary": "Новость: Cluinn. <p>\n            Answers your questions during the call, not after. For Mac.\n          </p>\n ... (Установите API ключ в bot.py)...",
-        "content": "Новость: Cluinn. <p>\n            Answers your questions during the call, not after. For Mac.\n          </p>\n ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/cluinn",
         "date": "2026-10-30"
     }
 ]
