@@ -1,5 +1,12 @@
 [
     {
+        "title": "Wavefunction",
+        "summary": "Новость: Wavefunction. <p>\n            A minimal, open-source coding agent for your Mac\n          </p>\n      ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Wavefunction. <p>\n            A minimal, open-source coding agent for your Mac\n          </p>\n      ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/wavefunction",
+        "date": "2026-11-03"
+    },
+    {
         "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
         "summary": "Новость: Apple may try to increase revenue by doing…something with third-party AI apps. Apple hinted at ways ... (Установите API ключ в bot.py)...",
         "content": "Новость: Apple may try to increase revenue by doing…something with third-party AI apps. Apple hinted at ways ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: GitHub Copilot Fusion. <p>\n            GitHub's AI coding agent that picks and combines models\n     ... (Установите API ключ в bot.py)...",
         "content": "Новость: GitHub Copilot Fusion. <p>\n            GitHub's AI coding agent that picks and combines models\n     ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/github-copilot-fusion",
-        "date": "2026-10-31"
-    },
-    {
-        "title": "Nocto",
-        "summary": "Новость: Nocto. <p>\n            Your MacBook notch, finally useful\n          </p>\n          <p>\n            <... (Установите API ключ в bot.py)...",
-        "content": "Новость: Nocto. <p>\n            Your MacBook notch, finally useful\n          </p>\n          <p>\n            <... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/nocto",
         "date": "2026-10-31"
     }
 ]
