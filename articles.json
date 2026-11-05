@@ -1,5 +1,12 @@
 [
     {
+        "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+        "summary": "Новость: Box taps Nvidia’s Nemotron for new agent-first content retrieval system. The system can answer queri... (Установите API ключ в bot.py)...",
+        "content": "Новость: Box taps Nvidia’s Nemotron for new agent-first content retrieval system. The system can answer queri... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+        "date": "2026-11-05"
+    },
+    {
         "title": "Apple is reportedly cutting budgets for its internal AI usage",
         "summary": "Новость: Apple is reportedly cutting budgets for its internal AI usage. The company is said to be significant... (Установите API ключ в bot.py)...",
         "content": "Новость: Apple is reportedly cutting budgets for its internal AI usage. The company is said to be significant... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’. Apple's new CEO defended the com... (Установите API ключ в bot.py)...",
         "content": "Новость: Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’. Apple's new CEO defended the com... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-        "date": "2026-11-01"
-    },
-    {
-        "title": "agentmash",
-        "summary": "Новость: agentmash. <p>\n            open-source multiplayer AI for teams' coding agents\n          </p>\n      ... (Установите API ключ в bot.py)...",
-        "content": "Новость: agentmash. <p>\n            open-source multiplayer AI for teams' coding agents\n          </p>\n      ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/agentmash",
         "date": "2026-11-01"
     }
 ]
