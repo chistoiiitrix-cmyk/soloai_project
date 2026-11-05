@@ -1,5 +1,12 @@
 [
     {
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "summary": "Новость: Apple is reportedly cutting budgets for its internal AI usage. The company is said to be significant... (Установите API ключ в bot.py)...",
+        "content": "Новость: Apple is reportedly cutting budgets for its internal AI usage. The company is said to be significant... (Установите API ключ в bot.py)",
+        "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+        "date": "2026-11-05"
+    },
+    {
         "title": "Eyecon",
         "summary": "Новость: Eyecon. <p>\n            Auto pause video when you look away\n          </p>\n          <p>\n           ... (Установите API ключ в bot.py)...",
         "content": "Новость: Eyecon. <p>\n            Auto pause video when you look away\n          </p>\n          <p>\n           ... (Установите API ключ в bot.py)",
@@ -60,13 +67,6 @@
         "summary": "Новость: agentmash. <p>\n            open-source multiplayer AI for teams' coding agents\n          </p>\n      ... (Установите API ключ в bot.py)...",
         "content": "Новость: agentmash. <p>\n            open-source multiplayer AI for teams' coding agents\n          </p>\n      ... (Установите API ключ в bot.py)",
         "link": "https://www.producthunt.com/products/agentmash",
-        "date": "2026-11-01"
-    },
-    {
-        "title": "SpaceO",
-        "summary": "Новость: SpaceO. <p>\n            Give AI agents their own screen on your Mac\n          </p>\n          <p>\n   ... (Установите API ключ в bot.py)...",
-        "content": "Новость: SpaceO. <p>\n            Give AI agents their own screen on your Mac\n          </p>\n          <p>\n   ... (Установите API ключ в bot.py)",
-        "link": "https://www.producthunt.com/products/spaceo",
         "date": "2026-11-01"
     }
 ]
