@@ -1,5 +1,12 @@
 [
     {
+        "title": "Glasshand",
+        "summary": "Новость: Glasshand. <p>\n            Give your agent a real iPhone and Mac\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)...",
+        "content": "Новость: Glasshand. <p>\n            Give your agent a real iPhone and Mac\n          </p>\n          <p>\n      ... (Установите API ключ в bot.py)",
+        "link": "https://www.producthunt.com/products/glasshand",
+        "date": "2026-11-06"
+    },
+    {
         "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
         "summary": "Новость: Box taps Nvidia’s Nemotron for new agent-first content retrieval system. The system can answer queri... (Установите API ключ в bot.py)...",
         "content": "Новость: Box taps Nvidia’s Nemotron for new agent-first content retrieval system. The system can answer queri... (Установите API ключ в bot.py)",
@@ -61,12 +68,5 @@
         "content": "Новость: OpenAI is finally merging ChatGPT’s chat and Work tabs. OpenAI said that ChatGPT and Codex will draw... (Установите API ключ в bot.py)",
         "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
         "date": "2026-11-02"
-    },
-    {
-        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-        "summary": "Новость: Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’. Apple's new CEO defended the com... (Установите API ключ в bot.py)...",
-        "content": "Новость: Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’. Apple's new CEO defended the com... (Установите API ключ в bot.py)",
-        "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-        "date": "2026-11-01"
     }
 ]
